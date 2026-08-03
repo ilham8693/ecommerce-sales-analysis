@@ -1,0 +1,209 @@
+Order_ID,Order_Date,Customer_Name,Customer_Segment,Country,Region,Product_Category,Product_Name,Quantity,Unit_Price,Discount,Sales_Amount,Shipping_Cost,Profit,Payment_Method
+ORD-11271,01-06-2023,Ayumi Ferrari,Home Office,Nigeria,Middle East & Africa,Technology,Laptop Stand Adjustable,,33.91,10,61.04,14.38,9.36,Bank Transfer
+ORD-10847,01-07-2023,Ali Rodriguez,Consumer,Saudi Arabia,Middle East & Africa,Furniture,Folding Table Portable,1.0,58.77,5,55.83,12.03,8.54,Credit Card
+ORD-11886,01-13-2023,Christopher Johansson,Consumer,Nigeria,Middle East & Africa,Furniture,Corner L-Shaped Desk,3.0,358.6,15,914.43,14.74,254.21,Cash on Delivery
+ORD-10846,01-17-2023,Yuki Costa,Corporate,UAE,Middle East & Africa,Office Supplies,Sticky Notes Multicolor 6-Pack,2.0,11.41,5,21.68,15.26,-3.85,Bank Transfer
+ORD-10279,01-20-2023,Ivan Zhang,Consumer,UAE,Middle East & Africa,Office Supplies,Desk Calendar 2025,7.0,10.6,20,59.36,18.26,7.71,Bank Transfer
+ORD-11828,01-24-2023,Sarah Zhang,Home Office,South Africa,Middle East & Africa,Clothing & Accessories,Canvas Messenger Bag,4.0,57.87,20,185.18,13.88,55.56,PayPal
+ORD-10780,01-27-2023,David Anderson,Consumer,Saudi Arabia,Middle East & Africa,Furniture,Ergonomic Office Chair,2.0,212.13,0,424.26,14.72,154.98,Cash on Delivery
+ORD-11858,01-31-2023,Ava Martinez,Corporate,Nigeria,Middle East & Africa,Office Supplies,Binder Clips Assorted 48pc,3.0,8.65,5,24.65,17.04,-4.07,Credit Card
+ORD-10527,02-12-2023,Hanna Ahmed,Consumer,Saudi Arabia,Middle East & Africa,Clothing & Accessories,Travel Backpack 30L,8.0,80.13,25,480.78,18.17,142.09,Bank Transfer
+ORD-11560,02-16-2023,Ayumi Nilsson,Home Office,Nigeria,Middle East & Africa,Technology,Webcam HD 1080p,1.0,48.95,0,48.95,12.32,9.71,PayPal
+ORD-10837,02-19-2023,Jamal Zhang,Consumer,Nigeria,Middle East & Africa,Clothing & Accessories,Leather Belt Classic,3.0,35.6,5,101.46,15.03,33.03,Credit Card
+ORD-11184,03-09-2023,Fatima Kumar,Consumer,UAE,Middle East & Africa,Office Supplies,Premium Notebook Set A5,4.0,22.67,0,90.68,14.32,35.55,Bank Transfer
+ORD-11545,03-13-2023,Susan Kim,Consumer,South Africa,Middle East & Africa,Clothing & Accessories,Travel Backpack 30L,3.0,70.31,0,210.93,15.46,90.0,PayPal
+ORD-10070,03-15-2023,Amir Khan,Corporate,Nigeria,Middle East & Africa,Technology,Portable External SSD 1TB,5.0,149.77,10,673.97,14.48,247.62,PayPal
+ORD-10676,03-17-2023,Wei Chen,Consumer,Saudi Arabia,Middle East & Africa,Technology,Mechanical Gaming Keyboard,3.0,174.46,0,523.38,14.65,220.87,Credit Card
+ORD-10863,03-21-2023,Jessica Anderson,Consumer,UAE,Middle East & Africa,Furniture,Floating Wall Shelves Set,,64.1,5,304.47,17.49,94.68,Credit Card
+ORD-10020,03-23-2023,Pierre Yamamoto,Consumer,Saudi Arabia,Middle East & Africa,Furniture,Folding Table Portable,2.0,90.87,0,181.74,14.68,58.02,Credit Card
+ORD-10252,03-29-2023,Carlos Anderson,Home Office,Saudi Arabia,Middle East & Africa,Clothing & Accessories,Polarized Sunglasses,6.0,30.52,0,183.12,21.14,70.42,Credit Card
+ORD-11000,04-02-2023,Olga Zhang,Corporate,South Africa,Middle East & Africa,Clothing & Accessories,Cotton Formal Shirt,1.0,42.86,5,40.72,12.14,7.15,Bank Transfer
+ORD-11631,04-02-2023,Lucas Kim,Consumer,Saudi Arabia,Middle East & Africa,Furniture,Standing Desk Converter,6.0,241.26,0,1447.56,14.56,564.46,Credit Card
+ORD-11784,04-02-2023,Hans Laurent,Consumer,South Africa,Middle East & Africa,Furniture,Floating Wall Shelves Set,1.0,67.62,0,67.62,11.63,15.42,Cash on Delivery
+ORD-11921,04-14-2023,Priya Jones,Consumer,Saudi Arabia,Middle East & Africa,Office Supplies,Sticky Notes Multicolor 6-Pack,2.0,4.54,0,9.08,13.77,-8.78,PayPal
+ORD-10551,04-15-2023,Sophie Thomas,Consumer,Nigeria,Middle East & Africa,Furniture,Standing Desk Converter,4.0,257.6,25,772.8,19.79,134.77,Bank Transfer
+ORD-10769,04-18-2023,Barbara Thomas,Corporate,UAE,Middle East & Africa,Technology,Wireless Bluetooth Headphones,9.0,67.71,0,609.39,21.43,252.8,PayPal
+ORD-11224,04-22-2023,Zara Patel,Corporate,South Africa,Middle East & Africa,Furniture,Bookshelf 5-Tier,3.0,180.81,20,433.94,18.2,90.28,PayPal
+ORD-11045,05-18-2023,Diego Schmidt,Corporate,South Africa,Middle East & Africa,Furniture,Filing Cabinet 3-Drawer,2.0,214.52,0,429.04,15.39,156.23,Credit Card
+ORD-11394,05-18-2023,Pierre Fischer,Corporate,Saudi Arabia,Middle East & Africa,Furniture,Mesh Back Task Chair,1.0,217.82,25,163.37,12.46,20.22,Credit Card
+ORD-11609,06-06-2023,Emma Zhang,Corporate,Saudi Arabia,Middle East & Africa,Clothing & Accessories,Leather Wallet Minimalist,1.0,31.48,5,29.91,12.24,1.93,PayPal
+ORD-10177,06-07-2023,Wei Romano,Consumer,Nigeria,Middle East & Africa,Technology,Tablet Stand Holder,6.0,24.62,5,140.33,24.76,34.32,Credit Card
+ORD-10772,06-09-2023,William Hassan,Corporate,Saudi Arabia,Middle East & Africa,Technology,Wireless Ergonomic Mouse,1.0,23.01,5,21.86,13.14,-3.94,Credit Card
+ORD-11060,06-09-2023,Ali Johansson,Home Office,Saudi Arabia,Middle East & Africa,Office Supplies,Premium Notebook Set A5,4.0,22.5,15,76.5,20.57,15.43,Cash on Delivery
+ORD-10042,06-17-2023,Amir Thompson,Corporate,South Africa,Middle East & Africa,Furniture,Floating Wall Shelves Set,9.0,33.65,5,287.71,16.74,89.26,Cash on Delivery
+ORD-10876,06-19-2023,Karen Wang,Corporate,Saudi Arabia,Middle East & Africa,Furniture,Standing Desk Converter,4.0,114.01,0,456.04,13.78,168.64,PayPal
+ORD-10546,06-20-2023,Xiao Taylor,Corporate,UAE,Middle East & Africa,Furniture,Monitor Riser Wood,4.0,42.27,15,143.72,16.6,25.67,Bank Transfer
+ORD-10674,06-23-2023,Ahmed Garcia,Corporate,UAE,Middle East & Africa,Clothing & Accessories,Sports Water Bottle 750ml,10.0,14.57,5,138.41,35.54,30.02,PayPal
+ORD-10788,06-26-2023,Michael Martin,Consumer,Saudi Arabia,Middle East & Africa,Office Supplies,Desk Calendar 2025,1.0,19.94,10,17.95,11.66,-2.68,Credit Card
+ORD-11653,06-27-2023,Carlos Rodriguez,Consumer,UAE,Middle East & Africa,Clothing & Accessories,Silk Tie Collection,1.0,26.53,0,26.53,13.43,-0.16,Cash on Delivery
+ORD-11771,06-27-2023,James Tanaka,Consumer,Saudi Arabia,Middle East & Africa,Furniture,Floating Wall Shelves Set,5.0,94.63,0,473.15,18.91,170.35,Credit Card
+ORD-11387,07-01-2023,Marco Harris,Consumer,UAE,Middle East & Africa,Furniture,Corner L-Shaped Desk,1.0,192.58,20,154.06,12.06,26.45,PayPal
+ORD-11603,07-03-2023,Lucas Chen,Corporate,Saudi Arabia,Middle East & Africa,Furniture,Standing Desk Converter,7.0,309.68,20,1734.21,19.94,413.61,Credit Card
+ORD-11019,07-04-2023,Robert Smith,Home Office,South Africa,Middle East & Africa,Furniture,Desk Organizer Set,1.0,24.14,0,24.14,13.18,-3.52,Credit Card
+ORD-10015,07-13-2023,Jamal Harris,Corporate,Saudi Arabia,Middle East & Africa,Technology,Smart LED Desk Lamp,2.0,42.71,20,68.34,12.22,9.14,PayPal
+ORD-10949,07-24-2023,Chen Johnson,Consumer,Nigeria,Middle East & Africa,Furniture,Monitor Riser Wood,2.0,71.01,15,120.72,13.2,22.31,Cash on Delivery
+ORD-11589,07-27-2023,Priya Nilsson,Consumer,UAE,Middle East & Africa,Office Supplies,Stapler Full-Size,1.0,13.41,10,12.07,12.56,-6.52,PayPal
+ORD-11824,07-27-2023,Elizabeth Sato,Consumer,UAE,Middle East & Africa,Furniture,Floating Wall Shelves Set,4.0,75.9,0,303.6,14.96,106.48,PayPal
+ORD-10045,07-28-2023,Sakura Jones,Corporate,Saudi Arabia,Middle East & Africa,Office Supplies,Paper Clips Box 500pc,3.0,8.95,0,26.85,18.4,-3.63,Bank Transfer
+ORD-11680,07-30-2023,Olivia Sharma,Corporate,UAE,Middle East & Africa,Furniture,Monitor Riser Wood,3.0,73.54,15,187.53,13.35,41.81,Bank Transfer
+ORD-11247,07-31-2023,Felix Costa,Home Office,Saudi Arabia,Middle East & Africa,Furniture,Bookshelf 5-Tier,4.0,96.5,20,308.8,14.49,62.71,Bank Transfer
+ORD-11530,08-04-2023,Olivia Rossi,Consumer,Saudi Arabia,Middle East & Africa,Furniture,Folding Table Portable,2.0,44.23,10,79.61,13.7,12.83,PayPal
+ORD-11769,08-06-2023,Liam Johansson,Corporate,South Africa,Middle East & Africa,Office Supplies,Desk Calendar 2025,5.0,9.43,5,44.79,22.42,1.15,Credit Card
+ORD-10783,08-19-2023,Ava Clark,Corporate,Nigeria,Middle East & Africa,Technology,Noise Cancelling Earbuds,1.0,156.51,30,109.56,13.21,10.27,PayPal
+ORD-11293,08-22-2023,Priya Weber,Consumer,Saudi Arabia,Middle East & Africa,Office Supplies,Premium Notebook Set A5,2.0,8.3,5,15.77,15.44,-7.14,PayPal
+ORD-11234,08-24-2023,Ivan Pereira,Home Office,Saudi Arabia,Middle East & Africa,Clothing & Accessories,Leather Belt Classic,14.0,36.74,5,488.64,27.48,203.98,PayPal
+ORD-10023,08-25-2023,Omar Singh,Consumer,South Africa,Middle East & Africa,Clothing & Accessories,Sports Water Bottle 750ml,2.0,11.42,0,22.84,13.37,-1.95,PayPal
+ORD-11657,08-27-2023,Richard Tanaka,Consumer,South Africa,Middle East & Africa,Clothing & Accessories,Silk Tie Collection,3.0,29.47,10,79.57,14.83,20.53,Credit Card
+ORD-10201,08-29-2023,Ayumi Martin,Consumer,Nigeria,Middle East & Africa,Office Supplies,Sticky Notes Multicolor 6-Pack,5.0,6.31,10,28.39,22.11,-7.92,PayPal
+ORD-11780,08-31-2023,Clara Tanaka,Corporate,UAE,Middle East & Africa,Technology,Tablet Stand Holder,3.0,20.28,0,60.84,15.83,11.55,Credit Card
+ORD-11533,09-06-2023,Jamal Clark,Consumer,South Africa,Middle East & Africa,Technology,Smart LED Desk Lamp,1.0,27.11,5,25.75,13.15,-2.31,Bank Transfer
+ORD-10500,09-09-2023,Sakura Ali,Consumer,Nigeria,Middle East & Africa,Technology,Smart LED Desk Lamp,2.0,61.26,10,110.27,14.33,28.55,Credit Card
+ORD-10955,09-20-2023,James Clark,Consumer,South Africa,Middle East & Africa,Furniture,Floating Wall Shelves Set,4.0,55.59,10,200.12,16.82,49.88,Bank Transfer
+ORD-10231,09-25-2023,Sarah Davis,Consumer,Saudi Arabia,Middle East & Africa,Technology,Smart LED Desk Lamp,4.0,43.61,10,157.0,17.66,43.4,Credit Card
+ORD-10210,09-28-2023,Mary Smith,Corporate,Nigeria,Middle East & Africa,Furniture,Filing Cabinet 3-Drawer,5.0,145.12,0,725.6,16.63,273.61,Cash on Delivery
+ORD-11699,09-29-2023,Emma Martinez,Home Office,Nigeria,Middle East & Africa,Technology,Tablet Stand Holder,,36.61,15,124.47,16.07,27.86,Credit Card
+ORD-10137,10-02-2023,Jamal Robinson,Corporate,Nigeria,Middle East & Africa,Clothing & Accessories,Wool Blend Scarf,2.0,49.37,10,88.87,14.28,25.22,Credit Card
+ORD-10196,10-02-2023,Carlos Santos,Corporate,UAE,Middle East & Africa,Furniture,Filing Cabinet 3-Drawer,1.0,131.91,15,112.12,12.52,20.45,PayPal
+ORD-11763,10-04-2023,Diego Pereira,Home Office,Nigeria,Middle East & Africa,Clothing & Accessories,Wool Blend Scarf,3.0,59.55,0,178.65,14.68,74.65,PayPal
+ORD-11453,10-07-2023,Patricia Martinez,Home Office,UAE,Middle East & Africa,Office Supplies,Sticky Notes Multicolor 6-Pack,3.0,12.07,15,30.78,17.69,-3.2,PayPal
+ORD-10489,10-08-2023,Richard Moreau,Corporate,UAE,Middle East & Africa,Furniture,Desk Organizer Set,2.0,50.05,25,75.07,12.65,2.36,Credit Card
+ORD-11226,10-08-2023,Sarah Li,Consumer,Saudi Arabia,Middle East & Africa,Furniture,Floating Wall Shelves Set,5.0,85.91,5,408.07,19.75,130.59,PayPal
+ORD-10791,10-11-2023,Maria Tanaka,Corporate,UAE,Middle East & Africa,Furniture,Desk Organizer Set,4.0,37.67,10,135.61,15.83,29.37,PayPal
+ORD-10455,10-14-2023,Amir Park,Consumer,UAE,Middle East & Africa,Office Supplies,Stapler Full-Size,2.0,18.53,15,31.5,15.09,-0.27,PayPal
+ORD-11216,10-17-2023,Maria Costa,Corporate,South Africa,Middle East & Africa,Office Supplies,Binder Clips Assorted 48pc,3.0,9.45,25,21.26,14.95,-6.45,PayPal
+ORD-11062,10-18-2023,Robert Clark,Corporate,South Africa,Middle East & Africa,Technology,Mechanical Gaming Keyboard,4.0,65.64,25,196.92,19.34,33.17,Cash on Delivery
+ORD-11417,10-18-2023,Jessica Weber,Home Office,Saudi Arabia,Middle East & Africa,Clothing & Accessories,Cotton Formal Shirt,3.0,38.42,0,115.26,18.1,39.53,Credit Card
+ORD-10007,10-20-2023,Li Sharma,Consumer,Nigeria,Middle East & Africa,Technology,Mechanical Gaming Keyboard,3.0,146.85,10,396.49,15.07,139.12,PayPal
+ORD-11295,11-01-2023,Kenji Martin,Home Office,Nigeria,Middle East & Africa,Technology,Tablet Stand Holder,1.0,17.56,0,17.56,13.21,-5.31,Credit Card
+ORD-11949,11-02-2023,Fatima Yamamoto,Consumer,South Africa,Middle East & Africa,Office Supplies,Binder Clips Assorted 48pc,6.0,14.97,5,85.33,22.3,22.61,PayPal
+ORD-11316,12-06-2023,Richard Yamamoto,Consumer,UAE,Middle East & Africa,Furniture,Monitor Riser Wood,3.0,66.28,0,198.84,16.2,63.34,PayPal
+ORD-10658,12-11-2023,Isabella Johansson,Consumer,Nigeria,Middle East & Africa,Clothing & Accessories,Cotton Formal Shirt,3.0,44.11,0,132.33,13.52,52.65,Cash on Delivery
+ORD-11337,12-14-2023,Diego Anderson,Consumer,Nigeria,Middle East & Africa,Clothing & Accessories,Leather Wallet Minimalist,1.0,32.68,5,31.05,13.1,1.61,Credit Card
+ORD-10126,12-20-2023,Diego Thomas,Consumer,Nigeria,Middle East & Africa,Clothing & Accessories,Leather Wallet Minimalist,6.0,64.86,20,311.33,25.84,90.91,PayPal
+ORD-11345,12-20-2023,Isabella Johnson,Consumer,Saudi Arabia,Middle East & Africa,Furniture,Floating Wall Shelves Set,,94.69,10,340.88,14.7,98.92,Credit Card
+ORD-10127,12-23-2023,David Leroy,Corporate,Saudi Arabia,Middle East & Africa,Office Supplies,Tape Dispenser Heavy Duty,12.0,11.81,15,120.46,22.68,34.01,PayPal
+ORD-11861,01-13-2024,Maria Khan,Home Office,South Africa,Middle East & Africa,Technology,Portable External SSD 1TB,2.0,75.67,0,151.34,12.13,55.97,Credit Card
+ORD-11107,01-16-2024,Ayumi Martinez,Consumer,South Africa,Middle East & Africa,Furniture,Floating Wall Shelves Set,7.0,34.67,10,218.42,22.52,50.29,Bank Transfer
+ORD-10004,01-29-2024,Amir Garcia,Corporate,South Africa,Middle East & Africa,Technology,Mechanical Gaming Keyboard,12.0,150.5,20,1444.8,37.8,413.7,Credit Card
+ORD-11705,02-11-2024,Jennifer Martinez,Corporate,UAE,Middle East & Africa,Technology,Wireless Ergonomic Mouse,2.0,22.02,5,41.84,13.18,4.44,Cash on Delivery
+ORD-11263,02-14-2024,Susan Zhang,Consumer,Saudi Arabia,Middle East & Africa,Clothing & Accessories,Business Casual Blazer,4.0,108.96,0,435.84,18.91,199.01,Cash on Delivery
+ORD-10292,02-16-2024,Omar Costa,Corporate,Saudi Arabia,Middle East & Africa,Office Supplies,Whiteboard Markers Set 8,1.0,20.74,15,17.63,13.45,-5.15,Credit Card
+ORD-11059,02-27-2024,Patricia Clark,Consumer,South Africa,Middle East & Africa,Office Supplies,Whiteboard Markers Set 8,2.0,13.33,15,22.66,15.68,-5.02,PayPal
+ORD-11835,03-05-2024,Noah Clark,Corporate,UAE,Middle East & Africa,Technology,Wireless Bluetooth Headphones,3.0,187.55,15,478.25,15.41,153.38,Cash on Delivery
+ORD-10531,03-10-2024,William Smith,Consumer,Nigeria,Middle East & Africa,Office Supplies,Stapler Full-Size,1.0,10.33,0,10.33,12.17,-6.49,Credit Card
+ORD-11961,03-13-2024,Nadia Johansson,Home Office,Nigeria,Middle East & Africa,Furniture,Mesh Back Task Chair,4.0,119.66,10,430.78,18.85,124.75,PayPal
+ORD-11956,03-16-2024,Hanna Müller,Consumer,Saudi Arabia,Middle East & Africa,Technology,Noise Cancelling Earbuds,3.0,187.16,0,561.48,15.51,237.16,Cash on Delivery
+ORD-10040,03-27-2024,Ava Clark,Corporate,Nigeria,Middle East & Africa,Technology,Wireless Ergonomic Mouse,2.0,21.45,15,36.46,13.62,-0.76,Credit Card
+ORD-11914,03-27-2024,Xiao Ali,Corporate,Saudi Arabia,Middle East & Africa,Furniture,Filing Cabinet 3-Drawer,7.0,140.89,15,838.3,16.01,230.55,PayPal
+ORD-10250,04-10-2024,Richard Garcia,Corporate,Nigeria,Middle East & Africa,Office Supplies,Binder Clips Assorted 48pc,2.0,14.0,10,25.2,15.47,-2.87,PayPal
+ORD-11141,04-14-2024,Hans Müller,Consumer,UAE,Middle East & Africa,Office Supplies,Stapler Full-Size,2.0,10.3,5,19.57,12.16,-1.86,Cash on Delivery
+ORD-10075,04-16-2024,Michael Ferrari,Corporate,South Africa,Middle East & Africa,Office Supplies,Whiteboard Markers Set 8,1.0,9.5,5,9.03,13.01,-8.26,Bank Transfer
+ORD-10057,04-23-2024,Ali Wang,Consumer,UAE,Middle East & Africa,Clothing & Accessories,Travel Backpack 30L,8.0,82.89,5,629.96,23.71,274.69,PayPal
+ORD-11583,04-26-2024,Wei Li,Consumer,South Africa,Middle East & Africa,Furniture,Mesh Back Task Chair,15.0,107.45,5,1531.16,23.4,540.71,Credit Card
+ORD-10373,05-07-2024,Oscar Kim,Corporate,South Africa,Middle East & Africa,Office Supplies,Sticky Notes Multicolor 6-Pack,3.0,8.13,15,20.73,14.66,-4.91,PayPal
+ORD-10721,05-11-2024,Sarah Robinson,Consumer,Nigeria,Middle East & Africa,Technology,Mechanical Gaming Keyboard,1.0,57.26,20,45.81,12.91,1.41,Credit Card
+ORD-11104,05-14-2024,Zara White,Consumer,UAE,Middle East & Africa,Office Supplies,Ballpoint Pen Pack 12,5.0,10.88,5,51.68,16.95,10.25,Credit Card
+ORD-10796,05-21-2024,David Smith,Consumer,UAE,Middle East & Africa,Technology,Wireless Ergonomic Mouse,3.0,21.23,5,60.51,18.06,7.42,Credit Card
+ORD-11287,05-26-2024,James White,Corporate,UAE,Middle East & Africa,Technology,Wireless Bluetooth Headphones,8.0,171.31,10,1233.43,22.94,456.73,Cash on Delivery
+ORD-10595,05-27-2024,Richard Johnson,Consumer,South Africa,Middle East & Africa,Technology,Wireless Ergonomic Mouse,2.0,31.92,0,63.84,13.33,15.4,Bank Transfer
+ORD-11658,05-29-2024,Hanna Kim,Consumer,Saudi Arabia,Middle East & Africa,Office Supplies,Desk Calendar 2025,1.0,14.73,0,14.73,12.36,-4.26,Credit Card
+ORD-10898,05-31-2024,Diego Schmidt,Consumer,South Africa,Middle East & Africa,Furniture,Monitor Riser Wood,1.0,67.18,0,67.18,12.09,14.78,PayPal
+ORD-11737,06-14-2024,Sarah Jackson,Corporate,South Africa,Middle East & Africa,Technology,Noise Cancelling Earbuds,2.0,187.45,15,318.66,15.26,97.21,Cash on Delivery
+ORD-11747,06-21-2024,Ava Patel,Home Office,Nigeria,Middle East & Africa,Clothing & Accessories,Cotton Formal Shirt,2.0,34.14,5,64.87,13.94,16.79,PayPal
+ORD-11466,06-24-2024,Oscar Miller,Corporate,Saudi Arabia,Middle East & Africa,Technology,Webcam HD 1080p,1.0,68.39,20,54.71,12.38,4.72,Bank Transfer
+ORD-11343,07-15-2024,Amina Romano,Corporate,UAE,Middle East & Africa,Clothing & Accessories,Leather Belt Classic,1.0,25.15,20,20.12,13.22,-5.67,Cash on Delivery
+ORD-10810,08-12-2024,Nadia Wang,Consumer,Saudi Arabia,Middle East & Africa,Technology,Tablet Stand Holder,3.0,24.66,10,66.58,14.37,11.52,PayPal
+ORD-11959,09-04-2024,Ali Patel,Consumer,Saudi Arabia,Middle East & Africa,Technology,Tablet Stand Holder,8.0,29.9,0,239.2,15.61,92.03,PayPal
+ORD-11314,09-06-2024,David Suzuki,Consumer,UAE,Middle East & Africa,Technology,Laptop Stand Adjustable,5.0,57.26,10,257.67,17.08,83.12,Bank Transfer
+ORD-10426,09-15-2024,Ayumi Thomas,Consumer,South Africa,Middle East & Africa,Clothing & Accessories,Polarized Sunglasses,8.0,62.5,25,375.0,24.32,100.68,PayPal
+ORD-11938,09-16-2024,Isabella Johansson,Corporate,South Africa,Middle East & Africa,Furniture,Folding Table Portable,2.0,73.07,15,124.22,13.98,22.56,Credit Card
+ORD-10879,09-29-2024,Carlos Patel,Corporate,UAE,Middle East & Africa,Technology,Webcam HD 1080p,3.0,37.06,20,88.94,13.02,14.77,Cash on Delivery
+ORD-10517,10-04-2024,Diego Johansson,Consumer,UAE,Middle East & Africa,Office Supplies,Ballpoint Pen Pack 12,2.0,16.71,5,31.75,14.63,2.08,Credit Card
+ORD-10412,10-06-2024,Nadia Taylor,Corporate,South Africa,Middle East & Africa,Office Supplies,Paper Clips Box 500pc,3.0,5.9,5,16.82,15.21,-6.36,Cash on Delivery
+ORD-10391,10-14-2024,Jessica Taylor,Consumer,UAE,Middle East & Africa,Clothing & Accessories,Polarized Sunglasses,2.0,77.59,10,139.66,15.29,46.78,PayPal
+ORD-11269,10-17-2024,Sophie Johansson,Corporate,Saudi Arabia,Middle East & Africa,Office Supplies,Paper Clips Box 500pc,1.0,4.87,15,4.14,12.43,-10.48,Bank Transfer
+ORD-10939,10-19-2024,Lucas Park,Consumer,Saudi Arabia,Middle East & Africa,Furniture,Corner L-Shaped Desk,1.0,239.53,25,179.65,12.02,23.91,PayPal
+ORD-10540,10-23-2024,Thomas Jackson,Home Office,South Africa,Middle East & Africa,Office Supplies,Ballpoint Pen Pack 12,3.0,12.11,0,36.33,14.03,5.95,Credit Card
+ORD-10707,10-26-2024,Giulia Li,Consumer,South Africa,Middle East & Africa,Clothing & Accessories,Business Casual Blazer,1.0,130.63,20,104.5,11.85,27.34,Cash on Delivery
+ORD-11502,10-31-2024,Fatima Singh,Corporate,UAE,Middle East & Africa,Clothing & Accessories,Cotton Formal Shirt,12.0,61.78,5,704.29,20.35,313.26,PayPal
+ORD-11716,10-31-2024,Barbara Moreau,Home Office,South Africa,Middle East & Africa,Office Supplies,Desk Calendar 2025,2.0,17.35,0,34.7,14.15,4.94,PayPal
+ORD-11506,11-21-2024,Clara Miller,Corporate,South Africa,Middle East & Africa,Furniture,Standing Desk Converter,5.0,239.49,5,1137.58,17.88,401.23,PayPal
+ORD-10812,12-09-2024,Linda Harris,Consumer,UAE,Middle East & Africa,Clothing & Accessories,Polarized Sunglasses,4.0,55.09,0,220.36,17.41,92.77,Cash on Delivery
+ORD-10494,12-13-2024,Ethan Johnson,Consumer,South Africa,Middle East & Africa,Furniture,Floating Wall Shelves Set,4.0,84.66,5,321.71,13.55,104.98,Bank Transfer
+ORD-10815,12-21-2024,Sarah Davis,Consumer,South Africa,Middle East & Africa,Technology,Smart LED Desk Lamp,1.0,70.9,0,70.9,11.52,20.39,PayPal
+ORD-11880,12-24-2024,Richard Park,Consumer,Nigeria,Middle East & Africa,Technology,Smart LED Desk Lamp,1.0,44.65,5,42.42,13.09,4.77,Credit Card
+ORD-11426,12-26-2024,Jamal Chen,Corporate,Saudi Arabia,Middle East & Africa,Technology,Mechanical Gaming Keyboard,1.0,105.02,10,94.52,11.57,25.19,Credit Card
+ORD-11517,12-30-2024,Zara Davis,Home Office,UAE,Middle East & Africa,Office Supplies,Stapler Full-Size,2.0,12.97,15,22.05,14.41,-4.03,Credit Card
+ORD-10808,12-31-2024,Yuki Costa,Consumer,South Africa,Middle East & Africa,Office Supplies,Tape Dispenser Heavy Duty,5.0,22.51,5,106.92,19.75,36.52,Cash on Delivery
+ORD-11036,01-03-2025,David Rossi,Consumer,Nigeria,Middle East & Africa,Furniture,Corner L-Shaped Desk,3.0,219.08,5,624.38,16.97,213.07,Credit Card
+ORD-10215,01-18-2025,Liam Rodriguez,Consumer,Nigeria,Middle East & Africa,Technology,Wireless Ergonomic Mouse,5.0,67.72,0,338.6,14.18,138.19,Credit Card
+ORD-11282,01-21-2025,Amir Rodriguez,Consumer,Saudi Arabia,Middle East & Africa,Furniture,Mesh Back Task Chair,1.0,266.33,10,239.7,12.81,67.09,Bank Transfer
+ORD-10022,01-26-2025,Giulia Rodriguez,Home Office,Saudi Arabia,Middle East & Africa,Furniture,Floating Wall Shelves Set,4.0,79.25,20,253.6,18.23,45.17,Credit Card
+ORD-10802,02-10-2025,Omar Yamamoto,Consumer,Nigeria,Middle East & Africa,Office Supplies,Desk Calendar 2025,8.0,14.06,15,95.61,23.41,21.58,Credit Card
+ORD-10481,03-01-2025,Lucas Yamamoto,Consumer,South Africa,Middle East & Africa,Technology,Webcam HD 1080p,2.0,48.49,10,87.28,12.86,21.08,Cash on Delivery
+ORD-11166,03-10-2025,Hans Müller,Consumer,Nigeria,Middle East & Africa,Furniture,Corner L-Shaped Desk,1.0,418.59,0,418.59,12.47,154.97,Credit Card
+ORD-11584,03-18-2025,Richard Zhang,Corporate,Saudi Arabia,Middle East & Africa,Technology,Smart LED Desk Lamp,4.0,67.37,10,242.53,15.81,78.51,PayPal
+ORD-10889,03-21-2025,Layla Johansson,Corporate,Nigeria,Middle East & Africa,Technology,USB-C Hub Multiport Adapter,1.0,29.02,5,27.57,11.87,-0.26,Cash on Delivery
+ORD-11221,03-27-2025,Olivia Kim,Consumer,South Africa,Middle East & Africa,Technology,Portable External SSD 1TB,2.0,136.48,15,232.02,15.42,66.47,Bank Transfer
+ORD-10774,03-30-2025,Lucas Tanaka,Home Office,Saudi Arabia,Middle East & Africa,Technology,USB-C Hub Multiport Adapter,9.0,50.88,10,412.13,17.34,142.93,PayPal
+ORD-10976,04-01-2025,Ahmed Jackson,Corporate,South Africa,Middle East & Africa,Office Supplies,Desk Calendar 2025,6.0,17.83,5,101.63,21.4,32.09,Bank Transfer
+ORD-11410,04-10-2025,William Wang,Home Office,Nigeria,Middle East & Africa,Technology,Portable External SSD 1TB,3.0,93.28,10,251.86,18.0,79.95,PayPal
+ORD-11126,04-11-2025,David Park,Consumer,Nigeria,Middle East & Africa,Clothing & Accessories,Leather Belt Classic,11.0,31.57,5,329.91,24.65,131.63,Credit Card
+ORD-11219,04-11-2025,Olga Ali,Consumer,Saudi Arabia,Middle East & Africa,Office Supplies,Whiteboard Markers Set 8,1.0,14.71,10,13.24,11.69,-5.07,PayPal
+ORD-10080,04-16-2025,Hans Sharma,Consumer,South Africa,Middle East & Africa,Technology,Wireless Bluetooth Headphones,2.0,238.98,5,454.06,12.39,178.79,Cash on Delivery
+ORD-10187,04-17-2025,Wei Müller,Corporate,UAE,Middle East & Africa,Office Supplies,Desk Calendar 2025,1.0,14.87,15,12.64,12.93,-6.98,Bank Transfer
+ORD-10198,04-17-2025,Mary Weber,Consumer,Nigeria,Middle East & Africa,Office Supplies,Binder Clips Assorted 48pc,2.0,12.81,0,25.62,14.26,-0.17,Bank Transfer
+ORD-11078,04-20-2025,Layla Leroy,Corporate,Saudi Arabia,Middle East & Africa,Technology,USB-C Hub Multiport Adapter,4.0,46.7,0,186.8,17.05,67.01,Credit Card
+ORD-11416,04-25-2025,Liam Clark,Consumer,Nigeria,Middle East & Africa,Technology,Wireless Ergonomic Mouse,10.0,31.3,10,281.7,16.36,93.19,PayPal
+ORD-11772,04-28-2025,Christopher Tanaka,Home Office,South Africa,Middle East & Africa,Office Supplies,Stapler Full-Size,8.0,17.87,20,114.37,18.77,31.27,PayPal
+ORD-10490,05-04-2025,Hans Costa,Consumer,UAE,Middle East & Africa,Furniture,Standing Desk Converter,1.0,129.14,0,129.14,12.2,39.46,PayPal
+ORD-11989,05-13-2025,Fatima Davis,Consumer,Saudi Arabia,Middle East & Africa,Clothing & Accessories,Silk Tie Collection,4.0,14.92,5,56.7,15.14,11.72,Credit Card
+ORD-11459,05-14-2025,Lucas Brown,Consumer,South Africa,Middle East & Africa,Furniture,Bookshelf 5-Tier,2.0,122.78,15,208.73,15.69,45.7,Credit Card
+ORD-11729,05-16-2025,Oscar Miller,Home Office,South Africa,Middle East & Africa,Technology,Wireless Bluetooth Headphones,6.0,105.75,0,634.5,19.06,266.46,Cash on Delivery
+ORD-11916,05-16-2025,Barbara Weber,Corporate,Nigeria,Middle East & Africa,Furniture,Floating Wall Shelves Set,2.0,39.94,5,75.89,15.43,12.53,PayPal
+ORD-11521,05-20-2025,Michael Miller,Corporate,South Africa,Middle East & Africa,Office Supplies,Sticky Notes Multicolor 6-Pack,7.0,7.22,10,45.49,24.79,-2.04,PayPal
+ORD-11571,05-20-2025,Olivia Clark,Corporate,UAE,Middle East & Africa,Furniture,Monitor Riser Wood,1.0,46.37,0,46.37,12.69,5.86,Bank Transfer
+ORD-10534,05-30-2025,Thomas Weber,Home Office,South Africa,Middle East & Africa,Technology,Portable External SSD 1TB,5.0,115.16,5,547.01,16.63,213.69,Cash on Delivery
+ORD-10622,06-04-2025,Nadia Pereira,Consumer,South Africa,Middle East & Africa,Clothing & Accessories,Leather Wallet Minimalist,3.0,22.94,5,65.38,13.72,17.25,Bank Transfer
+ORD-11800,06-08-2025,Ethan Jones,Consumer,South Africa,Middle East & Africa,Clothing & Accessories,Leather Belt Classic,2.0,49.74,0,99.48,14.2,35.54,Credit Card
+ORD-10304,06-10-2025,Li Pereira,Corporate,Saudi Arabia,Middle East & Africa,Office Supplies,Ballpoint Pen Pack 12,1.0,14.71,10,13.24,12.16,-5.54,Credit Card
+ORD-10797,06-18-2025,Amina Taylor,Home Office,South Africa,Middle East & Africa,Clothing & Accessories,Travel Backpack 30L,1.0,39.86,0,39.86,11.78,8.15,Bank Transfer
+ORD-10630,06-24-2025,Carlos Jackson,Corporate,Saudi Arabia,Middle East & Africa,Office Supplies,Tape Dispenser Heavy Duty,4.0,18.9,20,60.48,16.12,10.34,Credit Card
+ORD-11865,06-25-2025,Olga Yamamoto,Consumer,UAE,Middle East & Africa,Technology,Wireless Ergonomic Mouse,1.0,34.77,0,34.77,11.76,3.89,Credit Card
+ORD-10656,06-28-2025,Emma Johnson,Corporate,South Africa,Middle East & Africa,Technology,Wireless Ergonomic Mouse,4.0,40.01,0,160.04,16.42,55.6,Cash on Delivery
+ORD-11983,07-06-2025,Clara Sharma,Consumer,South Africa,Middle East & Africa,Furniture,Floating Wall Shelves Set,6.0,75.93,5,432.8,17.42,142.03,PayPal
+ORD-10959,07-14-2025,Ethan Thomas,Corporate,Nigeria,Middle East & Africa,Clothing & Accessories,Leather Wallet Minimalist,3.0,46.07,0,138.21,14.18,54.93,Bank Transfer
+ORD-11150,07-16-2025,Emma Sharma,Consumer,UAE,Middle East & Africa,Technology,Tablet Stand Holder,12.0,29.22,20,280.51,32.57,55.09,PayPal
+ORD-11214,07-23-2025,Hanna Park,Corporate,South Africa,Middle East & Africa,Technology,Noise Cancelling Earbuds,3.0,87.29,10,235.68,14.8,76.85,Cash on Delivery
+ORD-10397,08-02-2025,Yuki Robinson,Consumer,South Africa,Middle East & Africa,Technology,Portable External SSD 1TB,1.0,115.18,5,109.42,11.78,34.29,Bank Transfer
+ORD-10410,08-05-2025,Karen Patel,Consumer,South Africa,Middle East & Africa,Office Supplies,Binder Clips Assorted 48pc,1.0,15.21,5,14.45,12.63,-5.02,PayPal
+ORD-10369,08-16-2025,Wei Sharma,Consumer,UAE,Middle East & Africa,Clothing & Accessories,Business Casual Blazer,5.0,79.7,15,338.72,21.72,117.75,Bank Transfer
+ORD-11354,08-25-2025,Olga Leroy,Corporate,UAE,Middle East & Africa,Furniture,Corner L-Shaped Desk,1.0,377.92,0,377.92,13.11,138.06,PayPal
+ORD-11990,09-02-2025,Jennifer Clark,Corporate,Saudi Arabia,Middle East & Africa,Office Supplies,Stapler Full-Size,2.0,11.64,10,20.95,13.33,-2.86,Credit Card
+ORD-11087,09-05-2025,Thomas Oliveira,Corporate,UAE,Middle East & Africa,Furniture,Standing Desk Converter,1.0,241.54,15,205.31,13.18,47.21,Credit Card
+ORD-10166,09-08-2025,Jennifer Pereira,Consumer,Saudi Arabia,Middle East & Africa,Technology,Webcam HD 1080p,8.0,48.19,0,385.52,18.04,155.44,Bank Transfer
+ORD-10111,09-11-2025,Sakura Nilsson,Corporate,UAE,Middle East & Africa,Clothing & Accessories,Sports Water Bottle 750ml,4.0,28.55,10,102.78,14.0,31.68,Credit Card
+ORD-10282,09-16-2025,Patricia Pereira,Corporate,Saudi Arabia,Middle East & Africa,Clothing & Accessories,Cotton Formal Shirt,,64.38,0,128.76,14.62,49.76,Credit Card
+ORD-10319,09-24-2025,Hans Laurent,Consumer,South Africa,Middle East & Africa,Office Supplies,Stapler Full-Size,7.0,7.09,5,47.15,17.72,7.1,PayPal
+ORD-10689,09-26-2025,Layla Sharma,Corporate,Nigeria,Middle East & Africa,Technology,Wireless Bluetooth Headphones,2.0,171.18,10,308.12,12.02,107.8,Cash on Delivery
+ORD-10204,09-29-2025,Sophie Martinez,Corporate,Nigeria,Middle East & Africa,Technology,Portable External SSD 1TB,2.0,116.5,0,233.0,15.18,89.67,Bank Transfer
+ORD-10542,09-29-2025,Thomas Hassan,Corporate,Saudi Arabia,Middle East & Africa,Furniture,Mesh Back Task Chair,3.0,190.05,10,513.14,17.04,154.01,Bank Transfer
+ORD-11984,10-01-2025,Linda Khan,Consumer,UAE,Middle East & Africa,Technology,Portable External SSD 1TB,2.0,109.17,5,207.42,13.67,73.66,PayPal
+ORD-11096,10-10-2025,Felix Smith,Consumer,South Africa,Middle East & Africa,Furniture,Floating Wall Shelves Set,2.0,70.85,10,127.53,12.8,29.71,Credit Card
+ORD-10930,10-12-2025,Maria Weber,Consumer,Nigeria,Middle East & Africa,Technology,Laptop Stand Adjustable,4.0,66.82,0,267.28,19.9,100.38,Credit Card
+ORD-11752,10-16-2025,Ahmed Rodriguez,Home Office,South Africa,Middle East & Africa,Furniture,Bookshelf 5-Tier,4.0,107.74,10,387.86,18.57,110.71,Credit Card
+ORD-11646,10-28-2025,Zara Suzuki,Consumer,South Africa,Middle East & Africa,Office Supplies,Whiteboard Markers Set 8,3.0,17.76,15,45.29,15.75,5.56,Cash on Delivery
+ORD-11413,11-06-2025,Mary Rossi,Consumer,South Africa,Middle East & Africa,Technology,Webcam HD 1080p,2.0,41.12,0,82.24,15.15,21.86,Credit Card
+ORD-11674,11-08-2025,Mary Fischer,Consumer,Saudi Arabia,Middle East & Africa,Clothing & Accessories,Cotton Formal Shirt,3.0,53.65,5,152.9,13.46,58.97,Credit Card
+ORD-11367,11-20-2025,Jamal Park,Consumer,UAE,Middle East & Africa,Clothing & Accessories,Leather Wallet Minimalist,2.0,25.11,5,47.71,12.85,9.75,Bank Transfer
+ORD-10130,11-27-2025,Thomas Suzuki,Corporate,UAE,Middle East & Africa,Technology,USB-C Hub Multiport Adapter,8.0,27.29,5,207.4,30.16,57.16,PayPal
+ORD-11648,12-03-2025,Lucas Clark,Home Office,South Africa,Middle East & Africa,Furniture,Floating Wall Shelves Set,1.0,41.13,5,39.07,13.01,1.38,PayPal
+ORD-10864,12-06-2025,Olga Robinson,Corporate,South Africa,Middle East & Africa,Furniture,Desk Organizer Set,1.0,40.37,5,38.35,12.87,1.26,Bank Transfer
+ORD-10352,12-08-2025,Chen Patel,Corporate,Nigeria,Middle East & Africa,Office Supplies,Tape Dispenser Heavy Duty,2.0,13.26,10,23.87,15.22,-3.28,PayPal
+ORD-11596,12-08-2025,Richard Romano,Corporate,Nigeria,Middle East & Africa,Furniture,Desk Organizer Set,4.0,56.46,0,225.84,20.67,69.67,Credit Card
+ORD-11404,12-10-2025,Karen Garcia,Corporate,South Africa,Middle East & Africa,Technology,Portable External SSD 1TB,1.0,87.05,25,65.29,12.28,5.13,Credit Card
+ORD-10760,12-15-2025,Marco Taylor,Consumer,South Africa,Middle East & Africa,Furniture,Filing Cabinet 3-Drawer,3.0,242.14,15,617.46,15.04,166.57,Bank Transfer
+ORD-10186,12-17-2025,Sophie Khan,Consumer,Nigeria,Middle East & Africa,Technology,Noise Cancelling Earbuds,5.0,68.79,0,343.95,20.77,134.01,Cash on Delivery
+ORD-11034,12-22-2025,Ali Jackson,Consumer,Saudi Arabia,Middle East & Africa,Technology,Portable External SSD 1TB,1.0,85.33,0,85.33,12.49,25.91,Cash on Delivery
+ORD-11612,12-24-2025,Xiao Davis,Consumer,Nigeria,Middle East & Africa,Clothing & Accessories,Silk Tie Collection,4.0,30.28,0,121.12,16.89,43.67,Credit Card
+ORD-10577,12-25-2025,Yuki Kim,Consumer,UAE,Middle East & Africa,Technology,Wireless Bluetooth Headphones,1.0,101.37,15,86.16,13.18,17.23,PayPal

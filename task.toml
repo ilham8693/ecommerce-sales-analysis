@@ -1,0 +1,25 @@
+[task]
+name = "swarmbench/ecommerce-sales-analysis-multi-shard"
+description = "Clean and consolidate 5 regional sales data CSV shards, resolving schema mismatches, custom date formats, duplicates, and missing quantities, then generate a unified global and regional summary JSON report."
+
+[metadata]
+verifier_type = "executable"
+domain = "data-analysis"
+coordination_pattern = "fan-out-synthesize"
+human_solving_hours_estimate = 4.0
+human_solving_hours_justification = "The task requires inspecting 5 separate regional files, identifying individual schema mappings (renamed columns, custom date formats), writing python scripts to clean and map each file correctly, and aggregating them into a specific nested JSON structure with metadata, global summary, and regional details. A human analyst would spend about 4 hours writing, testing, and verifying the scripts."
+estimated_sub_agents = 6
+input_token_estimate = 150000
+reference_link = "https://github.com/harbor-framework/harbor"
+why_multi_agent = "The dataset has 2,000 records split across 5 CSV files, each with distinct schema modifications, duplicate counts, date formats, and imputation rules. A single agent processing this sequentially often gets confused by the varying rules, forgets schema changes between regions, mixes up customer segments or column renames, or times out. A multi-agent framework decomposes this into 5 independent parallel clean/map agents and 1 synthesizer agent that reconciles them, leading to a much more accurate and robust result."
+
+[agent]
+timeout_sec = 600
+
+[verifier]
+timeout_sec = 300
+
+[environment]
+cpus = 2
+memory_mb = 4096
+build_timeout_sec = 600

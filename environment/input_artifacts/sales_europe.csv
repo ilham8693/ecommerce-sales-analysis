@@ -1,0 +1,507 @@
+Order_ID,Date,Customer_Name,Segment,Country,Region,Product_Category,Product_Name,Quantity,Unit_Price,Discount_Percent,Total_Sales,Shipping_Cost,Profit,Payment_Method
+ORD-11244,02/01/2023,John Johansson,Corporate,Spain,Europe,Technology,Mechanical Gaming Keyboard,4,97.93,20,313.38,14.31,83.62,Cash on Delivery
+ORD-10467,03/01/2023,Clara Taylor,Corporate,Italy,Europe,Technology,Webcam HD 1080p,2,61.86,15,105.16,10.79,26.32,PayPal
+ORD-11454,05/01/2023,Felix Thomas,Consumer,Italy,Europe,Furniture,Standing Desk Converter,4,330.67,20,1058.14,11.09,253.44,Credit Card
+ORD-11499,08/01/2023,Kenji Rossi,Corporate,Spain,Europe,Office Supplies,Paper Clips Box 500pc,3,7.8,10,21.06,12.61,-2.08,Cash on Delivery
+ORD-10271,09/01/2023,Mary Khan,Corporate,United Kingdom,Europe,Technology,Webcam HD 1080p,1,48.73,10,43.86,8.11,8.95,Credit Card
+ORD-10793,13/01/2023,Zara Brown,Corporate,Italy,Europe,Office Supplies,Tape Dispenser Heavy Duty,1,15.82,0,15.82,9.16,-0.46,PayPal
+ORD-10560,14/01/2023,Sarah Davis,Home Office,Italy,Europe,Clothing & Accessories,Wool Blend Scarf,1,27.9,5,26.5,8.93,3.62,PayPal
+ORD-11723,23/01/2023,Raj Costa,Consumer,United Kingdom,Europe,Office Supplies,Stapler Full-Size,1,8.54,15,7.26,7.97,-4.55,Credit Card
+ORD-10408,24/01/2023,Hanna Sato,Consumer,Germany,Europe,Office Supplies,Paper Clips Box 500pc,2,8.53,5,16.21,9.3,-0.77,Credit Card
+ORD-11035,25/01/2023,Linda Russo,Corporate,Italy,Europe,Office Supplies,Whiteboard Markers Set 8,8,15.41,10,110.95,21.9,33.57,PayPal
+ORD-10711,28/01/2023,Mary Ferrari,Consumer,United Kingdom,Europe,Office Supplies,Premium Notebook Set A5,5,10.25,0,51.25,18.89,9.3,PayPal
+ORD-10950,02/02/2023,William Sharma,Corporate,Italy,Europe,Technology,Webcam HD 1080p,6,32.72,5,186.5,10.11,68.41,PayPal
+ORD-10720,05/02/2023,Hans Chen,Consumer,Germany,Europe,Furniture,Bookshelf 5-Tier,1,188.93,5,179.48,9.2,56.92,Cash on Delivery
+ORD-11683,09/02/2023,Zara Costa,Consumer,United Kingdom,Europe,Furniture,Folding Table Portable,9,126.93,0,1142.37,23.14,433.81,PayPal
+ORD-11270,10/02/2023,Isabella White,Consumer,Germany,Europe,Technology,Portable External SSD 1TB,9,111.98,5,957.43,24.38,378.75,Credit Card
+ORD-11659,10/02/2023,Emma Oliveira,Consumer,Italy,Europe,Clothing & Accessories,Leather Wallet Minimalist,3,45.99,0,137.97,12.68,56.3,Credit Card
+ORD-11569,17/02/2023,Barbara Davis,Consumer,United Kingdom,Europe,Clothing & Accessories,Cotton Formal Shirt,5,39.22,10,176.49,17.7,60.74,Credit Card
+ORD-11065,19/02/2023,Priya Wang,Consumer,France,Europe,Clothing & Accessories,Silk Tie Collection,2,20.92,0,41.84,10.6,10.32,Cash on Delivery
+ORD-11306,22/02/2023,Mia Müller,Home Office,United Kingdom,Europe,Technology,Wireless Ergonomic Mouse,4,36.01,15,122.43,10.44,32.77,Credit Card
+ORD-11205,24/02/2023,Zara White,Consumer,France,Europe,Office Supplies,Binder Clips Assorted 48pc,6,7.14,0,42.84,12.59,10.97,PayPal
+ORD-10892,25/02/2023,Felix Moreau,Consumer,Spain,Europe,Office Supplies,Sticky Notes Multicolor 6-Pack,2,8.06,15,13.7,10.44,-3.99,Bank Transfer
+ORD-11598,26/02/2023,Ingrid Schmidt,Consumer,Italy,Europe,Furniture,Folding Table Portable,6,82.3,0,493.8,12.43,185.09,PayPal
+ORD-10907,02/03/2023,Mia Clark,Consumer,Italy,Europe,Office Supplies,Stapler Full-Size,2,11.57,25,17.36,8.09,-1.14,Cash on Delivery
+ORD-11135,06/03/2023,Lucas Anderson,Consumer,United Kingdom,Europe,Clothing & Accessories,Polarized Sunglasses,3,29.57,10,79.84,10.88,24.6,Bank Transfer
+ORD-10124,08/03/2023,David Harris,Corporate,Italy,Europe,Office Supplies,Whiteboard Markers Set 8,5,11.95,10,53.77,14.79,12.09,Credit Card
+ORD-10242,08/03/2023,James Chen,Home Office,Spain,Europe,Furniture,Folding Table Portable,3,59.88,20,143.71,9.34,26.59,Bank Transfer
+ORD-11668,10/03/2023,Robert Robinson,Home Office,Italy,Europe,Technology,Mechanical Gaming Keyboard,8,107.75,10,775.8,14.93,286.77,Credit Card
+ORD-11260,11/03/2023,Liam Jones,Consumer,Italy,Europe,Office Supplies,Binder Clips Assorted 48pc,1,11.11,0,11.11,8.11,-2.0,Cash on Delivery
+ORD-10953,12/03/2023,Emma Johnson,Corporate,Italy,Europe,Technology,Smart LED Desk Lamp,2,27.32,10,49.18,10.1,9.03,Credit Card
+ORD-11786,18/03/2023,Felix Santos,Home Office,United Kingdom,Europe,Furniture,Corner L-Shaped Desk,3,323.91,15,825.97,9.35,233.58,PayPal
+ORD-10103,26/03/2023,Barbara Russo,Corporate,Spain,Europe,Clothing & Accessories,Silk Tie Collection,3,24.22,5,69.03,8.87,23.83,Credit Card
+ORD-11318,27/03/2023,Thomas Chen,Consumer,Spain,Europe,Clothing & Accessories,Business Casual Blazer,3,135.29,10,365.28,9.08,153.26,Credit Card
+ORD-11231,30/03/2023,Emma Brown,Consumer,Spain,Europe,Technology,Portable External SSD 1TB,1,85.63,5,81.35,8.86,25.39,Bank Transfer
+ORD-10821,01/04/2023,Nadia Weber,Consumer,Italy,Europe,Technology,Smart LED Desk Lamp,2,34.22,0,68.44,9.22,21.58,PayPal
+ORD-10578,03/04/2023,William Nilsson,Corporate,Spain,Europe,Furniture,Ergonomic Office Chair,1,268.98,0,268.98,8.56,99.03,Credit Card
+ORD-11253,04/04/2023,Richard Harris,Corporate,France,Europe,Technology,Tablet Stand Holder,6,25.63,15,130.71,17.72,28.41,Credit Card
+ORD-11066,07/04/2023,Olga Leroy,Home Office,Germany,Europe,Technology,Laptop Stand Adjustable,3,57.89,5,164.99,9.48,59.99,PayPal
+ORD-10330,17/04/2023,Ahmed Miller,Consumer,France,Europe,Technology,Wireless Bluetooth Headphones,6,209.9,5,1196.43,17.2,486.56,Credit Card
+ORD-11292,21/04/2023,Sakura Dubois,Consumer,Germany,Europe,Furniture,Filing Cabinet 3-Drawer,10,136.46,15,1159.91,17.75,323.4,Cash on Delivery
+ORD-11700,24/04/2023,Sarah Robinson,Home Office,Germany,Europe,Furniture,Filing Cabinet 3-Drawer,1,137.26,10,123.53,8.47,32.7,PayPal
+ORD-11888,25/04/2023,Christopher Park,Consumer,Germany,Europe,Clothing & Accessories,Canvas Messenger Bag,4,45.58,5,173.2,12.2,69.84,Bank Transfer
+ORD-10853,10/05/2023,Amir Garcia,Corporate,France,Europe,Office Supplies,Tape Dispenser Heavy Duty,3,11.58,30,24.32,13.53,-4.84,Credit Card
+ORD-10452,11/05/2023,Layla Santos,Corporate,Germany,Europe,Clothing & Accessories,Cotton Formal Shirt,3,25.71,15,65.56,8.88,18.12,Credit Card
+ORD-11458,12/05/2023,Barbara Sharma,Corporate,France,Europe,Furniture,Filing Cabinet 3-Drawer,2,248.9,20,398.24,8.23,91.33,Credit Card
+ORD-10411,16/05/2023,Robert Jackson,Corporate,France,Europe,Clothing & Accessories,Canvas Messenger Bag,2,79.65,10,143.37,10.14,53.58,Credit Card
+ORD-10336,19/05/2023,Chen Romano,Home Office,France,Europe,Furniture,Filing Cabinet 3-Drawer,1,195.08,5,185.33,9.41,58.87,PayPal
+ORD-11834,29/05/2023,Hanna Davis,Consumer,United Kingdom,Europe,Clothing & Accessories,Travel Backpack 30L,2,33.16,0,66.32,11.38,21.78,Credit Card
+ORD-10722,01/06/2023,Patricia Chen,Home Office,United Kingdom,Europe,Furniture,Folding Table Portable,1,118.34,5,112.42,7.66,33.76,Credit Card
+ORD-10845,01/06/2023,Ahmed Dubois,Consumer,Spain,Europe,Office Supplies,Whiteboard Markers Set 8,1,20.28,0,20.28,8.91,2.24,PayPal
+ORD-10069,03/06/2023,Chen Smith,Corporate,Germany,Europe,Furniture,Monitor Riser Wood,4,43.62,15,148.31,15.81,27.81,Cash on Delivery
+ORD-11268,04/06/2023,Richard Li,Consumer,Spain,Europe,Office Supplies,Sticky Notes Multicolor 6-Pack,1,10.08,15,8.57,8.15,-4.12,Credit Card
+ORD-11962,04/06/2023,Karen Anderson,Consumer,Italy,Europe,Office Supplies,Highlighters Neon Pack 6,3,6.18,15,15.76,9.18,-1.76,Credit Card
+ORD-11707,06/06/2023,David Smith,Corporate,France,Europe,Office Supplies,Stapler Full-Size,3,7.93,0,23.79,14.01,-0.93,PayPal
+ORD-10817,07/06/2023,Zara Rodriguez,Corporate,United Kingdom,Europe,Technology,Noise Cancelling Earbuds,4,72.94,20,233.41,16.18,56.76,Cash on Delivery
+ORD-11376,11/06/2023,Linda Smith,Consumer,United Kingdom,Europe,Furniture,Desk Organizer Set,4,24.66,0,98.64,16.03,23.43,Cash on Delivery
+ORD-11535,11/06/2023,Isabella Jackson,Consumer,Italy,Europe,Technology,Webcam HD 1080p,3,60.58,10,163.57,9.75,53.86,Credit Card
+ORD-10114,12/06/2023,Sarah Kim,Corporate,United Kingdom,Europe,Technology,Mechanical Gaming Keyboard,3,158.55,15,404.3,11.67,131.02,Credit Card
+ORD-11932,14/06/2023,Felix Hassan,Home Office,Italy,Europe,Office Supplies,Paper Clips Box 500pc,1,6.68,15,5.68,8.22,-5.55,Credit Card
+ORD-10569,17/06/2023,Chen Miller,Consumer,Italy,Europe,Technology,Smart LED Desk Lamp,3,69.43,5,197.88,10.72,72.6,PayPal
+ORD-11665,18/06/2023,Priya Jackson,Consumer,Italy,Europe,Furniture,Corner L-Shaped Desk,10,398.27,5,3783.56,20.31,1373.63,Cash on Delivery
+ORD-10860,21/06/2023,Fatima Jackson,Home Office,Germany,Europe,Technology,Tablet Stand Holder,3,48.52,15,123.73,13.06,30.61,Credit Card
+ORD-10212,27/06/2023,Karen Sato,Corporate,Germany,Europe,Clothing & Accessories,Leather Belt Classic,3,45.1,10,121.77,14.28,39.84,Credit Card
+ORD-11068,27/06/2023,Isabella Kumar,Corporate,Italy,Europe,Office Supplies,Desk Calendar 2025,2,10.66,10,19.19,11.01,-1.41,Cash on Delivery
+ORD-10480,28/06/2023,Priya Thomas,Consumer,Italy,Europe,Clothing & Accessories,Polarized Sunglasses,2,30.06,10,54.11,11.77,12.28,Cash on Delivery
+ORD-10432,01/07/2023,Priya Schmidt,Corporate,Spain,Europe,Technology,Laptop Stand Adjustable,3,62.62,10,169.07,12.18,53.57,Cash on Delivery
+ORD-10112,07/07/2023,Ahmed Thompson,Consumer,Italy,Europe,Clothing & Accessories,Silk Tie Collection,7,43.03,20,240.97,16.31,74.05,Credit Card
+ORD-11077,08/07/2023,Diego Kim,Home Office,Spain,Europe,Technology,Laptop Stand Adjustable,5,50.01,0,250.05,19.34,93.18,Credit Card
+ORD-10404,10/07/2023,Carlos Schmidt,Corporate,United Kingdom,Europe,Office Supplies,Whiteboard Markers Set 8,2,11.9,0,23.8,9.71,3.38,PayPal
+ORD-10545,13/07/2023,Elizabeth Williams,Corporate,Italy,Europe,Furniture,Folding Table Portable,2,113.15,10,203.67,11.07,56.82,Credit Card
+ORD-10283,15/07/2023,Hans Singh,Home Office,Spain,Europe,Furniture,Filing Cabinet 3-Drawer,4,161.93,10,582.95,10.19,184.13,Bank Transfer
+ORD-11098,16/07/2023,David Thompson,Consumer,Germany,Europe,Clothing & Accessories,Polarized Sunglasses,7,30.7,10,193.41,10.64,75.32,Credit Card
+ORD-11395,16/07/2023,Priya Ali,Home Office,United Kingdom,Europe,Clothing & Accessories,Leather Belt Classic,5,21.72,0,108.6,10.04,44.26,PayPal
+ORD-10424,19/07/2023,Diego Davis,Corporate,Spain,Europe,Clothing & Accessories,Leather Belt Classic,2,27.32,10,49.18,10.74,11.12,PayPal
+ORD-10326,20/07/2023,Amina Johansson,Corporate,Spain,Europe,Furniture,Monitor Riser Wood,1,51.24,20,40.99,8.07,2.18,Cash on Delivery
+ORD-11167,22/07/2023,Christopher Davis,Consumer,France,Europe,Technology,Noise Cancelling Earbuds,5,167.91,0,839.55,15.17,362.63,Cash on Delivery
+ORD-10225,01/08/2023,Noah Smith,Corporate,France,Europe,Technology,Mechanical Gaming Keyboard,10,104.58,30,732.06,14.85,142.02,Credit Card
+ORD-11339,01/08/2023,Noah Oliveira,Consumer,United Kingdom,Europe,Furniture,Mesh Back Task Chair,3,182.51,5,520.15,8.9,182.73,PayPal
+ORD-11501,07/08/2023,Wei Yamamoto,Corporate,Spain,Europe,Clothing & Accessories,Canvas Messenger Bag,3,75.47,5,215.09,10.4,91.48,Bank Transfer
+ORD-11960,08/08/2023,Ahmed Singh,Home Office,United Kingdom,Europe,Furniture,Mesh Back Task Chair,3,120.89,20,290.14,14.12,58.42,PayPal
+ORD-10838,09/08/2023,Pierre Wang,Consumer,France,Europe,Clothing & Accessories,Business Casual Blazer,8,48.11,20,307.9,25.57,89.89,PayPal
+ORD-11169,11/08/2023,Hanna Rossi,Consumer,Germany,Europe,Office Supplies,Binder Clips Assorted 48pc,5,7.76,10,34.92,15.79,1.67,PayPal
+ORD-11667,14/08/2023,John Brown,Consumer,Germany,Europe,Technology,Noise Cancelling Earbuds,1,89.29,5,84.83,9.18,26.54,PayPal
+ORD-10367,15/08/2023,Karen Russo,Consumer,France,Europe,Technology,Laptop Stand Adjustable,9,27.41,0,246.69,12.06,98.95,Credit Card
+ORD-11085,19/08/2023,Felix Smith,Consumer,United Kingdom,Europe,Furniture,Monitor Riser Wood,1,57.21,15,48.63,7.77,6.53,Cash on Delivery
+ORD-11529,22/08/2023,Patricia Jackson,Corporate,Italy,Europe,Office Supplies,Stapler Full-Size,12,10.19,10,110.05,25.93,29.09,Credit Card
+ORD-10738,23/08/2023,Liam Ali,Home Office,Italy,Europe,Technology,Wireless Bluetooth Headphones,9,156.74,0,1410.66,15.34,619.46,PayPal
+ORD-11515,25/08/2023,Ethan Rodriguez,Corporate,Italy,Europe,Clothing & Accessories,Wool Blend Scarf,4,37.02,10,133.27,9.44,49.79,Cash on Delivery
+ORD-10550,27/08/2023,Omar Park,Consumer,United Kingdom,Europe,Technology,USB-C Hub Multiport Adapter,2,53.25,5,101.17,8.08,34.52,PayPal
+ORD-10571,30/08/2023,Chen Rodriguez,Home Office,Spain,Europe,Office Supplies,Highlighters Neon Pack 6,5,8.73,20,34.92,13.19,2.09,Cash on Delivery
+ORD-11328,31/08/2023,Mary Chen,Home Office,Germany,Europe,Technology,Portable External SSD 1TB,5,76.29,5,362.38,19.14,133.44,PayPal
+ORD-11483,01/09/2023,Clara Robinson,Home Office,France,Europe,Office Supplies,Desk Calendar 2025,4,9.05,0,36.2,10.13,9.78,Cash on Delivery
+ORD-11717,02/09/2023,Michael Ali,Consumer,Germany,Europe,Technology,Smart LED Desk Lamp,13,26.62,15,294.15,30.98,72.84,Credit Card
+ORD-11422,03/09/2023,David Clark,Consumer,Germany,Europe,Furniture,Folding Table Portable,10,67.1,10,603.9,14.47,186.83,Cash on Delivery
+ORD-11906,05/09/2023,Amina Johansson,Consumer,United Kingdom,Europe,Clothing & Accessories,Sports Water Bottle 750ml,2,14.43,10,25.97,9.92,1.62,PayPal
+ORD-10908,10/09/2023,Diego Harris,Consumer,Italy,Europe,Technology,Mechanical Gaming Keyboard,1,77.47,0,77.47,9.23,25.63,Bank Transfer
+ORD-11544,10/09/2023,Noah Moreau,Corporate,Italy,Europe,Furniture,Filing Cabinet 3-Drawer,10,83.62,20,668.96,31.2,136.04,Cash on Delivery
+ORD-11390,16/09/2023,Elizabeth Martin,Consumer,United Kingdom,Europe,Technology,Wireless Ergonomic Mouse,5,25.73,15,109.35,11.76,26.83,Bank Transfer
+ORD-10128,23/09/2023,Lucas Leroy,Corporate,Spain,Europe,Office Supplies,Ballpoint Pen Pack 12,2,5.85,15,9.94,9.91,-5.24,PayPal
+ORD-10343,26/09/2023,Lucas Oliveira,Consumer,Spain,Europe,Clothing & Accessories,Silk Tie Collection,4,42.94,15,146.0,13.44,46.68,Cash on Delivery
+ORD-11643,26/09/2023,Xiao Ferrari,Home Office,France,Europe,Technology,Laptop Stand Adjustable,1,52.59,15,44.7,8.76,7.02,PayPal
+ORD-10574,29/09/2023,Ayumi Ali,Corporate,Spain,Europe,Office Supplies,Tape Dispenser Heavy Duty,5,18.82,15,79.98,10.99,26.65,Bank Transfer
+ORD-10421,03/10/2023,Noah Johansson,Home Office,Italy,Europe,Furniture,Corner L-Shaped Desk,2,399.1,5,758.29,10.3,269.07,PayPal
+ORD-10844,08/10/2023,Jessica Müller,Home Office,United Kingdom,Europe,Clothing & Accessories,Cotton Formal Shirt,5,68.42,10,307.89,11.72,125.12,Credit Card
+ORD-11091,09/10/2023,Layla Oliveira,Home Office,Italy,Europe,Furniture,Standing Desk Converter,11,272.86,10,2701.31,26.06,874.37,Credit Card
+ORD-10561,10/10/2023,Sophie Martinez,Corporate,Germany,Europe,Clothing & Accessories,Polarized Sunglasses,7,74.92,25,393.33,17.73,113.38,PayPal
+ORD-11357,10/10/2023,Liam Davis,Consumer,United Kingdom,Europe,Furniture,Mesh Back Task Chair,5,216.45,0,1082.25,16.23,416.67,Bank Transfer
+ORD-11272,11/10/2023,Isabella Li,Consumer,France,Europe,Office Supplies,Tape Dispenser Heavy Duty,3,24.08,0,72.24,8.67,31.06,PayPal
+ORD-11093,13/10/2023,Oscar Thompson,Consumer,Germany,Europe,Clothing & Accessories,Canvas Messenger Bag,4,37.35,10,134.46,13.42,46.34,Credit Card
+ORD-11137,15/10/2023,Barbara Weber,Home Office,United Kingdom,Europe,Technology,Tablet Stand Holder,2,34.81,0,69.62,8.72,22.61,Credit Card
+ORD-10417,17/10/2023,Susan Jackson,Corporate,France,Europe,Clothing & Accessories,Canvas Messenger Bag,1,62.32,5,59.2,9.28,18.76,PayPal
+ORD-11974,17/10/2023,Joseph Chen,Corporate,Italy,Europe,Clothing & Accessories,Silk Tie Collection,2,34.22,0,68.44,9.61,24.61,Bank Transfer
+ORD-11210,20/10/2023,Susan Weber,Corporate,Spain,Europe,Office Supplies,Tape Dispenser Heavy Duty,2,22.13,25,33.2,8.46,4.82,Credit Card
+ORD-11245,20/10/2023,Nadia Tanaka,Corporate,Italy,Europe,Technology,Noise Cancelling Earbuds,5,68.15,20,272.6,12.18,73.01,Credit Card
+ORD-10579,22/10/2023,Barbara Davis,Home Office,France,Europe,Technology,Laptop Stand Adjustable,9,33.48,10,271.19,12.56,92.9,Cash on Delivery
+ORD-10530,26/10/2023,Ali Li,Corporate,Italy,Europe,Technology,Portable External SSD 1TB,2,81.19,5,154.26,10.33,54.62,PayPal
+ORD-10316,27/10/2023,Fatima Kim,Corporate,Germany,Europe,Office Supplies,Highlighters Neon Pack 6,1,13.39,15,11.38,7.96,-2.61,Credit Card
+ORD-11300,01/11/2023,Zara Miller,Consumer,United Kingdom,Europe,Technology,Portable External SSD 1TB,3,145.73,10,393.47,9.99,143.03,Bank Transfer
+ORD-10528,02/11/2023,Fatima Brown,Consumer,France,Europe,Technology,Webcam HD 1080p,3,40.21,0,120.63,11.66,42.62,Bank Transfer
+ORD-11576,03/11/2023,Sarah Sharma,Consumer,France,Europe,Technology,Noise Cancelling Earbuds,7,95.46,5,634.81,20.14,247.15,Cash on Delivery
+ORD-10514,05/11/2023,Linda Laurent,Consumer,Germany,Europe,Office Supplies,Paper Clips Box 500pc,2,8.91,15,15.15,11.64,-4.51,PayPal
+ORD-10801,07/11/2023,Ethan Wang,Corporate,Germany,Europe,Furniture,Folding Table Portable,4,70.54,15,239.84,11.23,59.31,Bank Transfer
+ORD-10795,13/11/2023,Christopher Leroy,Corporate,Germany,Europe,Furniture,Monitor Riser Wood,8,64.55,20,413.12,20.98,82.3,Credit Card
+ORD-10362,14/11/2023,Jennifer Romano,Corporate,Spain,Europe,Furniture,Standing Desk Converter,3,162.18,15,413.56,10.53,111.11,Cash on Delivery
+ORD-10978,23/11/2023,Diego Hassan,Consumer,France,Europe,Clothing & Accessories,Wool Blend Scarf,1,15.72,5,14.93,8.51,-1.44,PayPal
+ORD-10041,25/11/2023,Xiao Rodriguez,Home Office,Italy,Europe,Technology,Wireless Ergonomic Mouse,2,29.09,5,55.27,9.82,13.45,Credit Card
+ORD-10524,25/11/2023,Oscar Costa,Consumer,United Kingdom,Europe,Office Supplies,Tape Dispenser Heavy Duty,2,9.13,10,16.43,10.19,-1.98,Credit Card
+ORD-11789,25/11/2023,Jessica Hassan,Corporate,Italy,Europe,Office Supplies,Desk Calendar 2025,1,15.28,10,13.75,9.42,-2.55,Bank Transfer
+ORD-11497,29/11/2023,Sarah Khan,Consumer,Spain,Europe,Furniture,Filing Cabinet 3-Drawer,4,182.4,10,656.64,9.07,209.81,PayPal
+ORD-11442,03/12/2023,Chen Nilsson,Home Office,United Kingdom,Europe,Furniture,Monitor Riser Wood,4,42.01,5,159.64,12.21,46.61,PayPal
+ORD-10220,08/12/2023,Elizabeth Weber,Consumer,Italy,Europe,Furniture,Monitor Riser Wood,7,67.53,10,425.44,12.11,129.7,Bank Transfer
+ORD-10183,09/12/2023,Sarah Thompson,Consumer,United Kingdom,Europe,Furniture,Mesh Back Task Chair,5,152.95,5,726.51,18.94,248.72,Bank Transfer
+ORD-11811,11/12/2023,Noah Chen,Consumer,Germany,Europe,Technology,Laptop Stand Adjustable,5,30.27,0,151.35,13.59,54.52,Credit Card
+ORD-11847,11/12/2023,Giulia Williams,Corporate,United Kingdom,Europe,Clothing & Accessories,Polarized Sunglasses,3,43.37,15,110.59,14.43,31.11,Bank Transfer
+ORD-11968,13/12/2023,Karen Smith,Consumer,Spain,Europe,Furniture,Filing Cabinet 3-Drawer,5,109.55,10,492.98,16.35,147.98,Credit Card
+ORD-10508,14/12/2023,William Chen,Consumer,France,Europe,Technology,Webcam HD 1080p,4,32.24,5,122.51,13.12,38.46,PayPal
+ORD-11248,18/12/2023,Amina Taylor,Home Office,Germany,Europe,Furniture,Folding Table Portable,4,59.95,5,227.81,13.86,70.07,PayPal
+ORD-11663,24/12/2023,Olivia Patel,Home Office,France,Europe,Technology,Portable External SSD 1TB,5,81.1,10,364.95,17.85,124.07,Credit Card
+ORD-10149,25/12/2023,Barbara Sharma,Corporate,United Kingdom,Europe,Furniture,Bookshelf 5-Tier,1,190.75,20,152.6,9.08,29.07,Credit Card
+ORD-11020,25/12/2023,Liam Romano,Home Office,France,Europe,Technology,Laptop Stand Adjustable,1,69.13,15,58.76,7.83,12.91,Credit Card
+ORD-11437,31/12/2023,Sarah Johnson,Consumer,Germany,Europe,Furniture,Bookshelf 5-Tier,1,162.05,5,153.95,9.38,47.34,PayPal
+ORD-11510,01/01/2024,Olga Pereira,Consumer,Italy,Europe,Clothing & Accessories,Cotton Formal Shirt,2,50.45,0,100.9,10.54,39.91,PayPal
+ORD-11467,04/01/2024,Jamal Patel,Consumer,United Kingdom,Europe,Office Supplies,Stapler Full-Size,2,17.17,5,32.62,10.14,7.03,Bank Transfer
+ORD-11720,04/01/2024,Diego Nilsson,Consumer,Italy,Europe,Office Supplies,Stapler Full-Size,1,11.89,0,11.89,7.53,-0.99,Bank Transfer
+ORD-10709,07/01/2024,Olga Ahmed,Consumer,Italy,Europe,Clothing & Accessories,Leather Belt Classic,3,22.55,10,60.89,12.39,14.67,Credit Card
+ORD-11362,10/01/2024,Priya Smith,Consumer,Spain,Europe,Technology,Wireless Ergonomic Mouse,1,32.02,5,30.42,8.28,4.53,Cash on Delivery
+ORD-10476,13/01/2024,Jennifer Khan,Corporate,France,Europe,Office Supplies,Whiteboard Markers Set 8,1,21.65,10,19.48,9.45,0.29,PayPal
+ORD-10152,14/01/2024,Ivan Dubois,Consumer,United Kingdom,Europe,Furniture,Filing Cabinet 3-Drawer,2,81.16,5,154.2,9.07,47.74,Credit Card
+ORD-11273,21/01/2024,Richard Rodriguez,Corporate,United Kingdom,Europe,Clothing & Accessories,Canvas Messenger Bag,3,74.46,20,178.7,12.62,54.39,PayPal
+ORD-10067,22/01/2024,Noah Leroy,Corporate,France,Europe,Technology,Smart LED Desk Lamp,5,36.68,0,183.4,16.95,65.58,Bank Transfer
+ORD-10110,02/02/2024,Ayumi White,Corporate,Italy,Europe,Clothing & Accessories,Leather Wallet Minimalist,2,38.08,10,68.54,10.11,20.35,Cash on Delivery
+ORD-11928,03/02/2024,Kenji Dubois,Home Office,Spain,Europe,Furniture,Mesh Back Task Chair,2,297.8,0,595.6,11.67,226.57,PayPal
+ORD-10440,04/02/2024,Marco Sharma,Corporate,Germany,Europe,Office Supplies,Desk Calendar 2025,1,10.39,0,10.39,7.64,-1.93,PayPal
+ORD-11139,07/02/2024,Priya Laurent,Consumer,Spain,Europe,Clothing & Accessories,Business Casual Blazer,4,90.04,5,342.15,13.31,148.76,Bank Transfer
+ORD-11704,07/02/2024,Clara Miller,Consumer,Italy,Europe,Technology,Webcam HD 1080p,2,33.73,15,57.34,11.05,9.19,Credit Card
+ORD-10031,08/02/2024,Yuki Martin,Consumer,Spain,Europe,Technology,Webcam HD 1080p,4,67.39,0,269.56,16.2,105.1,PayPal
+ORD-10958,10/02/2024,John Zhang,Home Office,United Kingdom,Europe,Technology,Wireless Bluetooth Headphones,1,216.25,5,205.44,7.52,78.98,PayPal
+ORD-10935,13/02/2024,Patricia Khan,Consumer,Spain,Europe,Office Supplies,Highlighters Neon Pack 6,1,12.56,0,12.56,8.15,-1.24,PayPal
+ORD-10510,18/02/2024,Olivia Anderson,Corporate,Italy,Europe,Clothing & Accessories,Cotton Formal Shirt,3,62.02,5,176.76,8.79,74.94,Cash on Delivery
+ORD-10165,21/02/2024,Hanna Leroy,Corporate,France,Europe,Technology,Wireless Ergonomic Mouse,1,62.36,15,53.01,7.88,10.83,Credit Card
+ORD-10819,21/02/2024,Oscar Wang,Home Office,United Kingdom,Europe,Clothing & Accessories,Sports Water Bottle 750ml,5,13.07,0,65.35,13.22,19.45,Bank Transfer
+ORD-10156,25/02/2024,Karen Anderson,Consumer,United Kingdom,Europe,Furniture,Floating Wall Shelves Set,1,61.18,0,61.18,8.33,16.14,PayPal
+ORD-10708,27/02/2024,Susan Li,Corporate,France,Europe,Technology,Portable External SSD 1TB,4,78.35,20,250.72,12.16,66.19,PayPal
+ORD-11280,02/03/2024,John Robinson,Corporate,France,Europe,Office Supplies,Highlighters Neon Pack 6,4,10.51,5,39.94,13.17,7.85,Credit Card
+ORD-10947,03/03/2024,Kenji Davis,Home Office,Italy,Europe,Furniture,Mesh Back Task Chair,5,131.71,10,592.7,10.75,186.82,Cash on Delivery
+ORD-10893,08/03/2024,Elizabeth Sharma,Consumer,United Kingdom,Europe,Technology,Smart LED Desk Lamp,2,57.7,0,115.4,9.55,42.38,Bank Transfer
+ORD-10537,10/03/2024,Maria Costa,Consumer,France,Europe,Clothing & Accessories,Sports Water Bottle 750ml,1,24.87,20,19.9,7.99,-0.53,PayPal
+ORD-11284,10/03/2024,Emma Moreau,Consumer,Germany,Europe,Technology,Laptop Stand Adjustable,5,73.85,0,369.25,19.4,146.76,Cash on Delivery
+ORD-10573,17/03/2024,Hanna Brown,Home Office,France,Europe,Office Supplies,Premium Notebook Set A5,2,10.08,15,17.14,9.67,-1.6,PayPal
+ORD-11941,18/03/2024,Ivan Patel,Consumer,Italy,Europe,Furniture,Monitor Riser Wood,1,53.47,0,53.47,8.83,12.56,PayPal
+ORD-11979,19/03/2024,Nadia Romano,Corporate,United Kingdom,Europe,Office Supplies,Sticky Notes Multicolor 6-Pack,2,4.03,5,7.66,10.73,-6.7,Cash on Delivery
+ORD-10705,27/03/2024,Chen Dubois,Corporate,France,Europe,Technology,Laptop Stand Adjustable,1,34.41,5,32.69,7.58,6.18,Credit Card
+ORD-10754,30/03/2024,Chen Patel,Corporate,Germany,Europe,Furniture,Filing Cabinet 3-Drawer,6,203.47,10,1098.74,13.13,353.12,Credit Card
+ORD-11428,31/03/2024,Mary Weber,Consumer,France,Europe,Office Supplies,Tape Dispenser Heavy Duty,1,18.75,0,18.75,9.22,1.09,PayPal
+ORD-11981,01/04/2024,Fatima Fischer,Home Office,Spain,Europe,Technology,Wireless Bluetooth Headphones,1,231.11,10,208.0,8.87,72.02,PayPal
+ORD-10660,03/04/2024,Sarah Moreau,Corporate,France,Europe,Clothing & Accessories,Travel Backpack 30L,2,35.17,25,52.76,10.97,6.62,Bank Transfer
+ORD-11299,03/04/2024,Isabella Yamamoto,Corporate,Italy,Europe,Office Supplies,Sticky Notes Multicolor 6-Pack,2,9.1,0,18.2,9.66,0.35,PayPal
+ORD-11581,04/04/2024,Mia Smith,Consumer,France,Europe,Clothing & Accessories,Canvas Messenger Bag,5,45.28,25,169.8,12.55,44.05,Credit Card
+ORD-10806,06/04/2024,Sakura Thomas,Consumer,France,Europe,Technology,USB-C Hub Multiport Adapter,3,39.53,15,100.8,9.02,26.56,Credit Card
+ORD-11558,06/04/2024,Chen Martin,Consumer,Germany,Europe,Office Supplies,Paper Clips Box 500pc,8,9.0,0,72.0,16.77,22.83,Credit Card
+ORD-10092,08/04/2024,Susan Hassan,Home Office,France,Europe,Clothing & Accessories,Sports Water Bottle 750ml,6,29.44,10,158.98,17.71,52.95,Credit Card
+ORD-11767,10/04/2024,Robert Schmidt,Consumer,United Kingdom,Europe,Technology,Wireless Ergonomic Mouse,3,53.25,5,151.76,11.26,52.64,PayPal
+ORD-11106,13/04/2024,Sakura Oliveira,Consumer,United Kingdom,Europe,Technology,USB-C Hub Multiport Adapter,4,24.16,0,96.64,9.63,33.86,Cash on Delivery
+ORD-10460,16/04/2024,Kenji Romano,Corporate,France,Europe,Office Supplies,Whiteboard Markers Set 8,1,9.64,10,8.68,7.9,-3.56,Cash on Delivery
+ORD-11887,16/04/2024,Zara Chen,Corporate,Germany,Europe,Office Supplies,Tape Dispenser Heavy Duty,2,10.28,10,18.5,11.36,-2.11,Cash on Delivery
+ORD-10354,18/04/2024,Amina Clark,Consumer,France,Europe,Office Supplies,Tape Dispenser Heavy Duty,2,14.35,10,25.83,9.58,3.33,Credit Card
+ORD-11678,20/04/2024,Mia Martin,Home Office,France,Europe,Office Supplies,Tape Dispenser Heavy Duty,2,20.62,15,35.05,11.25,5.24,PayPal
+ORD-10236,21/04/2024,Priya Brown,Home Office,France,Europe,Clothing & Accessories,Cotton Formal Shirt,1,32.39,10,29.15,9.08,3.87,Bank Transfer
+ORD-10407,21/04/2024,Isabella Laurent,Corporate,Germany,Europe,Office Supplies,Sticky Notes Multicolor 6-Pack,1,4.02,15,3.42,7.74,-6.13,Bank Transfer
+ORD-11734,26/04/2024,Clara Romano,Consumer,United Kingdom,Europe,Technology,Webcam HD 1080p,3,72.81,10,196.59,11.86,64.59,Credit Card
+ORD-10456,04/05/2024,Wei Martinez,Corporate,Italy,Europe,Clothing & Accessories,Travel Backpack 30L,3,85.33,15,217.59,12.17,77.42,Credit Card
+ORD-10732,04/05/2024,Lucas Russo,Home Office,Italy,Europe,Technology,Tablet Stand Holder,10,39.28,10,353.52,31.89,105.59,Credit Card
+ORD-11414,05/05/2024,Amir Yamamoto,Consumer,United Kingdom,Europe,Technology,Portable External SSD 1TB,2,72.3,10,130.14,11.95,38.66,Credit Card
+ORD-11817,11/05/2024,Ava Harris,Consumer,Italy,Europe,Technology,Tablet Stand Holder,4,37.01,0,148.04,12.78,53.84,Credit Card
+ORD-10900,14/05/2024,Olga Thompson,Consumer,Spain,Europe,Clothing & Accessories,Sports Water Bottle 750ml,1,20.52,5,19.49,7.58,1.65,PayPal
+ORD-11572,15/05/2024,Priya Kumar,Consumer,United Kingdom,Europe,Clothing & Accessories,Cotton Formal Shirt,3,66.48,0,199.44,9.05,90.67,PayPal
+ORD-11432,16/05/2024,Mia Sharma,Consumer,Italy,Europe,Technology,Laptop Stand Adjustable,2,54.24,10,97.63,9.97,28.0,Credit Card
+ORD-10169,18/05/2024,Hanna Robinson,Consumer,Italy,Europe,Furniture,Desk Organizer Set,6,26.58,20,127.58,17.7,14.19,PayPal
+ORD-10396,18/05/2024,John Laurent,Consumer,United Kingdom,Europe,Furniture,Mesh Back Task Chair,1,296.6,5,281.77,9.03,94.78,Cash on Delivery
+ORD-10291,23/05/2024,Emma Dubois,Home Office,Spain,Europe,Technology,Webcam HD 1080p,2,88.23,0,176.46,9.65,69.76,Bank Transfer
+ORD-10016,24/05/2024,Richard Brown,Consumer,United Kingdom,Europe,Technology,Noise Cancelling Earbuds,2,111.78,0,223.56,9.0,91.6,Cash on Delivery
+ORD-11568,24/05/2024,James Brown,Consumer,Italy,Europe,Office Supplies,Binder Clips Assorted 48pc,3,9.99,10,26.97,8.52,4.96,PayPal
+ORD-10936,26/05/2024,Jamal Williams,Corporate,Italy,Europe,Technology,Tablet Stand Holder,1,38.44,0,38.44,8.19,9.11,PayPal
+ORD-10059,27/05/2024,William Ferrari,Consumer,France,Europe,Technology,Mechanical Gaming Keyboard,6,175.05,10,945.27,21.41,346.19,Cash on Delivery
+ORD-10614,27/05/2024,Lucas Williams,Corporate,France,Europe,Furniture,Monitor Riser Wood,3,35.49,0,106.47,13.63,28.96,Bank Transfer
+ORD-11324,27/05/2024,Omar Nilsson,Consumer,Spain,Europe,Technology,Portable External SSD 1TB,15,142.85,10,1928.48,22.72,727.25,Cash on Delivery
+ORD-10364,28/05/2024,Yuki Johnson,Corporate,Germany,Europe,Clothing & Accessories,Leather Wallet Minimalist,3,50.33,10,135.89,11.44,48.95,PayPal
+ORD-11686,02/06/2024,Li Khan,Home Office,Germany,Europe,Furniture,Floating Wall Shelves Set,7,77.63,15,461.9,11.64,124.21,Credit Card
+ORD-10734,08/06/2024,Elizabeth Taylor,Corporate,Italy,Europe,Office Supplies,Highlighters Neon Pack 6,1,10.5,0,10.5,8.64,-2.87,Credit Card
+ORD-11882,16/06/2024,Liam Kim,Consumer,Italy,Europe,Furniture,Floating Wall Shelves Set,2,50.55,0,101.1,11.26,29.18,PayPal
+ORD-11084,22/06/2024,Sakura Müller,Corporate,Spain,Europe,Furniture,Bookshelf 5-Tier,1,141.5,0,141.5,7.9,48.7,Credit Card
+ORD-11777,23/06/2024,Nadia Anderson,Consumer,Spain,Europe,Office Supplies,Highlighters Neon Pack 6,3,8.11,15,20.68,14.26,-4.53,PayPal
+ORD-10144,25/06/2024,Carlos Schmidt,Home Office,France,Europe,Office Supplies,Sticky Notes Multicolor 6-Pack,2,14.53,5,27.61,11.77,2.76,Cash on Delivery
+ORD-11265,28/06/2024,Maria Hassan,Consumer,France,Europe,Furniture,Mesh Back Task Chair,3,122.5,0,367.5,9.35,137.65,Credit Card
+ORD-10121,30/06/2024,Maria Weber,Corporate,Spain,Europe,Clothing & Accessories,Polarized Sunglasses,3,22.89,20,54.94,11.77,8.83,Credit Card
+ORD-11660,01/07/2024,Fatima Robinson,Corporate,France,Europe,Technology,Wireless Ergonomic Mouse,2,28.41,10,51.14,9.34,10.55,Credit Card
+ORD-11768,01/07/2024,Joseph Singh,Consumer,Italy,Europe,Clothing & Accessories,Sports Water Bottle 750ml,1,23.88,5,22.69,9.01,1.74,Credit Card
+ORD-11411,03/07/2024,Raj Weber,Consumer,Spain,Europe,Office Supplies,Whiteboard Markers Set 8,2,21.15,0,42.3,9.48,13.78,PayPal
+ORD-11352,04/07/2024,Ayumi Moreau,Consumer,Spain,Europe,Office Supplies,Highlighters Neon Pack 6,4,4.42,5,16.8,13.49,-4.65,Credit Card
+ORD-10257,05/07/2024,Sarah Clark,Home Office,France,Europe,Office Supplies,Stapler Full-Size,1,15.39,0,15.39,9.15,-0.69,Bank Transfer
+ORD-10581,05/07/2024,Pierre Weber,Corporate,United Kingdom,Europe,Technology,Wireless Ergonomic Mouse,1,47.66,0,47.66,8.77,12.68,Cash on Delivery
+ORD-10691,05/07/2024,Felix Ahmed,Consumer,Germany,Europe,Technology,Wireless Ergonomic Mouse,2,52.81,0,105.62,10.99,36.54,Credit Card
+ORD-11450,06/07/2024,Li Rossi,Corporate,Spain,Europe,Technology,USB-C Hub Multiport Adapter,1,24.66,20,19.73,8.64,-2.47,Credit Card
+ORD-11706,08/07/2024,Priya Oliveira,Consumer,United Kingdom,Europe,Furniture,Ergonomic Office Chair,10,305.38,5,2901.11,14.57,1054.26,Credit Card
+ORD-10222,09/07/2024,Hanna White,Consumer,France,Europe,Clothing & Accessories,Travel Backpack 30L,3,59.82,20,143.57,9.58,44.26,Bank Transfer
+ORD-10641,10/07/2024,Sophie Clark,Consumer,Germany,Europe,Clothing & Accessories,Leather Wallet Minimalist,11,19.0,5,198.55,16.19,77.86,PayPal
+ORD-10664,14/07/2024,John Ferrari,Consumer,United Kingdom,Europe,Clothing & Accessories,Travel Backpack 30L,6,68.26,5,389.08,18.45,165.85,Credit Card
+ORD-11142,14/07/2024,Ayumi Harris,Consumer,United Kingdom,Europe,Furniture,Floating Wall Shelves Set,1,95.79,15,81.42,8.97,14.98,Bank Transfer
+ORD-10253,19/07/2024,David Garcia,Consumer,France,Europe,Furniture,Ergonomic Office Chair,4,425.29,5,1616.1,12.36,583.04,PayPal
+ORD-11690,24/07/2024,William Chen,Corporate,France,Europe,Office Supplies,Sticky Notes Multicolor 6-Pack,6,13.61,5,77.58,20.53,20.3,PayPal
+ORD-10138,26/07/2024,Ali Jones,Consumer,Spain,Europe,Clothing & Accessories,Travel Backpack 30L,1,84.43,25,63.32,8.29,12.81,Bank Transfer
+ORD-10388,27/07/2024,Linda Patel,Consumer,United Kingdom,Europe,Technology,Webcam HD 1080p,4,83.83,0,335.32,12.06,138.83,Cash on Delivery
+ORD-11153,28/07/2024,Sarah Chen,Consumer,Germany,Europe,Furniture,Mesh Back Task Chair,11,296.08,5,3094.04,23.46,1116.45,Bank Transfer
+ORD-10263,01/08/2024,Felix Romano,Consumer,France,Europe,Technology,Laptop Stand Adjustable,2,51.5,0,103.0,9.3,37.05,Credit Card
+ORD-10066,02/08/2024,Hanna Ali,Home Office,United Kingdom,Europe,Office Supplies,Stapler Full-Size,4,14.54,15,49.44,12.57,10.7,PayPal
+ORD-10799,03/08/2024,Susan Schmidt,Consumer,United Kingdom,Europe,Furniture,Folding Table Portable,3,75.05,0,225.15,12.4,77.66,PayPal
+ORD-10910,09/08/2024,Felix White,Home Office,Italy,Europe,Clothing & Accessories,Leather Wallet Minimalist,7,22.85,5,151.95,10.55,61.42,Bank Transfer
+ORD-10714,10/08/2024,Hans Johnson,Consumer,France,Europe,Technology,Smart LED Desk Lamp,4,59.34,20,189.89,12.93,46.41,Cash on Delivery
+ORD-11622,14/08/2024,Zara Anderson,Corporate,United Kingdom,Europe,Technology,Noise Cancelling Earbuds,3,104.66,0,313.98,9.55,131.74,Credit Card
+ORD-10448,16/08/2024,Lucas Moreau,Home Office,Italy,Europe,Office Supplies,Desk Calendar 2025,10,13.76,10,123.84,17.98,43.94,Credit Card
+ORD-10315,18/08/2024,Jamal Sharma,Corporate,Germany,Europe,Technology,Noise Cancelling Earbuds,2,121.67,10,219.01,10.65,74.52,Bank Transfer
+ORD-10818,22/08/2024,Kenji Wang,Consumer,Spain,Europe,Clothing & Accessories,Silk Tie Collection,2,32.02,10,57.64,10.01,15.61,Credit Card
+ORD-10613,26/08/2024,Ingrid Martin,Corporate,United Kingdom,Europe,Clothing & Accessories,Sports Water Bottle 750ml,1,20.03,5,19.03,7.96,1.06,Credit Card
+ORD-10055,31/08/2024,Hans Park,Corporate,Italy,Europe,Clothing & Accessories,Polarized Sunglasses,4,36.93,15,125.56,14.92,36.78,Cash on Delivery
+ORD-10140,04/09/2024,Sarah Khan,Home Office,Italy,Europe,Office Supplies,Tape Dispenser Heavy Duty,3,22.08,10,59.62,10.3,19.51,Bank Transfer
+ORD-11370,05/09/2024,Ivan Müller,Consumer,France,Europe,Clothing & Accessories,Sports Water Bottle 750ml,2,12.3,0,24.6,11.2,1.1,Credit Card
+ORD-10848,06/09/2024,Pierre Patel,Consumer,Germany,Europe,Clothing & Accessories,Canvas Messenger Bag,3,68.42,10,184.73,12.09,70.01,PayPal
+ORD-10857,10/09/2024,Layla Johansson,Consumer,United Kingdom,Europe,Technology,Mechanical Gaming Keyboard,10,62.96,10,566.64,19.53,200.83,PayPal
+ORD-11672,11/09/2024,Liam Nilsson,Home Office,United Kingdom,Europe,Office Supplies,Desk Calendar 2025,4,17.6,0,70.4,14.18,24.54,PayPal
+ORD-10370,14/09/2024,Linda Santos,Corporate,United Kingdom,Europe,Technology,Mechanical Gaming Keyboard,1,174.88,15,148.65,8.56,43.91,Credit Card
+ORD-10184,15/09/2024,Isabella Ferrari,Corporate,Germany,Europe,Technology,Smart LED Desk Lamp,-5,41.61,20,133.15,11.64,29.97,Credit Card
+ORD-11433,16/09/2024,Pierre Smith,Consumer,Spain,Europe,Office Supplies,Tape Dispenser Heavy Duty,1,13.51,10,12.16,7.94,-1.86,Credit Card
+ORD-10998,18/09/2024,Diego Miller,Consumer,Italy,Europe,Furniture,Monitor Riser Wood,4,67.4,5,256.12,9.33,85.03,Cash on Delivery
+ORD-10050,19/09/2024,Robert Garcia,Consumer,Germany,Europe,Office Supplies,Whiteboard Markers Set 8,3,13.57,5,38.67,12.98,7.37,Credit Card
+ORD-10697,19/09/2024,Sakura Garcia,Home Office,Spain,Europe,Office Supplies,Sticky Notes Multicolor 6-Pack,2,6.44,0,12.88,9.71,-2.63,Credit Card
+ORD-11573,24/09/2024,Mia Chen,Consumer,Spain,Europe,Technology,Wireless Bluetooth Headphones,2,83.77,15,142.41,8.05,42.21,Credit Card
+ORD-11870,25/09/2024,Isabella Jones,Corporate,Spain,Europe,Technology,Wireless Ergonomic Mouse,4,48.97,20,156.7,10.82,38.15,Credit Card
+ORD-11920,26/09/2024,Pierre Jones,Corporate,United Kingdom,Europe,Clothing & Accessories,Sports Water Bottle 750ml,1,29.28,15,24.89,9.4,0.85,Credit Card
+ORD-11522,27/09/2024,Amir Anderson,Corporate,United Kingdom,Europe,Technology,Smart LED Desk Lamp,4,31.83,5,120.95,12.01,38.91,Bank Transfer
+ORD-10223,28/09/2024,Jennifer Yamamoto,Consumer,France,Europe,Furniture,Floating Wall Shelves Set,2,61.97,0,123.94,11.14,38.44,Bank Transfer
+ORD-11955,28/09/2024,Olivia Jones,Consumer,United Kingdom,Europe,Furniture,Desk Organizer Set,6,47.45,5,270.47,21.01,78.64,Credit Card
+ORD-11826,01/10/2024,Robert Leroy,Home Office,France,Europe,Clothing & Accessories,Polarized Sunglasses,3,66.59,5,189.78,13.14,76.75,Credit Card
+ORD-10312,03/10/2024,Lucas Nilsson,Consumer,United Kingdom,Europe,Technology,Mechanical Gaming Keyboard,4,142.59,0,570.36,11.88,244.78,PayPal
+ORD-10512,03/10/2024,Omar Dubois,Home Office,Spain,Europe,Technology,Smart LED Desk Lamp,3,37.56,10,101.41,11.79,27.65,Cash on Delivery
+ORD-10767,03/10/2024,Omar Thompson,Consumer,United Kingdom,Europe,Furniture,Ergonomic Office Chair,4,287.66,5,1093.11,15.79,386.94,Cash on Delivery
+ORD-11136,06/10/2024,Emma Müller,Consumer,Italy,Europe,Clothing & Accessories,Travel Backpack 30L,1,99.45,15,84.53,7.83,26.98,Credit Card
+ORD-11883,06/10/2024,Mia Costa,Consumer,Germany,Europe,Technology,Smart LED Desk Lamp,10,53.93,5,512.33,19.66,196.06,Cash on Delivery
+ORD-10663,09/10/2024,Hans Miller,Consumer,Italy,Europe,Technology,Portable External SSD 1TB,3,135.35,5,385.75,12.11,150.31,Credit Card
+ORD-11881,09/10/2024,Mia Jones,Home Office,France,Europe,Clothing & Accessories,Silk Tie Collection,8,48.56,5,369.06,24.35,150.47,PayPal
+ORD-10833,11/10/2024,Michael Ferrari,Consumer,Italy,Europe,Technology,Tablet Stand Holder,1,26.72,0,26.72,9.04,2.98,Credit Card
+ORD-10871,11/10/2024,Nadia Wang,Consumer,Spain,Europe,Furniture,Folding Table Portable,9,115.8,20,833.76,26.5,181.94,Bank Transfer
+ORD-11783,13/10/2024,Li Miller,Consumer,United Kingdom,Europe,Furniture,Ergonomic Office Chair,4,275.12,5,1045.46,13.94,371.23,PayPal
+ORD-10449,24/10/2024,Susan Patel,Corporate,Italy,Europe,Technology,Tablet Stand Holder,2,24.54,15,41.72,10.57,4.16,PayPal
+ORD-11822,25/10/2024,Hanna Thomas,Corporate,Germany,Europe,Technology,Portable External SSD 1TB,2,96.97,15,164.85,8.99,49.19,PayPal
+ORD-11836,25/10/2024,Richard Jackson,Home Office,United Kingdom,Europe,Office Supplies,Ballpoint Pen Pack 12,7,16.12,15,95.91,12.12,33.01,Cash on Delivery
+ORD-11037,26/10/2024,Fatima Williams,Corporate,Italy,Europe,Clothing & Accessories,Polarized Sunglasses,7,46.74,10,294.46,12.49,118.38,Bank Transfer
+ORD-10912,27/10/2024,William Ferrari,Corporate,United Kingdom,Europe,Office Supplies,Desk Calendar 2025,3,13.97,0,41.91,10.72,12.33,Bank Transfer
+ORD-11627,27/10/2024,Giulia Brown,Consumer,Spain,Europe,Technology,Tablet Stand Holder,4,23.76,0,95.04,14.61,28.16,Cash on Delivery
+ORD-11455,29/10/2024,Omar Thomas,Consumer,Italy,Europe,Clothing & Accessories,Sports Water Bottle 750ml,7,16.16,0,113.12,13.07,43.49,Bank Transfer
+ORD-10621,31/10/2024,David Schmidt,Consumer,Germany,Europe,Clothing & Accessories,Polarized Sunglasses,12,42.25,0,507.0,23.04,230.46,Bank Transfer
+ORD-10765,31/10/2024,Priya Sato,Consumer,Spain,Europe,Office Supplies,Sticky Notes Multicolor 6-Pack,2,10.34,10,18.61,11.42,-2.12,Cash on Delivery
+ORD-11618,01/11/2024,Christopher Fischer,Consumer,United Kingdom,Europe,Office Supplies,Highlighters Neon Pack 6,2,8.29,0,16.58,8.77,0.35,PayPal
+ORD-11252,02/11/2024,Layla Garcia,Consumer,France,Europe,Technology,Mechanical Gaming Keyboard,2,144.76,15,246.09,11.27,75.58,PayPal
+ORD-10924,05/11/2024,Sakura Ahmed,Corporate,United Kingdom,Europe,Furniture,Monitor Riser Wood,3,55.43,15,141.35,13.74,27.84,Cash on Delivery
+ORD-10865,07/11/2024,Mia Laurent,Corporate,Germany,Europe,Clothing & Accessories,Leather Belt Classic,4,21.57,10,77.65,11.54,22.97,Credit Card
+ORD-11296,07/11/2024,Linda Thompson,Consumer,France,Europe,Office Supplies,Premium Notebook Set A5,5,20.84,0,104.2,15.39,41.92,PayPal
+ORD-11629,09/11/2024,Thomas Costa,Consumer,Italy,Europe,Clothing & Accessories,Leather Wallet Minimalist,3,58.15,5,165.73,14.36,64.14,PayPal
+ORD-10633,13/11/2024,Wei Moreau,Consumer,Germany,Europe,Technology,Smart LED Desk Lamp,1,57.7,0,57.7,7.94,18.02,PayPal
+ORD-11371,15/11/2024,Omar Yamamoto,Home Office,France,Europe,Technology,Wireless Ergonomic Mouse,4,66.35,5,252.13,12.59,93.57,Credit Card
+ORD-10151,17/11/2024,Joseph Ali,Consumer,France,Europe,Office Supplies,Stapler Full-Size,1,15.77,10,14.19,8.78,-1.69,PayPal
+ORD-10830,17/11/2024,Ivan Robinson,Consumer,France,Europe,Clothing & Accessories,Wool Blend Scarf,11,36.18,10,358.18,16.03,143.16,Credit Card
+ORD-11039,21/11/2024,Li Miller,Consumer,France,Europe,Technology,Wireless Ergonomic Mouse,2,39.61,20,63.38,10.2,9.61,Credit Card
+ORD-11943,21/11/2024,Sophie Pereira,Home Office,Spain,Europe,Clothing & Accessories,Business Casual Blazer,5,79.16,15,336.43,12.69,125.84,Credit Card
+ORD-11207,22/11/2024,Oscar Zhang,Consumer,United Kingdom,Europe,Technology,Smart LED Desk Lamp,10,46.43,10,417.87,22.39,140.11,Credit Card
+ORD-11758,22/11/2024,Priya Smith,Consumer,Italy,Europe,Furniture,Mesh Back Task Chair,6,259.75,0,1558.5,10.69,612.71,Credit Card
+ORD-11335,24/11/2024,Ivan Martin,Consumer,Italy,Europe,Office Supplies,Sticky Notes Multicolor 6-Pack,1,13.3,0,13.3,7.89,-0.57,Cash on Delivery
+ORD-11445,26/11/2024,Ava Rodriguez,Corporate,France,Europe,Office Supplies,Premium Notebook Set A5,2,11.05,5,21.0,8.64,2.41,PayPal
+ORD-11113,28/11/2024,Oscar Anderson,Corporate,United Kingdom,Europe,Clothing & Accessories,Cotton Formal Shirt,2,50.22,10,90.4,9.49,30.69,Credit Card
+ORD-10046,29/11/2024,Ethan Moreau,Consumer,Spain,Europe,Technology,Smart LED Desk Lamp,1,66.12,20,52.9,8.77,7.76,Bank Transfer
+ORD-10969,30/11/2024,Jessica Moreau,Corporate,United Kingdom,Europe,Clothing & Accessories,Business Casual Blazer,7,81.97,0,573.79,17.03,269.87,PayPal
+ORD-11211,02/12/2024,James Johansson,Corporate,Germany,Europe,Technology,Wireless Ergonomic Mouse,8,63.14,15,429.35,19.46,132.07,PayPal
+ORD-10436,03/12/2024,Pierre Weber,Consumer,United Kingdom,Europe,Clothing & Accessories,Leather Belt Classic,6,38.82,15,197.98,19.03,62.49,PayPal
+ORD-10134,08/12/2024,Wei Ali,Corporate,France,Europe,Clothing & Accessories,Leather Belt Classic,3,45.43,0,136.29,9.95,58.19,Credit Card
+ORD-11709,10/12/2024,Elizabeth Leroy,Corporate,France,Europe,Furniture,Standing Desk Converter,6,282.23,5,1608.71,20.02,572.66,Credit Card
+ORD-10666,14/12/2024,Ahmed Johnson,Corporate,Italy,Europe,Office Supplies,Binder Clips Assorted 48pc,5,5.79,5,27.5,18.73,-4.26,Bank Transfer
+ORD-11476,16/12/2024,Ava Rossi,Consumer,Italy,Europe,Furniture,Bookshelf 5-Tier,1,173.33,10,156.0,8.65,43.35,Cash on Delivery
+ORD-10260,17/12/2024,Ayumi Taylor,Home Office,Spain,Europe,Furniture,Monitor Riser Wood,4,66.19,5,251.52,12.09,80.57,Credit Card
+ORD-11948,21/12/2024,Ingrid Santos,Consumer,France,Europe,Office Supplies,Ballpoint Pen Pack 12,1,6.45,5,6.13,7.56,-4.33,Cash on Delivery
+ORD-10588,23/12/2024,Patricia Costa,Home Office,United Kingdom,Europe,Clothing & Accessories,Polarized Sunglasses,2,69.3,0,138.6,11.07,58.23,PayPal
+ORD-10761,23/12/2024,Liam Russo,Consumer,Germany,Europe,Furniture,Standing Desk Converter,7,212.35,20,1189.16,14.04,283.25,PayPal
+ORD-10654,30/12/2024,Pierre Ahmed,Corporate,United Kingdom,Europe,Clothing & Accessories,Cotton Formal Shirt,7,20.15,10,126.94,22.2,34.22,Cash on Delivery
+ORD-10975,04/01/2025,Oscar Nilsson,Consumer,France,Europe,Furniture,Filing Cabinet 3-Drawer,5,127.03,5,603.39,16.49,205.81,PayPal
+ORD-10497,09/01/2025,Liam Davis,Consumer,Italy,Europe,Office Supplies,Premium Notebook Set A5,3,9.4,5,26.79,11.24,2.86,Bank Transfer
+ORD-11381,10/01/2025,Sophie Ahmed,Corporate,United Kingdom,Europe,Technology,Smart LED Desk Lamp,3,73.19,10,197.61,12.36,64.49,Credit Card
+ORD-10970,12/01/2025,Diego Kim,Consumer,United Kingdom,Europe,Clothing & Accessories,Leather Wallet Minimalist,10,56.84,5,539.98,24.76,231.02,Cash on Delivery
+ORD-11901,16/01/2025,Emma Müller,Corporate,Germany,Europe,Clothing & Accessories,Travel Backpack 30L,5,82.49,10,371.2,12.32,152.66,Credit Card
+ORD-11421,22/01/2025,Karen Santos,Consumer,United Kingdom,Europe,Furniture,Ergonomic Office Chair,8,162.73,5,1236.75,21.92,433.73,Bank Transfer
+ORD-10655,24/01/2025,Patricia Ferrari,Consumer,Germany,Europe,Office Supplies,Highlighters Neon Pack 6,4,9.15,0,36.6,14.1,6.03,Cash on Delivery
+ORD-11930,26/01/2025,Isabella Tanaka,Consumer,Germany,Europe,Furniture,Desk Organizer Set,1,16.32,10,14.69,9.37,-4.47,Credit Card
+ORD-11115,30/01/2025,Kenji Martin,Consumer,Italy,Europe,Furniture,Mesh Back Task Chair,1,291.52,0,291.52,8.78,107.83,Credit Card
+ORD-11122,01/02/2025,Isabella Davis,Consumer,France,Europe,Clothing & Accessories,Canvas Messenger Bag,3,62.51,20,150.02,12.95,43.31,PayPal
+ORD-11138,02/02/2025,Mary Patel,Consumer,Spain,Europe,Technology,Noise Cancelling Earbuds,1,72.27,10,65.04,9.22,16.07,Bank Transfer
+ORD-10644,03/02/2025,Mia Weber,Consumer,Italy,Europe,Furniture,Folding Table Portable,7,46.41,25,243.65,12.24,36.49,Cash on Delivery
+ORD-10993,05/02/2025,Maria Moreau,Consumer,Germany,Europe,Clothing & Accessories,Leather Belt Classic,6,35.29,5,201.15,17.46,77.82,Cash on Delivery
+ORD-11509,05/02/2025,Priya Singh,Consumer,Italy,Europe,Clothing & Accessories,Polarized Sunglasses,5,26.79,0,133.95,18.6,48.37,PayPal
+ORD-11744,14/02/2025,Kenji Smith,Consumer,Germany,Europe,Furniture,Desk Organizer Set,3,22.63,5,64.5,12.28,11.49,Credit Card
+ORD-11839,18/02/2025,Li Suzuki,Consumer,Italy,Europe,Furniture,Folding Table Portable,3,46.46,20,111.5,8.73,19.14,PayPal
+ORD-11897,20/02/2025,Mary Miller,Home Office,France,Europe,Technology,Wireless Ergonomic Mouse,1,47.45,20,37.96,8.72,3.14,Credit Card
+ORD-11919,20/02/2025,Sakura Harris,Consumer,Germany,Europe,Office Supplies,Sticky Notes Multicolor 6-Pack,1,12.93,0,12.93,8.94,-1.83,PayPal
+ORD-11472,22/02/2025,Amir Taylor,Consumer,France,Europe,Technology,Mechanical Gaming Keyboard,1,146.2,5,138.89,7.89,50.59,Cash on Delivery
+ORD-11818,24/02/2025,Clara Costa,Corporate,Germany,Europe,Furniture,Desk Organizer Set,1,40.32,10,36.29,9.29,2.81,Cash on Delivery
+ORD-11755,03/03/2025,Emma Dubois,Consumer,France,Europe,Office Supplies,Sticky Notes Multicolor 6-Pack,6,14.68,15,74.87,15.34,19.89,Credit Card
+ORD-10317,05/03/2025,Ingrid Williams,Corporate,France,Europe,Furniture,Ergonomic Office Chair,4,163.97,0,655.88,16.75,245.6,PayPal
+ORD-11511,07/03/2025,Kenji Johansson,Consumer,Italy,Europe,Technology,Webcam HD 1080p,1,52.34,5,49.72,7.84,13.09,Bank Transfer
+ORD-10519,09/03/2025,Jessica Park,Home Office,Spain,Europe,Office Supplies,Binder Clips Assorted 48pc,1,7.4,0,7.4,8.05,-3.98,PayPal
+ORD-10444,15/03/2025,Giulia Taylor,Consumer,Germany,Europe,Furniture,Bookshelf 5-Tier,2,135.69,10,244.24,8.42,72.99,PayPal
+ORD-10136,16/03/2025,Xiao Weber,Home Office,United Kingdom,Europe,Clothing & Accessories,Silk Tie Collection,1,34.17,5,32.46,8.7,6.68,Bank Transfer
+ORD-10387,16/03/2025,Jennifer Harris,Home Office,Italy,Europe,Technology,Webcam HD 1080p,2,51.32,20,82.11,11.91,13.75,Credit Card
+ORD-11820,17/03/2025,Mia Anderson,Consumer,France,Europe,Furniture,Filing Cabinet 3-Drawer,3,137.47,10,371.17,12.7,111.02,PayPal
+ORD-10987,22/03/2025,Patricia Wang,Corporate,Germany,Europe,Furniture,Floating Wall Shelves Set,2,78.8,5,149.72,11.19,43.97,PayPal
+ORD-11487,22/03/2025,Sakura Zhang,Consumer,Spain,Europe,Technology,Webcam HD 1080p,2,67.91,0,135.82,8.98,52.14,PayPal
+ORD-10894,26/03/2025,John Martin,Home Office,Germany,Europe,Clothing & Accessories,Leather Wallet Minimalist,2,55.31,10,99.56,10.62,33.63,PayPal
+ORD-11310,26/03/2025,Hans Ali,Corporate,Italy,Europe,Office Supplies,Stapler Full-Size,4,19.04,5,72.35,13.88,24.2,Credit Card
+ORD-11862,26/03/2025,Thomas Clark,Consumer,Germany,Europe,Furniture,Desk Organizer Set,2,29.19,20,46.7,11.71,-0.04,Credit Card
+ORD-10704,31/03/2025,Fatima Müller,Corporate,Italy,Europe,Technology,Wireless Bluetooth Headphones,1,77.8,15,66.13,9.26,14.08,Bank Transfer
+ORD-11429,04/04/2025,Olga Wang,Corporate,France,Europe,Furniture,Desk Organizer Set,2,34.92,0,69.84,11.92,16.02,Cash on Delivery
+ORD-10300,06/04/2025,David Johansson,Corporate,Spain,Europe,Technology,Mechanical Gaming Keyboard,4,164.84,5,626.39,11.35,252.39,Cash on Delivery
+ORD-10803,06/04/2025,Emma Romano,Home Office,Spain,Europe,Technology,Wireless Bluetooth Headphones,1,219.67,0,219.67,7.71,91.14,Cash on Delivery
+ORD-11666,07/04/2025,Xiao Rodriguez,Corporate,Germany,Europe,Office Supplies,Ballpoint Pen Pack 12,2,9.78,15,16.63,10.08,-2.25,Bank Transfer
+ORD-11591,09/04/2025,Priya Romano,Home Office,Italy,Europe,Technology,Wireless Bluetooth Headphones,1,116.2,0,116.2,7.59,44.7,Credit Card
+ORD-11127,10/04/2025,Diego Weber,Home Office,Germany,Europe,Furniture,Filing Cabinet 3-Drawer,4,128.7,0,514.8,10.27,195.65,Credit Card
+ORD-11438,11/04/2025,Olga Russo,Consumer,Italy,Europe,Technology,Noise Cancelling Earbuds,1,115.93,5,110.13,9.29,37.08,Credit Card
+ORD-11089,12/04/2025,Hans Zhang,Home Office,Spain,Europe,Office Supplies,Desk Calendar 2025,3,9.38,5,26.73,8.95,5.12,PayPal
+ORD-10679,13/04/2025,Sophie Jones,Consumer,Spain,Europe,Technology,Laptop Stand Adjustable,2,44.96,0,89.92,11.48,28.98,Credit Card
+ORD-11027,13/04/2025,Amir Ali,Consumer,Italy,Europe,Office Supplies,Desk Calendar 2025,4,19.2,10,69.12,12.91,21.65,Credit Card
+ORD-11829,19/04/2025,Nadia Wang,Consumer,Spain,Europe,Furniture,Ergonomic Office Chair,7,294.09,0,2058.63,15.1,808.35,PayPal
+ORD-11577,22/04/2025,Xiao White,Corporate,Germany,Europe,Furniture,Filing Cabinet 3-Drawer,3,138.55,0,415.65,9.02,157.24,PayPal
+ORD-10244,27/04/2025,Michael Tanaka,Consumer,Germany,Europe,Furniture,Mesh Back Task Chair,2,163.76,15,278.39,11.15,70.73,PayPal
+ORD-10982,28/04/2025,Sophie Johnson,Home Office,Italy,Europe,Office Supplies,Stapler Full-Size,1,9.5,10,8.55,8.3,-4.03,PayPal
+ORD-10191,01/05/2025,Karen Hassan,Home Office,France,Europe,Clothing & Accessories,Cotton Formal Shirt,9,25.8,0,232.2,17.11,98.99,PayPal
+ORD-11952,01/05/2025,Hanna Rodriguez,Consumer,United Kingdom,Europe,Furniture,Filing Cabinet 3-Drawer,2,155.18,25,232.77,8.56,37.99,Credit Card
+ORD-11041,02/05/2025,Christopher Harris,Corporate,Germany,Europe,Furniture,Monitor Riser Wood,2,59.73,5,113.49,10.47,31.34,PayPal
+ORD-10293,04/05/2025,Emma Wang,Consumer,Italy,Europe,Office Supplies,Tape Dispenser Heavy Duty,6,12.86,15,65.59,16.27,14.6,Credit Card
+ORD-10485,04/05/2025,Omar Patel,Home Office,France,Europe,Technology,Mechanical Gaming Keyboard,5,53.7,5,255.07,19.21,88.18,PayPal
+ORD-10618,08/05/2025,Isabella Nilsson,Corporate,Germany,Europe,Furniture,Mesh Back Task Chair,4,250.2,5,950.76,13.7,336.58,PayPal
+ORD-10039,10/05/2025,Oscar Ali,Corporate,Germany,Europe,Furniture,Folding Table Portable,1,125.15,20,100.12,8.65,16.38,PayPal
+ORD-10158,10/05/2025,David Fischer,Consumer,Germany,Europe,Furniture,Mesh Back Task Chair,8,184.19,5,1399.84,12.28,503.45,Cash on Delivery
+ORD-11563,12/05/2025,Oscar Martin,Consumer,Spain,Europe,Technology,Wireless Ergonomic Mouse,1,38.97,0,38.97,8.55,8.99,Credit Card
+ORD-11538,13/05/2025,Pierre Fischer,Consumer,Germany,Europe,Clothing & Accessories,Polarized Sunglasses,2,43.41,0,86.82,8.71,34.7,Credit Card
+ORD-10851,20/05/2025,Emma Martin,Corporate,Italy,Europe,Furniture,Ergonomic Office Chair,5,243.91,5,1158.57,17.69,409.15,Credit Card
+ORD-10122,22/05/2025,William Khan,Corporate,Spain,Europe,Technology,Wireless Ergonomic Mouse,1,37.58,20,30.06,8.21,1.18,Cash on Delivery
+ORD-10612,22/05/2025,Ingrid Romano,Consumer,France,Europe,Furniture,Mesh Back Task Chair,5,175.88,5,835.43,13.32,294.47,Credit Card
+ORD-10507,26/05/2025,Patricia Kim,Home Office,United Kingdom,Europe,Furniture,Desk Organizer Set,1,33.54,0,33.54,7.97,5.45,Credit Card
+ORD-10206,29/05/2025,Ava Oliveira,Consumer,Germany,Europe,Clothing & Accessories,Leather Wallet Minimalist,6,28.43,5,162.05,16.94,59.82,PayPal
+ORD-10390,30/05/2025,Layla Chen,Corporate,Germany,Europe,Clothing & Accessories,Leather Belt Classic,3,41.25,5,117.56,8.91,46.78,PayPal
+ORD-11536,31/05/2025,Linda Wang,Consumer,France,Europe,Technology,Portable External SSD 1TB,1,100.53,10,90.48,9.22,25.97,Bank Transfer
+ORD-10597,03/06/2025,Thomas Brown,Home Office,France,Europe,Technology,Wireless Bluetooth Headphones,2,159.65,5,303.33,8.38,119.33,Bank Transfer
+ORD-11013,03/06/2025,Nadia Martin,Home Office,United Kingdom,Europe,Clothing & Accessories,Leather Belt Classic,2,16.7,15,28.39,11.41,0.28,Cash on Delivery
+ORD-11392,07/06/2025,Diego Li,Consumer,United Kingdom,Europe,Technology,Laptop Stand Adjustable,1,52.67,5,50.04,8.6,12.47,Credit Card
+ORD-11722,07/06/2025,Michael Yamamoto,Consumer,Germany,Europe,Clothing & Accessories,Wool Blend Scarf,5,16.98,15,72.17,10.38,19.34,PayPal
+ORD-11050,08/06/2025,Christopher Khan,Home Office,United Kingdom,Europe,Office Supplies,Binder Clips Assorted 48pc,4,6.96,15,23.66,14.15,-3.02,Credit Card
+ORD-10428,10/06/2025,Felix Patel,Consumer,Italy,Europe,Furniture,Bookshelf 5-Tier,1,126.48,5,120.16,9.35,34.92,Bank Transfer
+ORD-11243,12/06/2025,Isabella Russo,Corporate,Germany,Europe,Furniture,Bookshelf 5-Tier,1,177.19,10,159.47,7.89,45.27,Cash on Delivery
+ORD-10886,18/06/2025,Ava Clark,Consumer,United Kingdom,Europe,Clothing & Accessories,Leather Wallet Minimalist,4,44.68,10,160.85,12.79,58.7,Credit Card
+ORD-11185,18/06/2025,William Garcia,Corporate,United Kingdom,Europe,Office Supplies,Tape Dispenser Heavy Duty,1,19.01,15,16.16,9.44,-1.83,Credit Card
+ORD-10570,20/06/2025,Felix Pereira,Consumer,Italy,Europe,Office Supplies,Highlighters Neon Pack 6,2,11.32,0,22.64,10.02,2.43,PayPal
+ORD-11320,20/06/2025,Sophie Chen,Home Office,Spain,Europe,Furniture,Floating Wall Shelves Set,2,56.68,15,96.36,8.36,19.98,Credit Card
+ORD-10776,22/06/2025,Karen Yamamoto,Corporate,United Kingdom,Europe,Technology,Laptop Stand Adjustable,2,27.7,25,41.55,8.78,2.3,Credit Card
+ORD-11875,23/06/2025,David Kumar,Consumer,Spain,Europe,Technology,Wireless Ergonomic Mouse,1,51.63,0,51.63,7.8,15.43,PayPal
+ORD-11958,23/06/2025,Susan Harris,Consumer,France,Europe,Furniture,Bookshelf 5-Tier,1,144.89,10,130.4,8.09,35.38,Credit Card
+ORD-10639,24/06/2025,Hans Ferrari,Home Office,Germany,Europe,Office Supplies,Ballpoint Pen Pack 12,1,16.31,0,16.31,8.77,0.2,Credit Card
+ORD-11963,24/06/2025,Sarah Rossi,Corporate,United Kingdom,Europe,Office Supplies,Whiteboard Markers Set 8,5,19.61,20,78.44,10.31,24.01,Cash on Delivery
+ORD-10522,25/06/2025,Lucas Nilsson,Corporate,Germany,Europe,Furniture,Mesh Back Task Chair,8,284.78,5,2164.33,25.98,771.41,Bank Transfer
+ORD-11602,25/06/2025,Chen Martin,Consumer,Italy,Europe,Office Supplies,Whiteboard Markers Set 8,4,7.06,0,28.24,13.62,1.91,Cash on Delivery
+ORD-10914,27/06/2025,Patricia Jackson,Corporate,Spain,Europe,Clothing & Accessories,Leather Belt Classic,3,53.91,0,161.73,12.12,68.74,Credit Card
+ORD-10596,03/07/2025,Elizabeth Park,Corporate,United Kingdom,Europe,Office Supplies,Ballpoint Pen Pack 12,8,17.67,10,127.22,25.24,38.37,PayPal
+ORD-11574,03/07/2025,Emma Kim,Consumer,United Kingdom,Europe,Furniture,Folding Table Portable,1,94.65,10,85.19,8.91,19.49,Cash on Delivery
+ORD-10995,06/07/2025,Olivia Schmidt,Home Office,Italy,Europe,Clothing & Accessories,Sports Water Bottle 750ml,1,9.44,0,9.44,9.42,-4.7,PayPal
+ORD-11114,10/07/2025,Sakura Kim,Consumer,Germany,Europe,Clothing & Accessories,Leather Belt Classic,2,40.96,0,81.92,8.07,32.89,Credit Card
+ORD-10526,13/07/2025,Thomas Oliveira,Corporate,France,Europe,Furniture,Bookshelf 5-Tier,4,96.5,20,308.8,15.4,61.8,Credit Card
+ORD-10740,13/07/2025,William Martinez,Consumer,France,Europe,Clothing & Accessories,Sports Water Bottle 750ml,7,12.71,0,88.97,11.25,33.23,Cash on Delivery
+ORD-11937,13/07/2025,Carlos Tanaka,Corporate,France,Europe,Furniture,Corner L-Shaped Desk,5,431.91,5,2051.57,9.75,746.09,Bank Transfer
+ORD-11527,14/07/2025,Elizabeth Santos,Consumer,Germany,Europe,Clothing & Accessories,Leather Wallet Minimalist,2,15.72,10,28.3,9.2,3.38,Cash on Delivery
+ORD-10192,15/07/2025,Wei Laurent,Consumer,Italy,Europe,Furniture,Monitor Riser Wood,4,27.46,0,109.84,11.74,32.2,Credit Card
+ORD-10465,15/07/2025,John Suzuki,Corporate,United Kingdom,Europe,Furniture,Standing Desk Converter,1,239.62,15,203.68,9.4,50.51,Credit Card
+ORD-10782,15/07/2025,Christopher Park,Consumer,France,Europe,Furniture,Desk Organizer Set,2,59.54,5,113.13,9.46,32.22,Credit Card
+ORD-11016,15/07/2025,Layla Jackson,Consumer,Spain,Europe,Furniture,Folding Table Portable,1,77.09,5,73.24,9.28,17.71,PayPal
+ORD-10603,19/07/2025,Noah Russo,Consumer,United Kingdom,Europe,Clothing & Accessories,Business Casual Blazer,8,94.55,10,680.76,22.09,280.47,PayPal
+ORD-10875,19/07/2025,Patricia Pereira,Corporate,Spain,Europe,Furniture,Corner L-Shaped Desk,4,367.48,10,1322.93,9.83,431.15,Credit Card
+ORD-11854,19/07/2025,Richard Sharma,Consumer,Italy,Europe,Technology,USB-C Hub Multiport Adapter,1,44.78,10,40.3,8.85,6.82,Cash on Delivery
+ORD-10934,24/07/2025,Clara Brown,Home Office,Germany,Europe,Office Supplies,Premium Notebook Set A5,1,21.92,10,19.73,8.01,1.86,Bank Transfer
+ORD-10226,27/07/2025,Jennifer White,Home Office,France,Europe,Clothing & Accessories,Cotton Formal Shirt,3,49.04,10,132.41,10.87,47.98,PayPal
+ORD-10477,27/07/2025,Jessica Johnson,Consumer,Germany,Europe,Clothing & Accessories,Leather Belt Classic,5,15.17,25,56.89,12.81,6.16,Bank Transfer
+ORD-10746,28/07/2025,Ivan Laurent,Home Office,Germany,Europe,Furniture,Bookshelf 5-Tier,1,137.39,5,130.52,8.07,40.02,PayPal
+ORD-11118,31/07/2025,Mia Johnson,Consumer,Spain,Europe,Furniture,Desk Organizer Set,1,27.82,5,26.43,7.75,1.99,PayPal
+ORD-11439,31/07/2025,Maria Rodriguez,Consumer,United Kingdom,Europe,Clothing & Accessories,Travel Backpack 30L,3,107.11,5,305.26,11.77,132.82,Credit Card
+ORD-11465,05/08/2025,Kenji Santos,Home Office,France,Europe,Office Supplies,Ballpoint Pen Pack 12,3,15.81,10,42.69,11.47,9.88,Bank Transfer
+ORD-10118,09/08/2025,Noah Rodriguez,Consumer,Germany,Europe,Clothing & Accessories,Leather Wallet Minimalist,6,46.59,0,279.54,19.31,120.46,PayPal
+ORD-11180,10/08/2025,Robert Thomas,Consumer,Spain,Europe,Clothing & Accessories,Travel Backpack 30L,4,39.23,20,125.54,10.84,36.24,Bank Transfer
+ORD-11112,13/08/2025,Felix Leroy,Corporate,Spain,Europe,Clothing & Accessories,Sports Water Bottle 750ml,4,15.79,15,53.69,14.99,7.12,Bank Transfer
+ORD-10800,16/08/2025,Kenji Williams,Home Office,Germany,Europe,Clothing & Accessories,Leather Wallet Minimalist,11,28.85,5,301.48,31.33,111.48,PayPal
+ORD-11420,16/08/2025,Olga Yamamoto,Corporate,Germany,Europe,Technology,Portable External SSD 1TB,4,141.99,0,567.96,15.11,240.47,Bank Transfer
+ORD-11899,20/08/2025,Ivan Nilsson,Corporate,United Kingdom,Europe,Clothing & Accessories,Polarized Sunglasses,3,45.19,15,115.23,9.71,37.74,Credit Card
+ORD-10028,21/08/2025,Ahmed Johansson,Corporate,United Kingdom,Europe,Technology,Wireless Ergonomic Mouse,6,37.48,20,179.9,12.68,43.54,PayPal
+ORD-10451,23/08/2025,Elizabeth Williams,Corporate,United Kingdom,Europe,Clothing & Accessories,Travel Backpack 30L,4,33.66,0,134.64,10.38,56.94,Credit Card
+ORD-10781,25/08/2025,Ava Fischer,Corporate,Germany,Europe,Technology,Wireless Bluetooth Headphones,13,161.29,20,1677.42,27.16,497.04,Credit Card
+ORD-10164,27/08/2025,Hanna Sato,Consumer,Spain,Europe,Technology,Mechanical Gaming Keyboard,4,89.1,15,302.94,16.32,90.6,PayPal
+ORD-10739,27/08/2025,Amir Brown,Home Office,Italy,Europe,Technology,Mechanical Gaming Keyboard,9,162.84,10,1319.0,16.36,496.58,PayPal
+ORD-10307,28/08/2025,Ali Kim,Home Office,United Kingdom,Europe,Technology,Mechanical Gaming Keyboard,2,67.73,15,115.14,10.18,30.46,Cash on Delivery
+ORD-11140,29/08/2025,Jennifer Robinson,Consumer,United Kingdom,Europe,Clothing & Accessories,Polarized Sunglasses,8,75.6,10,544.32,14.7,227.22,Credit Card
+ORD-10037,30/08/2025,Ivan Costa,Home Office,Germany,Europe,Furniture,Filing Cabinet 3-Drawer,-5,222.78,15,378.73,9.94,101.45,Credit Card
+ORD-10486,01/09/2025,Lucas Romano,Consumer,France,Europe,Clothing & Accessories,Cotton Formal Shirt,5,38.66,0,193.3,12.1,84.55,PayPal
+ORD-10351,02/09/2025,Fatima Johnson,Consumer,France,Europe,Furniture,Floating Wall Shelves Set,3,95.44,0,286.32,14.19,100.34,PayPal
+ORD-10965,02/09/2025,Clara Robinson,Consumer,Italy,Europe,Furniture,Bookshelf 5-Tier,2,161.02,0,322.04,10.83,117.99,PayPal
+ORD-10771,05/09/2025,Ayumi Singh,Consumer,Spain,Europe,Office Supplies,Paper Clips Box 500pc,5,5.25,0,26.25,12.14,2.3,Credit Card
+ORD-11075,06/09/2025,Nadia Ahmed,Consumer,Spain,Europe,Office Supplies,Stapler Full-Size,3,7.54,0,22.62,10.42,2.02,Credit Card
+ORD-10234,08/09/2025,Sophie Sharma,Consumer,Spain,Europe,Technology,Portable External SSD 1TB,2,94.47,10,170.05,11.19,54.94,Credit Card
+ORD-10671,09/09/2025,Diego Sharma,Corporate,United Kingdom,Europe,Technology,Laptop Stand Adjustable,1,68.69,10,61.82,8.79,15.25,PayPal
+ORD-10643,11/09/2025,Marco Tanaka,Consumer,Italy,Europe,Technology,USB-C Hub Multiport Adapter,1,52.17,20,41.74,7.51,5.54,Cash on Delivery
+ORD-11046,15/09/2025,Sophie White,Corporate,Spain,Europe,Office Supplies,Paper Clips Box 500pc,3,9.7,5,27.64,13.8,0.75,Credit Card
+ORD-10133,16/09/2025,Patricia Weber,Home Office,France,Europe,Technology,Smart LED Desk Lamp,1,39.87,0,39.87,8.38,9.56,PayPal
+ORD-11753,16/09/2025,Christopher Rodriguez,Consumer,Spain,Europe,Technology,Noise Cancelling Earbuds,2,195.6,5,371.64,8.2,148.28,PayPal
+ORD-10047,17/09/2025,Karen Suzuki,Consumer,France,Europe,Furniture,Folding Table Portable,6,64.16,15,327.22,11.04,85.2,Cash on Delivery
+ORD-10235,19/09/2025,Robert Tanaka,Corporate,Spain,Europe,Furniture,Folding Table Portable,2,85.22,5,161.92,9.28,50.38,Credit Card
+ORD-10628,19/09/2025,Joseph Wang,Home Office,Italy,Europe,Furniture,Standing Desk Converter,1,237.11,20,189.69,7.78,39.64,Bank Transfer
+ORD-10536,20/09/2025,Joseph Weber,Consumer,Spain,Europe,Furniture,Standing Desk Converter,7,311.46,0,2180.22,11.81,860.28,Cash on Delivery
+ORD-10940,23/09/2025,Robert Rodriguez,Consumer,Italy,Europe,Office Supplies,Tape Dispenser Heavy Duty,12,9.02,5,102.83,26.58,27.54,Cash on Delivery
+ORD-10313,24/09/2025,Noah Fischer,Consumer,France,Europe,Office Supplies,Desk Calendar 2025,1,15.04,0,15.04,9.15,-0.88,Cash on Delivery
+ORD-10505,25/09/2025,Fatima Weber,Consumer,Italy,Europe,Office Supplies,Stapler Full-Size,4,15.78,10,56.81,13.58,14.83,PayPal
+ORD-11040,25/09/2025,Diego Ferrari,Corporate,Germany,Europe,Clothing & Accessories,Business Casual Blazer,1,78.87,25,59.15,8.91,10.8,PayPal
+ORD-10552,26/09/2025,Zara Williams,Consumer,Spain,Europe,Technology,Wireless Bluetooth Headphones,2,153.3,5,291.27,8.25,114.39,Cash on Delivery
+ORD-10195,29/09/2025,Maria Ahmed,Consumer,France,Europe,Furniture,Desk Organizer Set,4,41.86,10,150.7,11.78,38.46,Bank Transfer
+ORD-11945,30/09/2025,Sakura Rossi,Consumer,Germany,Europe,Clothing & Accessories,Travel Backpack 30L,4,55.18,20,176.58,14.34,51.88,Cash on Delivery
+ORD-11703,02/10/2025,Zara Oliveira,Home Office,France,Europe,Technology,USB-C Hub Multiport Adapter,10,34.31,10,308.79,21.64,98.44,PayPal
+ORD-10649,04/10/2025,Wei Zhang,Consumer,Germany,Europe,Technology,Laptop Stand Adjustable,2,67.56,5,128.36,9.15,44.89,PayPal
+ORD-10719,05/10/2025,Sophie Tanaka,Consumer,Spain,Europe,Furniture,Filing Cabinet 3-Drawer,3,145.39,5,414.36,11.97,140.69,PayPal
+ORD-11052,05/10/2025,Lucas Hassan,Consumer,United Kingdom,Europe,Furniture,Ergonomic Office Chair,4,333.64,5,1267.83,10.24,456.85,Bank Transfer
+ORD-10836,09/10/2025,Jessica Garcia,Consumer,Germany,Europe,Office Supplies,Sticky Notes Multicolor 6-Pack,7,13.9,0,97.3,12.19,41.33,Credit Card
+ORD-11230,09/10/2025,Liam Rodriguez,Consumer,France,Europe,Furniture,Floating Wall Shelves Set,2,50.77,0,101.54,11.84,28.78,Cash on Delivery
+ORD-10097,15/10/2025,Sarah Kim,Consumer,United Kingdom,Europe,Office Supplies,Desk Calendar 2025,3,7.81,0,23.43,11.85,1.04,PayPal
+ORD-11192,17/10/2025,Giulia Oliveira,Corporate,Italy,Europe,Clothing & Accessories,Silk Tie Collection,2,31.6,15,53.72,10.11,12.01,Credit Card
+ORD-10733,18/10/2025,Mary Martinez,Corporate,United Kingdom,Europe,Technology,Webcam HD 1080p,2,40.18,0,80.36,10.31,25.85,Credit Card
+ORD-10743,19/10/2025,Liam Smith,Consumer,Germany,Europe,Clothing & Accessories,Cotton Formal Shirt,4,59.6,0,238.4,14.78,104.42,Cash on Delivery
+ORD-10431,21/10/2025,Pierre Wang,Corporate,Spain,Europe,Office Supplies,Whiteboard Markers Set 8,3,7.81,15,19.92,9.35,0.03,Bank Transfer
+ORD-10216,23/10/2025,Jennifer Brown,Home Office,France,Europe,Office Supplies,Binder Clips Assorted 48pc,1,12.72,10,11.45,8.73,-3.0,Credit Card
+ORD-10251,25/10/2025,Pierre Fischer,Consumer,United Kingdom,Europe,Office Supplies,Tape Dispenser Heavy Duty,4,21.61,10,77.8,9.96,28.94,Bank Transfer
+ORD-11605,27/10/2025,Hans Rossi,Consumer,France,Europe,Technology,Wireless Bluetooth Headphones,8,47.09,10,339.05,20.61,111.24,Bank Transfer
+ORD-11531,30/10/2025,Wei White,Home Office,France,Europe,Furniture,Ergonomic Office Chair,3,414.09,10,1118.04,13.11,359.57,PayPal
+ORD-11972,30/10/2025,Emma Miller,Consumer,Spain,Europe,Clothing & Accessories,Travel Backpack 30L,4,90.28,15,306.95,11.43,114.96,Credit Card
+ORD-10566,31/10/2025,Giulia Harris,Home Office,Italy,Europe,Technology,Wireless Bluetooth Headphones,2,217.52,10,391.54,8.5,143.77,Bank Transfer
+ORD-11490,01/11/2025,Wei Jackson,Home Office,United Kingdom,Europe,Furniture,Standing Desk Converter,10,320.82,20,2566.56,27.0,614.64,Bank Transfer
+ORD-10858,03/11/2025,Hans Sato,Corporate,Spain,Europe,Technology,Wireless Bluetooth Headphones,5,248.6,25,932.25,17.13,231.47,Bank Transfer
+ORD-11256,03/11/2025,Ivan Sato,Consumer,Spain,Europe,Furniture,Corner L-Shaped Desk,2,297.84,15,506.33,8.55,140.37,Bank Transfer
+ORD-11940,03/11/2025,Hanna Hassan,Home Office,France,Europe,Technology,Portable External SSD 1TB,6,110.54,10,596.92,21.12,211.02,PayPal
+ORD-11987,04/11/2025,Hanna Ferrari,Consumer,Italy,Europe,Technology,Tablet Stand Holder,1,48.57,15,41.28,8.92,5.65,PayPal
+ORD-11543,08/11/2025,James Rossi,Consumer,France,Europe,Furniture,Monitor Riser Wood,5,72.91,5,346.32,18.06,109.53,Credit Card
+ORD-11926,08/11/2025,Susan Yamamoto,Home Office,United Kingdom,Europe,Furniture,Mesh Back Task Chair,1,272.64,10,245.38,9.12,72.68,Credit Card
+ORD-11556,09/11/2025,Susan Jackson,Corporate,United Kingdom,Europe,Furniture,Standing Desk Converter,3,263.77,5,751.74,8.65,268.3,Bank Transfer
+ORD-11145,10/11/2025,Marco Sato,Consumer,Germany,Europe,Furniture,Floating Wall Shelves Set,4,78.41,0,313.64,10.24,115.22,Credit Card
+ORD-10758,14/11/2025,Jessica Thomas,Corporate,Spain,Europe,Office Supplies,Sticky Notes Multicolor 6-Pack,1,13.54,5,12.86,8.16,-1.39,Credit Card
+ORD-10086,17/11/2025,Joseph Zhang,Consumer,France,Europe,Office Supplies,Highlighters Neon Pack 6,9,9.04,0,81.36,25.6,19.15,Cash on Delivery
+ORD-11102,17/11/2025,William Sato,Corporate,Italy,Europe,Technology,Wireless Ergonomic Mouse,7,41.83,5,278.17,10.79,106.33,PayPal
+ORD-10921,24/11/2025,Christopher Romano,Consumer,Spain,Europe,Furniture,Folding Table Portable,11,121.0,10,1197.9,25.42,373.88,PayPal
+ORD-10333,26/11/2025,Clara Hassan,Corporate,Germany,Europe,Technology,Laptop Stand Adjustable,3,75.55,15,192.65,11.85,56.14,PayPal
+ORD-10593,27/11/2025,Emma Suzuki,Home Office,United Kingdom,Europe,Furniture,Desk Organizer Set,1,38.28,10,34.45,7.59,3.89,Cash on Delivery
+ORD-10933,29/11/2025,Raj White,Home Office,France,Europe,Office Supplies,Whiteboard Markers Set 8,2,13.2,5,25.08,9.67,3.53,Bank Transfer
+ORD-10957,30/11/2025,Omar Ali,Corporate,Spain,Europe,Furniture,Monitor Riser Wood,1,66.79,10,60.11,8.82,11.22,PayPal
+ORD-10353,07/12/2025,Lucas Sato,Consumer,United Kingdom,Europe,Clothing & Accessories,Leather Belt Classic,3,28.76,0,86.28,14.03,29.11,Cash on Delivery
+ORD-10272,09/12/2025,Jennifer Clark,Home Office,Spain,Europe,Furniture,Bookshelf 5-Tier,7,107.98,5,718.07,13.14,251.41,Cash on Delivery
+ORD-10888,09/12/2025,Ahmed Dubois,Consumer,Spain,Europe,Technology,Tablet Stand Holder,1,45.07,5,42.82,9.42,8.61,Cash on Delivery
+ORD-10922,11/12/2025,Mia Tanaka,Home Office,Germany,Europe,Furniture,Corner L-Shaped Desk,1,416.05,20,332.84,8.18,75.03,Credit Card
+ORD-10723,16/12/2025,Hanna Martinez,Corporate,Germany,Europe,Office Supplies,Paper Clips Box 500pc,4,6.29,10,22.64,14.16,-2.84,Credit Card
+ORD-10142,17/12/2025,Ingrid Li,Consumer,Spain,Europe,Technology,Tablet Stand Holder,1,52.93,0,52.93,8.13,15.69,Credit Card
+ORD-11692,19/12/2025,Ingrid Suzuki,Consumer,Italy,Europe,Furniture,Folding Table Portable,2,46.63,5,88.6,11.27,21.37,Cash on Delivery
+ORD-10268,21/12/2025,Elizabeth Fischer,Home Office,Italy,Europe,Technology,Wireless Bluetooth Headphones,1,223.52,20,178.82,8.19,47.69,Cash on Delivery
+ORD-10077,23/12/2025,Carlos Thomas,Consumer,France,Europe,Furniture,Monitor Riser Wood,2,70.68,15,120.16,9.93,25.41,Bank Transfer
+ORD-10938,23/12/2025,Kenji Harris,Consumer,France,Europe,Clothing & Accessories,Business Casual Blazer,5,55.45,15,235.66,16.49,80.55,Bank Transfer
+ORD-10419,28/12/2025,Ayumi Russo,Consumer,Germany,Europe,Technology,Wireless Ergonomic Mouse,1,48.39,15,41.13,8.9,5.62,Credit Card
+ORD-10372,29/12/2025,Maria Leroy,Consumer,Germany,Europe,Clothing & Accessories,Leather Wallet Minimalist,7,61.68,10,388.58,24.46,148.24,Bank Transfer
+ORD-10188,30/12/2025,Elizabeth Müller,Home Office,Italy,Europe,Furniture,Mesh Back Task Chair,5,204.17,5,969.81,18.46,338.84,PayPal
+ORD-10823,31/12/2025,Linda Nilsson,Consumer,France,Europe,Furniture,Folding Table Portable,5,104.73,0,523.65,19.1,190.36,PayPal
+ORD-10896,31/12/2025,Ayumi Dubois,Consumer,France,Europe,Clothing & Accessories,Cotton Formal Shirt,11,59.27,5,619.37,20.94,272.44,PayPal
+ORD-11148,31/12/2025,Barbara Jones,Consumer,Spain,Europe,Technology,Webcam HD 1080p,-5,31.79,15,162.13,15.19,42.03,Bank Transfer
+ORD-11519,31/12/2025,Maria Suzuki,Home Office,Spain,Europe,Clothing & Accessories,Sports Water Bottle 750ml,5,9.5,5,45.12,14.25,7.12,Credit Card
+ORD-10404,10/07/2023,Carlos Schmidt,Corporate,United Kingdom,Europe,Office Supplies,Whiteboard Markers Set 8,2,11.9,0,23.8,9.71,3.38,PayPal
+ORD-11768,01/07/2024,Joseph Singh,Consumer,Italy,Europe,Clothing & Accessories,Sports Water Bottle 750ml,1,23.88,5,22.69,9.01,1.74,Credit Card
+ORD-10251,25/10/2025,Pierre Fischer,Consumer,United Kingdom,Europe,Office Supplies,Tape Dispenser Heavy Duty,4,21.61,10,77.8,9.96,28.94,Bank Transfer

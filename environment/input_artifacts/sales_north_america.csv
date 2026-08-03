@@ -1,0 +1,584 @@
+Order_ID,Order_Date,Customer_Name,Customer_Segment,Country,Region,Product_Category,Product_Name,Quantity,Unit_Price,Discount_Percent,Total_Sales,Shipping_Cost,Profit,Payment_Method
+ORD-11121,2023-01-02,Karen Suzuki,Corporate,United States,North America,Technology,Wireless Bluetooth Headphones,3,99.43,0,298.29,9.31,124.92,Cash on Delivery
+ORD-10325,2023-01-03,Jessica Garcia,Consumer,Mexico,North America,Office Supplies,Binder Clips Assorted 48pc,2,10.74,0,21.48,8.12,3.69,Credit Card
+ORD-11746,2023-01-05,Fatima Suzuki,Consumer,Mexico,North America,Furniture,Bookshelf 5-Tier,1,61.93,10,55.74,5.88,12.7,PayPal
+ORD-11162,2023-01-06,Felix Rodriguez,Home Office,United States,North America,Office Supplies,Premium Notebook Set A5,2,15.03,5,28.56,6.59,8.44,PayPal
+ORD-10402,2023-01-14,Jamal Schmidt,Consumer,Mexico,North America,Furniture,Folding Table Portable,6,96.58,0,579.48,10.22,221.57,Credit Card
+ORD-10736,2023-01-17,Jennifer Russo,Home Office,United States,North America,Technology,Smart LED Desk Lamp,2,32.91,0,65.82,7.55,22.07,PayPal
+ORD-11128,2023-01-18,Amir Oliveira,Consumer,Mexico,North America,Furniture,Standing Desk Converter,5,333.59,10,1501.15,9.02,491.36,Credit Card
+ORD-10968,2023-01-23,Wei Müller,Consumer,Canada,North America,Furniture,Floating Wall Shelves Set,4,37.18,5,141.28,12.28,39.77,Credit Card
+ORD-10599,2023-01-26,Chen Laurent,Consumer,United States,North America,Technology,Mechanical Gaming Keyboard,1,167.57,5,159.19,6.21,60.82,PayPal
+ORD-10694,2023-01-28,Susan Johansson,Consumer,Mexico,North America,Technology,Webcam HD 1080p,3,55.78,0,167.34,9.38,65.92,Credit Card
+ORD-10435,2023-01-30,Priya Martin,Consumer,Canada,North America,Office Supplies,Stapler Full-Size,4,16.61,5,63.12,8.4,24.82,Bank Transfer
+ORD-11220,2023-01-31,Amir Hassan,Consumer,United States,North America,Clothing & Accessories,Cotton Formal Shirt,4,53.6,0,214.4,8.52,98.68,PayPal
+ORD-10787,2023-02-01,Ahmed Clark,Consumer,Canada,North America,Technology,Tablet Stand Holder,3,19.94,0,59.82,8.61,18.31,Bank Transfer
+ORD-10745,2023-02-03,Yuki Kumar,Corporate,Canada,North America,Furniture,Standing Desk Converter,4,274.83,10,989.39,10.28,319.52,Credit Card
+ORD-11711,2023-02-07,Layla Khan,Home Office,Canada,North America,Technology,Noise Cancelling Earbuds,1,63.94,10,57.55,6.86,15.52,PayPal
+ORD-11507,2023-02-09,Zara Suzuki,Consumer,Canada,North America,Furniture,Bookshelf 5-Tier,4,118.02,0,472.08,7.9,180.93,Bank Transfer
+ORD-10256,2023-02-11,Michael Zhang,Consumer,Canada,North America,Office Supplies,Paper Clips Box 500pc,3,4.96,10,13.39,7.09,-0.4,Cash on Delivery
+ORD-10473,2023-02-15,Kenji Zhang,Corporate,United States,North America,Technology,Noise Cancelling Earbuds,2,143.15,5,271.99,8.58,105.94,Credit Card
+ORD-11304,2023-02-15,Ayumi Martinez,Home Office,Canada,North America,Furniture,Folding Table Portable,8,126.81,10,913.03,22.05,282.29,Cash on Delivery
+ORD-11196,2023-02-17,Mia Ali,Corporate,United States,North America,Furniture,Monitor Riser Wood,2,47.62,5,90.48,8.3,25.04,Bank Transfer
+ORD-10855,2023-02-19,Felix Johansson,Consumer,Canada,North America,Office Supplies,Sticky Notes Multicolor 6-Pack,5,4.37,15,18.57,11.28,-2.54,PayPal
+ORD-11922,2023-02-20,Sophie Park,Consumer,Mexico,North America,Clothing & Accessories,Leather Belt Classic,4,54.4,5,206.72,7.53,90.39,Cash on Delivery
+ORD-10594,2023-02-21,Ayumi Khan,Consumer,United States,North America,Technology,Smart LED Desk Lamp,8,72.89,0,583.12,14.27,248.13,Credit Card
+ORD-11624,2023-02-21,Felix Thompson,Consumer,Canada,North America,Furniture,Ergonomic Office Chair,6,472.56,0,2835.36,19.09,1115.05,PayPal
+ORD-10843,2023-02-22,Jennifer Moreau,Corporate,Canada,North America,Technology,Tablet Stand Holder,2,32.06,0,64.12,7.82,21.03,Cash on Delivery
+ORD-10392,2023-02-23,Priya Martinez,Corporate,United States,North America,Office Supplies,Paper Clips Box 500pc,4,7.24,10,26.06,8.85,4.18,Credit Card
+ORD-10113,2023-02-27,Mia Harris,Consumer,United States,North America,Technology,Webcam HD 1080p,1,77.48,0,77.48,7.16,27.71,PayPal
+ORD-11900,2023-02-27,Oscar Jones,Consumer,Canada,North America,Clothing & Accessories,Silk Tie Collection,2,26.25,10,47.25,6.27,14.73,Credit Card
+ORD-11202,2023-03-02,Mary Smith,Home Office,United States,North America,Furniture,Mesh Back Task Chair,1,113.52,10,102.17,7.35,26.71,Credit Card
+ORD-11217,2023-03-04,Jamal Martinez,Consumer,Canada,North America,Technology,Mechanical Gaming Keyboard,9,90.24,10,730.94,18.86,265.39,Credit Card
+ORD-11279,2023-03-07,Clara Miller,Consumer,United States,North America,Office Supplies,Tape Dispenser Heavy Duty,8,20.92,0,167.36,18.97,73.08,Bank Transfer
+ORD-10874,2023-03-10,Mia Martin,Corporate,Canada,North America,Office Supplies,Binder Clips Assorted 48pc,4,5.48,5,20.82,12.0,-1.04,Cash on Delivery
+ORD-11006,2023-03-15,Barbara Leroy,Home Office,Mexico,North America,Technology,Mechanical Gaming Keyboard,2,54.94,0,109.88,8.77,40.68,Credit Card
+ORD-10637,2023-03-19,Mia Weber,Consumer,United States,North America,Office Supplies,Highlighters Neon Pack 6,2,11.39,0,22.78,8.57,3.96,Bank Transfer
+ORD-11917,2023-03-22,Fatima Li,Consumer,United States,North America,Office Supplies,Desk Calendar 2025,2,6.29,0,12.58,7.22,-0.3,Bank Transfer
+ORD-11156,2023-03-25,Omar Leroy,Corporate,Canada,North America,Clothing & Accessories,Cotton Formal Shirt,2,52.89,0,105.78,6.27,46.62,Cash on Delivery
+ORD-11633,2023-03-25,Carlos Smith,Home Office,United States,North America,Furniture,Desk Organizer Set,11,30.48,0,335.28,29.96,104.15,Credit Card
+ORD-10395,2023-03-27,Emma Pereira,Consumer,Canada,North America,Clothing & Accessories,Wool Blend Scarf,9,32.74,10,265.19,19.15,98.71,PayPal
+ORD-10450,2023-03-29,Ayumi Johnson,Consumer,Mexico,North America,Technology,Noise Cancelling Earbuds,4,113.34,15,385.36,8.19,127.82,PayPal
+ORD-11088,2023-03-29,Hans Santos,Consumer,Canada,North America,Office Supplies,Premium Notebook Set A5,5,11.27,5,53.53,12.0,16.17,Bank Transfer
+ORD-11452,2023-03-29,Thomas Oliveira,Corporate,United States,North America,Office Supplies,Paper Clips Box 500pc,1,5.67,15,4.82,5.95,-3.68,Credit Card
+ORD-11766,2023-04-01,James Anderson,Corporate,United States,North America,Clothing & Accessories,Cotton Formal Shirt,3,37.69,30,79.15,7.34,15.28,PayPal
+ORD-10306,2023-04-04,James Sharma,Corporate,Mexico,North America,Office Supplies,Ballpoint Pen Pack 12,3,9.65,5,27.5,10.62,3.85,PayPal
+ORD-10903,2023-04-04,Priya Zhang,Corporate,Mexico,North America,Office Supplies,Desk Calendar 2025,2,15.49,10,27.88,6.07,7.87,PayPal
+ORD-11610,2023-04-04,Richard Ali,Consumer,Mexico,North America,Office Supplies,Stapler Full-Size,1,13.0,5,12.35,5.81,0.69,Bank Transfer
+ORD-10071,2023-04-05,Richard Müller,Consumer,United States,North America,Furniture,Ergonomic Office Chair,2,252.68,0,505.36,8.12,194.02,PayPal
+ORD-10840,2023-04-09,Priya Park,Consumer,Canada,North America,Office Supplies,Tape Dispenser Heavy Duty,6,17.86,5,101.8,11.87,41.71,Credit Card
+ORD-11868,2023-04-10,Maria Martinez,Consumer,Mexico,North America,Technology,Mechanical Gaming Keyboard,1,133.59,10,120.23,6.48,40.28,PayPal
+ORD-11664,2023-04-13,Hans Fischer,Corporate,Canada,North America,Furniture,Mesh Back Task Chair,2,244.78,10,440.6,9.82,137.04,PayPal
+ORD-11552,2023-04-16,Li Taylor,Consumer,Mexico,North America,Technology,Portable External SSD 1TB,2,94.43,10,169.97,6.86,59.24,PayPal
+ORD-10427,2023-04-19,Clara Oliveira,Consumer,Canada,North America,Technology,Noise Cancelling Earbuds,2,171.32,15,291.24,9.46,93.33,Credit Card
+ORD-11810,2023-04-19,Carlos Wang,Corporate,United States,North America,Technology,Wireless Bluetooth Headphones,3,82.93,20,199.03,12.36,49.84,PayPal
+ORD-11731,2023-04-21,Barbara Suzuki,Consumer,Canada,North America,Furniture,Corner L-Shaped Desk,2,308.79,0,617.58,7.21,239.82,Credit Card
+ORD-11008,2023-04-26,Marco Taylor,Consumer,Mexico,North America,Furniture,Bookshelf 5-Tier,3,192.55,0,577.65,10.26,220.8,Credit Card
+ORD-11363,2023-05-01,Mia Smith,Consumer,Canada,North America,Technology,Tablet Stand Holder,1,29.87,0,29.87,6.43,7.01,Bank Transfer
+ORD-10462,2023-05-03,Raj Thomas,Consumer,Mexico,North America,Technology,Laptop Stand Adjustable,3,71.84,0,215.52,8.56,88.42,Cash on Delivery
+ORD-10703,2023-05-05,Priya Chen,Home Office,Mexico,North America,Office Supplies,Sticky Notes Multicolor 6-Pack,2,12.15,10,,9.48,1.46,Cash on Delivery
+ORD-11385,2023-05-06,Ali Miller,Consumer,Mexico,North America,Office Supplies,Stapler Full-Size,1,16.13,15,13.71,6.12,0.33,Cash on Delivery
+ORD-11895,2023-05-06,John Robinson,Consumer,Canada,North America,Technology,Laptop Stand Adjustable,2,44.17,5,83.92,6.3,29.03,Credit Card
+ORD-11484,2023-05-11,Christopher Taylor,Consumer,Canada,North America,Technology,USB-C Hub Multiport Adapter,3,47.53,15,121.2,7.18,35.6,Bank Transfer
+ORD-11298,2023-05-15,Raj Rossi,Consumer,Mexico,North America,Furniture,Bookshelf 5-Tier,4,65.92,5,250.5,13.46,78.83,Credit Card
+ORD-11682,2023-05-15,Patricia Dubois,Corporate,Mexico,North America,Furniture,Mesh Back Task Chair,1,121.55,25,91.16,6.6,11.63,PayPal
+ORD-11776,2023-05-16,Jennifer Costa,Consumer,Mexico,North America,Furniture,Standing Desk Converter,3,180.1,10,486.27,8.31,153.78,PayPal
+ORD-10941,2023-05-18,Emma Johansson,Corporate,Canada,North America,Office Supplies,Stapler Full-Size,3,8.2,0,24.6,7.45,6.08,PayPal
+ORD-11435,2023-05-18,Lucas Khan,Consumer,United States,North America,Furniture,Mesh Back Task Chair,2,295.24,0,590.48,9.07,227.12,PayPal
+ORD-11513,2023-05-20,Sophie Yamamoto,Consumer,United States,North America,Clothing & Accessories,Leather Wallet Minimalist,5,26.84,0,134.2,17.2,49.9,PayPal
+ORD-10562,2023-05-23,Patricia Müller,Consumer,Mexico,North America,Technology,Webcam HD 1080p,5,54.1,5,256.97,11.43,96.77,Credit Card
+ORD-11740,2023-05-25,Zara Rodriguez,Consumer,Mexico,North America,Office Supplies,Tape Dispenser Heavy Duty,4,10.54,15,35.84,10.87,6.0,Bank Transfer
+ORD-10422,2023-05-26,Clara Santos,Corporate,Mexico,North America,Office Supplies,Tape Dispenser Heavy Duty,3,15.84,5,45.14,7.96,15.8,Credit Card
+ORD-10129,2023-06-01,Oscar Santos,Corporate,Canada,North America,Furniture,Floating Wall Shelves Set,7,54.12,15,322.01,17.46,77.25,Credit Card
+ORD-10937,2023-06-01,Kenji Robinson,Consumer,Mexico,North America,Furniture,Mesh Back Task Chair,7,263.11,10,1657.59,16.54,535.99,PayPal
+ORD-10979,2023-06-05,Zara Kim,Corporate,Mexico,North America,Technology,Laptop Stand Adjustable,8,64.14,15,436.15,22.64,131.29,Credit Card
+ORD-11080,2023-06-07,Zara Ferrari,Consumer,United States,North America,Technology,Wireless Ergonomic Mouse,2,32.45,10,58.41,8.62,14.09,Credit Card
+ORD-11103,2023-06-08,Nadia Costa,Consumer,United States,North America,Office Supplies,Binder Clips Assorted 48pc,2,6.85,0,13.7,7.41,0.12,Credit Card
+ORD-10727,2023-06-09,Mia Sharma,Consumer,United States,North America,Furniture,Desk Organizer Set,2,16.26,5,30.89,6.26,5.12,PayPal
+ORD-11322,2023-06-10,Amir Chen,Consumer,Canada,North America,Furniture,Ergonomic Office Chair,3,229.47,15,585.15,9.83,162.27,Credit Card
+ORD-10146,2023-06-11,Ethan Park,Home Office,Canada,North America,Furniture,Corner L-Shaped Desk,5,336.47,0,1682.35,15.78,657.16,Credit Card
+ORD-11155,2023-06-11,Noah Khan,Home Office,United States,North America,Technology,Portable External SSD 1TB,5,88.03,15,374.13,16.63,115.42,Credit Card
+ORD-11031,2023-06-12,James Suzuki,Corporate,United States,North America,Furniture,Floating Wall Shelves Set,6,43.48,15,221.75,13.94,51.28,Bank Transfer
+ORD-10349,2023-06-13,Thomas Li,Consumer,Mexico,North America,Technology,Smart LED Desk Lamp,1,30.15,15,25.63,6.6,2.45,Credit Card
+ORD-11733,2023-06-13,Michael Khan,Corporate,Mexico,North America,Office Supplies,Tape Dispenser Heavy Duty,3,18.83,10,50.84,10.96,14.46,Credit Card
+ORD-11307,2023-06-22,William Clark,Corporate,Mexico,North America,Clothing & Accessories,Sports Water Bottle 750ml,4,27.6,10,99.36,13.33,30.83,PayPal
+ORD-10182,2023-06-23,Emma Pereira,Consumer,Canada,North America,Office Supplies,Tape Dispenser Heavy Duty,11,23.39,10,231.56,14.23,101.55,Credit Card
+ORD-10700,2023-06-28,Mia Harris,Corporate,Canada,North America,Clothing & Accessories,Leather Belt Classic,3,40.18,0,120.54,12.31,47.96,Cash on Delivery
+ORD-10661,2023-06-29,Olga Nilsson,Consumer,Canada,North America,Technology,Webcam HD 1080p,9,74.43,10,602.88,11.59,222.86,Credit Card
+ORD-11564,2023-07-01,Giulia Johnson,Corporate,Mexico,North America,Clothing & Accessories,Cotton Formal Shirt,3,48.59,15,123.9,9.9,41.12,Credit Card
+ORD-10977,2023-07-05,Ingrid Khan,Home Office,Mexico,North America,Office Supplies,Whiteboard Markers Set 8,4,15.95,15,54.23,8.62,16.9,Cash on Delivery
+ORD-10008,2023-07-06,Lucas White,Home Office,Canada,North America,Office Supplies,Ballpoint Pen Pack 12,1,6.99,10,6.29,6.69,-3.55,Credit Card
+ORD-11100,2023-07-06,Nadia Jackson,Corporate,United States,North America,Office Supplies,Stapler Full-Size,2,19.72,10,35.5,6.38,11.37,Bank Transfer
+ORD-11562,2023-07-06,Susan Miller,Corporate,Mexico,North America,Technology,Smart LED Desk Lamp,2,52.02,15,88.43,7.14,24.07,PayPal
+ORD-11154,2023-07-10,Oscar Johnson,Consumer,United States,North America,Clothing & Accessories,Sports Water Bottle 750ml,6,21.26,5,121.18,9.14,48.26,Credit Card
+ORD-11859,2023-07-10,Jennifer Garcia,Consumer,Canada,North America,Clothing & Accessories,Polarized Sunglasses,1,59.16,10,53.24,6.6,17.06,Credit Card
+ORD-11182,2023-07-11,Elizabeth Harris,Corporate,Mexico,North America,Technology,Webcam HD 1080p,6,62.93,0,377.58,13.89,156.02,Bank Transfer
+ORD-11380,2023-07-12,Ali Jones,Consumer,Mexico,North America,Clothing & Accessories,Wool Blend Scarf,4,54.62,0,218.48,11.36,97.88,Credit Card
+ORD-10090,2023-07-17,Jamal Jones,Consumer,Canada,North America,Office Supplies,Whiteboard Markers Set 8,3,18.99,10,51.27,9.87,15.76,Credit Card
+ORD-11808,2023-07-19,Mary Weber,Corporate,Canada,North America,Technology,Smart LED Desk Lamp,2,56.54,5,107.43,7.32,37.92,PayPal
+ORD-10681,2023-07-22,Ethan Chen,Corporate,Canada,North America,Clothing & Accessories,Leather Belt Classic,5,27.72,5,131.67,15.56,46.81,PayPal
+ORD-10945,2023-07-26,Karen Thomas,Corporate,United States,North America,Technology,Tablet Stand Holder,1,52.78,0,52.78,6.2,17.55,Credit Card
+ORD-11934,2023-07-28,Robert Park,Consumer,United States,North America,Office Supplies,Desk Calendar 2025,1,10.76,10,9.68,6.28,-1.44,PayPal
+ORD-10001,2023-07-29,Joseph Johnson,Corporate,United States,North America,Office Supplies,Tape Dispenser Heavy Duty,2,9.48,0,18.96,6.87,3.56,PayPal
+ORD-10980,2023-08-01,Olivia Moreau,Consumer,Canada,North America,Clothing & Accessories,Canvas Messenger Bag,10,64.87,5,616.26,14.5,277.41,Bank Transfer
+ORD-10885,2023-08-03,Amir Singh,Corporate,Mexico,North America,Office Supplies,Premium Notebook Set A5,3,10.7,5,30.49,11.92,4.13,Credit Card
+ORD-11642,2023-08-04,Wei Li,Corporate,Mexico,North America,Technology,Wireless Bluetooth Headphones,2,151.07,25,226.6,7.84,52.58,Credit Card
+ORD-10363,2023-08-08,Linda Brown,Consumer,Mexico,North America,Technology,Mechanical Gaming Keyboard,3,91.18,10,,8.58,87.16,Cash on Delivery
+ORD-10496,2023-08-08,Jamal Ahmed,Corporate,Mexico,North America,Technology,Webcam HD 1080p,2,88.88,10,159.98,7.63,54.58,Bank Transfer
+ORD-11178,2023-08-11,William Kim,Consumer,Canada,North America,Furniture,Bookshelf 5-Tier,3,97.26,10,262.6,10.56,76.97,Cash on Delivery
+ORD-11481,2023-08-13,Clara Clark,Home Office,Mexico,North America,Furniture,Monitor Riser Wood,1,55.59,5,52.81,6.11,13.35,Credit Card
+ORD-10852,2023-08-14,Oscar White,Corporate,United States,North America,Clothing & Accessories,Travel Backpack 30L,1,78.86,10,70.97,7.4,24.14,Credit Card
+ORD-10277,2023-08-15,Amina Ali,Consumer,United States,North America,Clothing & Accessories,Leather Wallet Minimalist,1,22.46,5,21.34,6.95,3.16,Credit Card
+ORD-10356,2023-08-15,Oscar Thomas,Home Office,Canada,North America,Office Supplies,Stapler Full-Size,4,12.89,5,,9.57,16.21,Credit Card
+ORD-11332,2023-08-16,Fatima Patel,Home Office,Mexico,North America,Clothing & Accessories,Business Casual Blazer,1,62.43,10,56.19,7.27,17.7,Credit Card
+ORD-10917,2023-08-17,Kenji Suzuki,Corporate,Canada,North America,Office Supplies,Whiteboard Markers Set 8,2,12.61,25,18.91,9.18,-1.62,Credit Card
+ORD-11070,2023-08-18,Wei Santos,Corporate,Canada,North America,Clothing & Accessories,Sports Water Bottle 750ml,1,8.92,0,8.92,7.37,-2.91,PayPal
+ORD-10954,2023-08-19,Mary Hassan,Home Office,United States,North America,Clothing & Accessories,Leather Wallet Minimalist,6,64.17,10,346.52,9.61,144.4,PayPal
+ORD-11684,2023-08-19,Barbara Jones,Consumer,Mexico,North America,Office Supplies,Binder Clips Assorted 48pc,1,14.44,5,13.72,6.28,0.94,Credit Card
+ORD-11537,2023-08-25,Pierre Romano,Consumer,Canada,North America,Technology,Portable External SSD 1TB,9,82.15,10,665.42,21.38,237.4,Bank Transfer
+ORD-10927,2023-08-27,Michael Khan,Corporate,Canada,North America,Furniture,Corner L-Shaped Desk,3,185.14,5,527.65,9.42,184.98,PayPal
+ORD-11628,2023-08-30,Isabella Taylor,Corporate,Mexico,North America,Clothing & Accessories,Silk Tie Collection,1,25.23,30,17.66,6.63,-1.58,PayPal
+ORD-10320,2023-08-31,Priya Jackson,Consumer,Mexico,North America,Office Supplies,Binder Clips Assorted 48pc,4,13.92,5,52.9,10.83,17.01,Credit Card
+ORD-11379,2023-08-31,Omar Park,Corporate,Mexico,North America,Technology,Webcam HD 1080p,1,37.56,5,35.68,5.59,9.43,PayPal
+ORD-11161,2023-09-03,Yuki Zhang,Consumer,United States,North America,Clothing & Accessories,Silk Tie Collection,1,17.03,25,12.77,6.99,-2.74,Bank Transfer
+ORD-11685,2023-09-03,John Laurent,Consumer,Mexico,North America,Furniture,Bookshelf 5-Tier,2,199.2,10,358.56,9.53,109.99,Credit Card
+ORD-11441,2023-09-05,Noah Taylor,Consumer,United States,North America,Office Supplies,Whiteboard Markers Set 8,5,19.47,5,92.48,11.28,37.39,Cash on Delivery
+ORD-11532,2023-09-06,Yuki Rodriguez,Corporate,Mexico,North America,Technology,Mechanical Gaming Keyboard,1,152.34,5,,7.22,53.71,Credit Card
+ORD-11867,2023-09-06,Thomas Santos,Consumer,United States,North America,Clothing & Accessories,Travel Backpack 30L,1,42.55,5,40.42,7.38,11.77,Credit Card
+ORD-11191,2023-09-08,Maria Rodriguez,Consumer,United States,North America,Clothing & Accessories,Canvas Messenger Bag,1,79.27,10,71.34,6.56,25.15,Credit Card
+ORD-11520,2023-09-08,Olga Taylor,Consumer,United States,North America,Furniture,Monitor Riser Wood,6,47.47,0,284.82,11.93,102.0,Credit Card
+ORD-11461,2023-09-09,Marco Sato,Consumer,Mexico,North America,Office Supplies,Binder Clips Assorted 48pc,2,13.62,15,23.15,7.75,3.14,PayPal
+ORD-10713,2023-09-10,Sophie Brown,Corporate,Mexico,North America,Technology,Wireless Bluetooth Headphones,2,66.08,10,118.94,9.35,36.9,Credit Card
+ORD-11518,2023-09-13,Ingrid Weber,Corporate,United States,North America,Furniture,Mesh Back Task Chair,5,107.46,15,456.7,9.9,124.42,PayPal
+ORD-11795,2023-09-14,Ali Johnson,Corporate,Mexico,North America,Furniture,Monitor Riser Wood,14,61.54,30,603.09,33.58,52.57,Credit Card
+ORD-10752,2023-09-16,Liam Laurent,Consumer,Mexico,North America,Furniture,Folding Table Portable,6,110.59,10,597.19,11.12,187.95,PayPal
+ORD-11884,2023-09-16,Joseph Martinez,Home Office,Canada,North America,Office Supplies,Binder Clips Assorted 48pc,1,12.82,20,10.26,6.98,-2.49,Bank Transfer
+ORD-11239,2023-09-17,Ali Johansson,Corporate,United States,North America,Clothing & Accessories,Business Casual Blazer,5,133.6,25,501.0,14.42,152.58,Credit Card
+ORD-11890,2023-09-17,Michael Li,Corporate,Canada,North America,Furniture,Monitor Riser Wood,7,67.53,5,449.07,22.4,143.04,Credit Card
+ORD-10321,2023-09-19,Ahmed Sharma,Home Office,United States,North America,Office Supplies,Desk Calendar 2025,3,7.89,15,20.12,7.38,2.09,Credit Card
+ORD-10298,2023-09-24,Jessica Tanaka,Consumer,Canada,North America,Technology,Portable External SSD 1TB,3,60.51,20,145.22,6.74,38.64,Cash on Delivery
+ORD-10442,2023-09-24,Jessica Wang,Home Office,Mexico,North America,Furniture,Folding Table Portable,1,112.29,0,112.29,5.87,39.05,Credit Card
+ORD-10063,2023-09-26,Isabella Patel,Consumer,Canada,North America,Clothing & Accessories,Leather Wallet Minimalist,3,59.04,0,177.12,10.28,78.28,Bank Transfer
+ORD-11321,2023-10-04,Giulia Khan,Home Office,United States,North America,Office Supplies,Desk Calendar 2025,4,6.82,5,25.92,9.89,3.75,PayPal
+ORD-10398,2023-10-05,Ayumi Garcia,Corporate,Mexico,North America,Furniture,Desk Organizer Set,1,35.29,10,31.76,6.93,3.66,Credit Card
+ORD-10997,2023-10-05,Felix Kim,Corporate,Canada,North America,Furniture,Filing Cabinet 3-Drawer,4,129.8,10,467.28,10.02,145.74,PayPal
+ORD-11512,2023-10-08,Ingrid Moreau,Consumer,United States,North America,Technology,Webcam HD 1080p,1,43.09,15,36.63,7.3,5.63,Credit Card
+ORD-11575,2023-10-10,Olga Müller,Consumer,United States,North America,Technology,Wireless Bluetooth Headphones,4,211.07,5,802.07,7.73,329.99,PayPal
+ORD-11946,2023-10-10,James Harris,Corporate,Canada,North America,Furniture,Desk Organizer Set,1,19.95,0,19.95,6.89,1.09,Credit Card
+ORD-11885,2023-10-11,Kenji Romano,Corporate,Canada,North America,Technology,Tablet Stand Holder,2,19.41,15,33.0,7.48,4.17,Credit Card
+ORD-11460,2023-10-20,Sakura Rodriguez,Corporate,United States,North America,Furniture,Folding Table Portable,1,129.24,20,103.39,5.96,19.89,Credit Card
+ORD-11652,2023-10-22,Lucas Suzuki,Consumer,Canada,North America,Office Supplies,Premium Notebook Set A5,1,20.53,0,20.53,6.24,5.05,Credit Card
+ORD-10347,2023-10-24,Ayumi Garcia,Consumer,Mexico,North America,Clothing & Accessories,Wool Blend Scarf,4,33.98,5,129.12,14.26,46.9,Credit Card
+ORD-10461,2023-10-24,Elizabeth Fischer,Corporate,Canada,North America,Technology,Tablet Stand Holder,2,33.2,0,66.4,8.88,21.0,PayPal
+ORD-11406,2023-10-28,Sarah Suzuki,Home Office,Canada,North America,Technology,Smart LED Desk Lamp,8,58.27,10,419.54,24.05,139.1,PayPal
+ORD-10043,2023-11-09,Jennifer Kim,Consumer,United States,North America,Technology,Wireless Ergonomic Mouse,3,53.47,0,160.41,10.7,61.48,Bank Transfer
+ORD-10753,2023-11-10,Emma Jackson,Consumer,United States,North America,Technology,Noise Cancelling Earbuds,1,187.3,5,177.94,6.98,67.94,Credit Card
+ORD-10180,2023-11-12,Zara Nilsson,Consumer,Canada,North America,Furniture,Bookshelf 5-Tier,2,163.55,0,327.1,6.02,124.82,Credit Card
+ORD-10350,2023-11-15,Felix Laurent,Corporate,Canada,North America,Technology,Smart LED Desk Lamp,1,40.47,5,38.45,6.75,9.44,Credit Card
+ORD-10559,2023-11-18,Fatima Patel,Consumer,Canada,North America,Office Supplies,Highlighters Neon Pack 6,3,11.62,15,29.63,7.43,6.51,Credit Card
+ORD-11713,2023-11-19,Kenji Moreau,Corporate,Canada,North America,Office Supplies,Whiteboard Markers Set 8,7,7.45,5,49.54,14.62,11.45,PayPal
+ORD-11177,2023-11-22,Omar Costa,Corporate,United States,North America,Furniture,Ergonomic Office Chair,1,209.98,5,,7.19,66.3,PayPal
+ORD-10365,2023-11-25,Ethan Khan,Corporate,Mexico,North America,Technology,USB-C Hub Multiport Adapter,6,40.22,10,217.19,13.45,71.01,Bank Transfer
+ORD-10992,2023-11-26,Linda Kumar,Consumer,Mexico,North America,Furniture,Folding Table Portable,6,90.7,20,435.36,10.26,98.58,PayPal
+ORD-11793,2023-11-27,Joseph Suzuki,Consumer,United States,North America,Clothing & Accessories,Cotton Formal Shirt,1,45.68,10,41.11,5.64,12.63,Bank Transfer
+ORD-10677,2023-12-01,Ivan Jones,Corporate,Mexico,North America,Furniture,Standing Desk Converter,4,336.19,25,1008.57,8.15,193.56,Credit Card
+ORD-11910,2023-12-02,Amir Laurent,Home Office,Canada,North America,Furniture,Bookshelf 5-Tier,6,191.06,20,917.09,19.84,209.43,Credit Card
+ORD-11827,2023-12-03,Emma Sharma,Consumer,Mexico,North America,Furniture,Monitor Riser Wood,2,43.95,20,70.32,6.77,10.81,Credit Card
+ORD-11863,2023-12-03,Isabella Rossi,Home Office,Canada,North America,Furniture,Ergonomic Office Chair,5,233.71,0,1168.55,8.94,458.48,Bank Transfer
+ORD-11346,2023-12-05,Jennifer Santos,Consumer,United States,North America,Furniture,Corner L-Shaped Desk,1,263.21,20,210.57,6.52,46.12,PayPal
+ORD-11944,2023-12-05,John Ferrari,Consumer,Canada,North America,Office Supplies,Premium Notebook Set A5,1,8.87,0,8.87,7.47,-2.59,PayPal
+ORD-10109,2023-12-06,Thomas Ferrari,Consumer,Mexico,North America,Office Supplies,Premium Notebook Set A5,4,14.98,0,59.92,10.55,22.41,Credit Card
+ORD-11117,2023-12-06,Amina Jones,Consumer,Mexico,North America,Technology,Laptop Stand Adjustable,4,33.03,0,132.12,7.2,52.25,Credit Card
+ORD-11597,2023-12-07,Olivia Laurent,Consumer,Canada,North America,Office Supplies,Highlighters Neon Pack 6,1,9.23,0,9.23,6.44,-1.36,Bank Transfer
+ORD-11641,2023-12-07,Raj Khan,Home Office,United States,North America,Office Supplies,Ballpoint Pen Pack 12,1,9.6,5,9.12,5.52,-0.72,Credit Card
+ORD-11708,2023-12-07,Ava Garcia,Consumer,Mexico,North America,Clothing & Accessories,Travel Backpack 30L,2,57.77,5,109.76,9.89,42.1,Credit Card
+ORD-11825,2023-12-07,Wei Fischer,Consumer,Mexico,North America,Office Supplies,Premium Notebook Set A5,2,24.03,10,43.25,9.26,12.36,Cash on Delivery
+ORD-11891,2023-12-07,Ayumi Kumar,Corporate,Mexico,North America,Clothing & Accessories,Sports Water Bottle 750ml,3,21.32,15,54.37,7.01,15.38,Credit Card
+ORD-11110,2023-12-09,Robert Dubois,Corporate,United States,North America,Technology,USB-C Hub Multiport Adapter,1,58.09,15,49.38,6.23,11.2,Bank Transfer
+ORD-10632,2023-12-10,David White,Home Office,Mexico,North America,Office Supplies,Premium Notebook Set A5,1,15.07,5,14.32,6.62,0.92,Credit Card
+ORD-11262,2023-12-10,Oscar Martinez,Corporate,Mexico,North America,Clothing & Accessories,Canvas Messenger Bag,10,38.59,10,347.31,26.11,128.25,Credit Card
+ORD-10199,2023-12-11,Hans Robinson,Consumer,Canada,North America,Office Supplies,Stapler Full-Size,5,16.65,5,79.09,8.63,33.0,Credit Card
+ORD-10454,2023-12-11,Carlos Ali,Consumer,Canada,North America,Office Supplies,Tape Dispenser Heavy Duty,1,10.81,10,9.73,5.77,-0.9,Bank Transfer
+ORD-11986,2023-12-11,Sophie Miller,Home Office,United States,North America,Office Supplies,Whiteboard Markers Set 8,2,19.32,0,38.64,9.47,11.78,PayPal
+ORD-11964,2023-12-13,Linda Martin,Consumer,United States,North America,Furniture,Floating Wall Shelves Set,3,47.08,10,127.12,11.82,30.56,Bank Transfer
+ORD-10474,2023-12-18,Kenji Schmidt,Consumer,Canada,North America,Office Supplies,Sticky Notes Multicolor 6-Pack,10,9.33,15,79.3,10.95,26.36,Credit Card
+ORD-10495,2023-12-18,Mary Laurent,Consumer,Canada,North America,Clothing & Accessories,Sports Water Bottle 750ml,5,8.1,20,32.4,16.7,-4.55,Cash on Delivery
+ORD-11233,2023-12-18,Maria Miller,Corporate,Canada,North America,Office Supplies,Whiteboard Markers Set 8,3,17.75,15,45.26,10.14,11.16,Credit Card
+ORD-11998,2023-12-18,Zara Smith,Corporate,United States,North America,Office Supplies,Paper Clips Box 500pc,4,3.66,20,11.71,13.72,-8.6,Credit Card
+ORD-10197,2023-12-21,Sarah Rossi,Consumer,Mexico,North America,Office Supplies,Highlighters Neon Pack 6,1,6.89,15,5.86,6.74,-3.98,Cash on Delivery
+ORD-11579,2023-12-21,Felix Davis,Home Office,Mexico,North America,Technology,Portable External SSD 1TB,1,98.38,0,98.38,6.62,37.65,PayPal
+ORD-10827,2023-12-24,Priya Martin,Home Office,Mexico,North America,Technology,Tablet Stand Holder,1,41.24,10,37.12,5.87,8.57,PayPal
+ORD-11830,2023-12-26,John Miller,Home Office,Canada,North America,Technology,Tablet Stand Holder,3,25.88,15,65.99,6.99,16.3,Credit Card
+ORD-10010,2024-01-01,James Li,Home Office,Mexico,North America,Technology,Portable External SSD 1TB,3,135.75,0,407.25,8.74,174.52,Credit Card
+ORD-10052,2024-01-03,Ali Miller,Home Office,Canada,North America,Office Supplies,Desk Calendar 2025,11,9.84,10,97.42,25.84,22.87,Credit Card
+ORD-10323,2024-01-08,Hans Costa,Consumer,Mexico,North America,Furniture,Bookshelf 5-Tier,2,161.39,5,306.64,8.36,104.61,Credit Card
+ORD-10650,2024-01-08,Carlos Ahmed,Consumer,Canada,North America,Technology,Tablet Stand Holder,1,47.57,0,47.57,5.87,15.54,Bank Transfer
+ORD-10718,2024-01-08,Ivan Li,Consumer,United States,North America,Furniture,Corner L-Shaped Desk,4,259.86,5,987.47,13.35,350.46,Credit Card
+ORD-11993,2024-01-09,Hanna Taylor,Home Office,Mexico,North America,Furniture,Ergonomic Office Chair,3,192.53,0,577.59,10.09,220.95,Credit Card
+ORD-10925,2024-01-10,Linda Müller,Corporate,Canada,North America,Office Supplies,Sticky Notes Multicolor 6-Pack,4,6.51,5,24.74,14.84,-1.82,Credit Card
+ORD-11372,2024-01-10,William Ahmed,Home Office,Mexico,North America,Technology,Wireless Bluetooth Headphones,2,155.87,15,264.98,6.43,87.09,PayPal
+ORD-11992,2024-01-13,Olivia Miller,Consumer,Mexico,North America,Clothing & Accessories,Cotton Formal Shirt,6,51.47,20,247.06,17.98,74.67,Bank Transfer
+ORD-10880,2024-01-16,Barbara Davis,Home Office,United States,North America,Office Supplies,Premium Notebook Set A5,5,21.03,0,105.15,11.25,46.58,Credit Card
+ORD-11424,2024-01-17,Felix Taylor,Home Office,Mexico,North America,Office Supplies,Highlighters Neon Pack 6,2,11.84,10,21.31,9.87,0.78,Credit Card
+ORD-10116,2024-01-19,Ivan Smith,Corporate,Canada,North America,Technology,Webcam HD 1080p,3,34.06,10,91.96,12.43,23.33,PayPal
+ORD-10775,2024-01-19,Susan Zhang,Consumer,Canada,North America,Furniture,Floating Wall Shelves Set,2,61.68,20,98.69,6.34,18.33,PayPal
+ORD-10866,2024-01-20,Jamal Jones,Home Office,Mexico,North America,Technology,Wireless Ergonomic Mouse,1,36.55,5,34.72,5.81,8.81,Credit Card
+ORD-11159,2024-01-20,James Kumar,Corporate,Mexico,North America,Technology,Smart LED Desk Lamp,4,35.55,5,135.09,11.22,45.66,Credit Card
+ORD-10549,2024-01-21,Thomas Rodriguez,Consumer,United States,North America,Technology,USB-C Hub Multiport Adapter,2,49.24,10,88.63,9.16,25.31,Credit Card
+ORD-10498,2024-01-22,Kenji White,Corporate,Canada,North America,Clothing & Accessories,Leather Wallet Minimalist,2,61.95,0,123.9,8.7,53.25,PayPal
+ORD-10662,2024-01-24,Liam Tanaka,Corporate,United States,North America,Clothing & Accessories,Wool Blend Scarf,5,49.71,25,186.41,8.76,53.37,PayPal
+ORD-11015,2024-01-27,Clara Rodriguez,Corporate,United States,North America,Clothing & Accessories,Travel Backpack 30L,3,59.07,20,141.77,11.25,41.92,Credit Card
+ORD-10032,2024-01-28,Oscar Khan,Consumer,United States,North America,Clothing & Accessories,Leather Belt Classic,2,39.62,5,75.28,6.0,29.66,Credit Card
+ORD-10051,2024-01-30,Chen Thompson,Consumer,Mexico,North America,Office Supplies,Desk Calendar 2025,5,8.68,0,43.4,13.4,10.47,Bank Transfer
+ORD-11208,2024-01-31,Thomas Suzuki,Corporate,United States,North America,Technology,Mechanical Gaming Keyboard,2,96.97,15,164.85,9.27,48.91,Bank Transfer
+ORD-10100,2024-02-02,Fatima Jones,Corporate,Mexico,North America,Furniture,Bookshelf 5-Tier,1,93.08,5,88.43,6.7,25.88,Bank Transfer
+ORD-11047,2024-02-04,Yuki Ferrari,Corporate,United States,North America,Furniture,Filing Cabinet 3-Drawer,2,214.42,20,343.07,6.04,79.73,Credit Card
+ORD-11456,2024-02-04,Ahmed Singh,Corporate,United States,North America,Technology,Portable External SSD 1TB,4,96.59,0,386.36,8.86,165.0,PayPal
+ORD-10346,2024-02-12,Marco Hassan,Consumer,Mexico,North America,Office Supplies,Tape Dispenser Heavy Duty,5,10.97,5,52.11,14.23,13.2,PayPal
+ORD-11724,2024-02-14,Lucas Rodriguez,Consumer,United States,North America,Furniture,Desk Organizer Set,4,40.58,5,154.2,13.86,42.95,PayPal
+ORD-10413,2024-02-18,Li Laurent,Consumer,United States,North America,Furniture,Ergonomic Office Chair,7,429.66,0,3007.62,13.26,1189.79,PayPal
+ORD-10529,2024-02-21,Chen Santos,Corporate,Mexico,North America,Clothing & Accessories,Canvas Messenger Bag,3,43.72,0,131.16,11.64,53.94,PayPal
+ORD-11638,2024-02-21,Maria Ferrari,Corporate,United States,North America,Furniture,Standing Desk Converter,1,246.49,10,221.84,6.91,67.04,Credit Card
+ORD-11671,2024-02-23,Jennifer Tanaka,Consumer,Canada,North America,Clothing & Accessories,Sports Water Bottle 750ml,7,23.26,5,154.68,15.24,58.03,Credit Card
+ORD-11676,2024-02-27,Giulia Anderson,Consumer,United States,North America,Office Supplies,Sticky Notes Multicolor 6-Pack,1,14.7,15,12.49,7.42,-1.54,Credit Card
+ORD-10005,2024-03-05,Chen Patel,Home Office,Canada,North America,Office Supplies,Ballpoint Pen Pack 12,1,12.92,10,11.63,5.83,-0.01,Credit Card
+ORD-10951,2024-03-05,Sarah Chen,Consumer,Mexico,North America,Office Supplies,Whiteboard Markers Set 8,6,15.88,5,90.52,10.1,37.54,PayPal
+ORD-11594,2024-03-05,Michael Garcia,Consumer,United States,North America,Clothing & Accessories,Cotton Formal Shirt,5,32.04,5,152.19,8.49,63.6,Bank Transfer
+ORD-11361,2024-03-08,Olivia Sato,Consumer,United States,North America,Technology,Wireless Ergonomic Mouse,3,69.59,20,167.02,10.17,42.03,Cash on Delivery
+ORD-11143,2024-03-13,Layla Park,Corporate,Mexico,North America,Office Supplies,Ballpoint Pen Pack 12,8,16.12,10,116.06,20.61,37.42,Credit Card
+ORD-11997,2024-03-17,Barbara Sato,Consumer,United States,North America,Furniture,Mesh Back Task Chair,3,185.09,0,555.27,9.37,212.74,Credit Card
+ORD-11101,2024-03-27,Hans Harris,Consumer,United States,North America,Technology,Portable External SSD 1TB,6,99.17,15,505.77,13.35,165.16,Credit Card
+ORD-10154,2024-03-28,Jessica Patel,Home Office,Mexico,North America,Technology,USB-C Hub Multiport Adapter,12,40.47,5,461.36,27.85,166.41,Cash on Delivery
+ORD-10464,2024-03-31,Ivan Zhang,Home Office,Canada,North America,Office Supplies,Desk Calendar 2025,7,18.79,5,124.95,9.12,56.64,Cash on Delivery
+ORD-10665,2024-04-05,Noah Martinez,Home Office,Mexico,North America,Office Supplies,Premium Notebook Set A5,5,23.69,15,100.68,14.77,32.61,Credit Card
+ORD-10687,2024-04-05,Jennifer Ferrari,Consumer,Mexico,North America,Technology,Webcam HD 1080p,3,80.36,20,192.86,9.04,51.23,Credit Card
+ORD-10813,2024-04-06,Raj Li,Consumer,Mexico,North America,Office Supplies,Binder Clips Assorted 48pc,5,10.25,15,43.56,9.78,10.72,Cash on Delivery
+ORD-10956,2024-04-06,Sakura Rodriguez,Consumer,United States,North America,Office Supplies,Ballpoint Pen Pack 12,2,14.32,10,25.78,7.0,5.89,Credit Card
+ORD-11344,2024-04-08,Amir Wang,Consumer,United States,North America,Office Supplies,Desk Calendar 2025,1,13.3,15,11.3,5.8,-0.48,Credit Card
+ORD-10991,2024-04-09,Marco Weber,Consumer,United States,North America,Furniture,Standing Desk Converter,5,184.93,5,878.42,7.7,315.93,PayPal
+ORD-11785,2024-04-09,Michael Sharma,Home Office,United States,North America,Clothing & Accessories,Wool Blend Scarf,1,53.29,10,47.96,6.39,14.93,Credit Card
+ORD-10171,2024-04-18,Michael Kim,Consumer,Mexico,North America,Technology,USB-C Hub Multiport Adapter,3,20.41,5,58.17,10.21,14.28,PayPal
+ORD-11548,2024-04-21,Fatima Williams,Home Office,United States,North America,Clothing & Accessories,Travel Backpack 30L,4,32.79,5,124.6,8.07,50.95,Credit Card
+ORD-11871,2024-04-24,Ethan Li,Home Office,Mexico,North America,Technology,Smart LED Desk Lamp,3,57.54,20,138.1,9.71,33.45,Credit Card
+ORD-11999,2024-04-25,Linda Sato,Corporate,Mexico,North America,Furniture,Monitor Riser Wood,1,74.6,10,67.14,6.8,15.58,Credit Card
+ORD-10082,2024-04-28,Priya Williams,Corporate,Canada,North America,Clothing & Accessories,Cotton Formal Shirt,2,69.05,25,103.57,8.58,25.94,Credit Card
+ORD-10361,2024-04-28,Lucas Brown,Home Office,United States,North America,Office Supplies,Whiteboard Markers Set 8,5,6.24,10,28.08,11.46,2.58,Credit Card
+ORD-10342,2024-04-30,Lucas Russo,Home Office,Canada,North America,Technology,Tablet Stand Holder,1,28.72,5,27.28,6.34,5.14,Bank Transfer
+ORD-10366,2024-05-04,Amir Li,Consumer,Canada,North America,Furniture,Standing Desk Converter,3,264.57,5,754.02,9.64,268.15,PayPal
+ORD-11025,2024-05-04,Patricia Weber,Consumer,Mexico,North America,Office Supplies,Paper Clips Box 500pc,2,6.14,0,,9.0,-2.25,Bank Transfer
+ORD-10355,2024-05-05,Nadia Costa,Consumer,Canada,North America,Furniture,Folding Table Portable,4,112.68,0,450.72,12.94,167.35,Bank Transfer
+ORD-11735,2024-05-12,James Ahmed,Corporate,United States,North America,Clothing & Accessories,Leather Wallet Minimalist,5,57.38,0,286.9,10.15,133.3,Cash on Delivery
+ORD-11924,2024-05-15,Ethan Kumar,Corporate,Mexico,North America,Technology,Tablet Stand Holder,8,32.31,15,219.71,18.9,58.65,Credit Card
+ORD-10835,2024-05-16,Ingrid Müller,Corporate,United States,North America,Office Supplies,Binder Clips Assorted 48pc,4,12.42,15,42.23,13.37,6.5,Credit Card
+ORD-11877,2024-05-16,Karen Ferrari,Consumer,United States,North America,Furniture,Desk Organizer Set,1,49.78,15,42.31,6.63,5.81,PayPal
+ORD-11144,2024-05-17,Sakura Smith,Corporate,Mexico,North America,Clothing & Accessories,Business Casual Blazer,8,50.94,15,346.39,11.7,130.93,Credit Card
+ORD-11650,2024-05-18,Mary Garcia,Home Office,United States,North America,Clothing & Accessories,Cotton Formal Shirt,3,34.37,10,92.8,11.23,30.02,PayPal
+ORD-11696,2024-05-20,Sophie Martin,Corporate,Canada,North America,Technology,Mechanical Gaming Keyboard,5,128.41,30,449.43,13.49,82.81,Credit Card
+ORD-10359,2024-05-24,Marco Santos,Consumer,Mexico,North America,Furniture,Corner L-Shaped Desk,13,201.56,0,2620.28,30.62,1017.49,Credit Card
+ORD-10989,2024-05-24,David Laurent,Consumer,United States,North America,Clothing & Accessories,Leather Belt Classic,1,48.43,20,38.74,6.96,7.57,Credit Card
+ORD-10445,2024-05-28,Giulia Miller,Consumer,Mexico,North America,Office Supplies,Premium Notebook Set A5,1,23.24,10,20.92,7.37,3.09,PayPal
+ORD-10441,2024-05-30,Susan Kumar,Consumer,Canada,North America,Technology,Wireless Bluetooth Headphones,1,171.98,10,154.78,7.29,52.9,Credit Card
+ORD-11164,2024-05-31,Sophie Weber,Consumer,United States,North America,Technology,Wireless Ergonomic Mouse,5,27.93,15,118.7,14.98,26.91,PayPal
+ORD-10345,2024-06-04,Michael Yamamoto,Consumer,United States,North America,Furniture,Standing Desk Converter,2,212.46,5,403.67,8.24,140.48,Cash on Delivery
+ORD-11815,2024-06-04,Joseph Johansson,Consumer,Mexico,North America,Furniture,Mesh Back Task Chair,2,232.65,0,465.3,6.74,179.38,Credit Card
+ORD-11365,2024-06-09,Olga Romano,Consumer,Canada,North America,Clothing & Accessories,Cotton Formal Shirt,3,63.86,5,182.0,10.77,75.44,PayPal
+ORD-11759,2024-06-09,Amir Hassan,Consumer,United States,North America,Clothing & Accessories,Canvas Messenger Bag,3,29.47,10,79.57,12.1,23.26,Credit Card
+ORD-11750,2024-06-10,Olga Robinson,Consumer,United States,North America,Clothing & Accessories,Cotton Formal Shirt,1,26.54,5,25.21,6.91,5.03,Cash on Delivery
+ORD-10547,2024-06-15,Olivia Pereira,Home Office,United States,North America,Clothing & Accessories,Cotton Formal Shirt,1,41.69,5,39.61,5.53,13.23,PayPal
+ORD-10882,2024-06-15,Yuki Thompson,Home Office,Canada,North America,Office Supplies,Paper Clips Box 500pc,2,3.65,5,6.93,9.09,-5.45,PayPal
+ORD-11303,2024-06-15,Ahmed Singh,Corporate,Mexico,North America,Technology,Noise Cancelling Earbuds,5,190.99,5,907.2,14.34,367.64,Bank Transfer
+ORD-10227,2024-06-18,Linda Suzuki,Corporate,Canada,North America,Clothing & Accessories,Polarized Sunglasses,5,61.44,5,291.84,10.22,128.02,Credit Card
+ORD-10884,2024-06-18,Barbara Dubois,Corporate,Canada,North America,Technology,Laptop Stand Adjustable,4,53.44,10,192.38,10.74,64.07,Credit Card
+ORD-11188,2024-06-19,Xiao Johnson,Consumer,Mexico,North America,Clothing & Accessories,Polarized Sunglasses,2,39.41,5,74.88,8.06,27.41,PayPal
+ORD-11325,2024-06-20,Olga Suzuki,Consumer,Canada,North America,Technology,Portable External SSD 1TB,6,88.33,5,503.48,13.32,198.67,PayPal
+ORD-11447,2024-06-20,Ali Sato,Corporate,Canada,North America,Clothing & Accessories,Canvas Messenger Bag,2,73.45,5,139.56,6.29,59.82,Cash on Delivery
+ORD-11415,2024-06-26,Nadia Davis,Home Office,Mexico,North America,Office Supplies,Stapler Full-Size,5,9.54,0,47.7,11.65,14.59,Credit Card
+ORD-11688,2024-06-29,Hans Schmidt,Consumer,Mexico,North America,Office Supplies,Binder Clips Assorted 48pc,8,14.05,0,112.4,18.76,43.06,PayPal
+ORD-11099,2024-06-30,Priya Robinson,Consumer,Mexico,North America,Clothing & Accessories,Wool Blend Scarf,1,52.83,10,47.55,6.13,15.0,Credit Card
+ORD-11850,2024-07-02,Omar Williams,Consumer,Mexico,North America,Furniture,Standing Desk Converter,7,157.04,0,1099.28,10.12,429.59,Credit Card
+ORD-10261,2024-07-05,Li Oliveira,Consumer,United States,North America,Office Supplies,Tape Dispenser Heavy Duty,5,8.34,15,35.45,7.59,9.1,Cash on Delivery
+ORD-11189,2024-07-05,Clara Tanaka,Corporate,United States,North America,Furniture,Desk Organizer Set,1,31.63,5,30.05,5.84,5.23,PayPal
+ORD-10275,2024-07-06,Mary Clark,Consumer,Mexico,North America,Office Supplies,Desk Calendar 2025,7,11.86,5,78.87,17.15,24.36,Credit Card
+ORD-11559,2024-07-06,Felix Smith,Consumer,Mexico,North America,Office Supplies,Desk Calendar 2025,8,19.36,10,139.39,9.27,60.42,Credit Card
+ORD-11225,2024-07-07,Christopher Brown,Corporate,Canada,North America,Technology,Wireless Ergonomic Mouse,3,42.03,10,113.48,6.85,37.28,Cash on Delivery
+ORD-10385,2024-07-09,Michael Schmidt,Corporate,Canada,North America,Office Supplies,Whiteboard Markers Set 8,1,19.83,20,15.86,6.8,0.14,Credit Card
+ORD-11508,2024-07-09,Ivan Ahmed,Home Office,United States,North America,Clothing & Accessories,Canvas Messenger Bag,2,86.73,10,156.11,9.75,59.63,Credit Card
+ORD-11587,2024-07-10,Amina Clark,Home Office,Canada,North America,Clothing & Accessories,Canvas Messenger Bag,5,28.49,15,121.08,15.04,34.82,PayPal
+ORD-10095,2024-07-11,Karen Anderson,Corporate,United States,North America,Furniture,Mesh Back Task Chair,2,191.99,5,364.78,9.02,125.37,Credit Card
+ORD-10516,2024-07-12,Olga Suzuki,Corporate,United States,North America,Technology,Portable External SSD 1TB,2,131.07,10,235.93,8.58,83.17,Credit Card
+ORD-10824,2024-07-15,Pierre Rodriguez,Home Office,Mexico,North America,Technology,Mechanical Gaming Keyboard,2,150.27,10,270.49,6.15,99.04,Credit Card
+ORD-11639,2024-07-15,Mia White,Corporate,Canada,North America,Furniture,Bookshelf 5-Tier,3,153.49,25,345.35,8.01,61.06,Credit Card
+ORD-10131,2024-07-16,Ali Oliveira,Consumer,Mexico,North America,Technology,Portable External SSD 1TB,1,115.3,10,103.77,6.68,33.67,PayPal
+ORD-11402,2024-07-19,Li Davis,Home Office,United States,North America,Technology,Smart LED Desk Lamp,1,44.59,0,44.59,7.24,12.83,Cash on Delivery
+ORD-11398,2024-07-21,Mary Rodriguez,Consumer,United States,North America,Clothing & Accessories,Leather Belt Classic,1,23.76,10,21.38,6.5,3.0,Cash on Delivery
+ORD-11165,2024-07-26,Wei Sato,Consumer,Canada,North America,Technology,Wireless Bluetooth Headphones,5,142.01,0,710.05,12.04,307.48,Credit Card
+ORD-10868,2024-07-27,Sakura Jones,Corporate,United States,North America,Technology,Tablet Stand Holder,5,19.09,10,85.91,15.16,18.25,Credit Card
+ORD-11918,2024-07-27,Robert Khan,Consumer,Canada,North America,Technology,USB-C Hub Multiport Adapter,1,42.3,20,33.84,5.91,4.67,Credit Card
+ORD-11654,2024-07-29,Christopher Schmidt,Consumer,Canada,North America,Furniture,Mesh Back Task Chair,1,264.5,25,198.38,7.24,32.44,Credit Card
+ORD-11982,2024-07-29,William Moreau,Consumer,United States,North America,Furniture,Floating Wall Shelves Set,1,43.48,0,43.48,6.89,10.5,Bank Transfer
+ORD-11849,2024-08-04,Christopher Leroy,Consumer,United States,North America,Technology,Portable External SSD 1TB,7,102.39,5,680.89,13.51,273.18,PayPal
+ORD-11698,2024-08-05,Layla Zhang,Corporate,United States,North America,Office Supplies,Stapler Full-Size,2,7.92,0,15.84,8.07,0.64,PayPal
+ORD-10213,2024-08-06,Sarah Harris,Consumer,Mexico,North America,Office Supplies,Premium Notebook Set A5,4,22.41,5,85.16,11.14,33.68,PayPal
+ORD-10018,2024-08-07,Amir Smith,Home Office,Canada,North America,Furniture,Floating Wall Shelves Set,3,76.33,0,228.99,7.81,83.79,Credit Card
+ORD-10475,2024-08-07,Chen Anderson,Corporate,Mexico,North America,Technology,USB-C Hub Multiport Adapter,4,57.77,15,196.42,8.23,61.1,Credit Card
+ORD-11726,2024-08-08,Raj Patel,Corporate,Canada,North America,Office Supplies,Stapler Full-Size,2,10.66,5,20.25,8.06,2.6,Credit Card
+ORD-10294,2024-08-09,Christopher Brown,Corporate,United States,North America,Office Supplies,Desk Calendar 2025,4,17.75,5,67.45,13.03,22.47,Credit Card
+ORD-10919,2024-08-13,Priya Ferrari,Consumer,Mexico,North America,Technology,Webcam HD 1080p,4,63.81,5,242.48,12.73,89.37,PayPal
+ORD-11751,2024-08-13,Elizabeth Singh,Home Office,Mexico,North America,Office Supplies,Whiteboard Markers Set 8,1,9.65,10,8.69,5.86,-1.51,PayPal
+ORD-10058,2024-08-14,Raj Santos,Consumer,Canada,North America,Furniture,Corner L-Shaped Desk,4,347.26,20,1111.23,11.0,266.81,PayPal
+ORD-11383,2024-08-14,Thomas Wang,Home Office,United States,North America,Furniture,Desk Organizer Set,1,53.78,5,51.09,6.42,12.4,Bank Transfer
+ORD-11976,2024-08-14,Jennifer Anderson,Corporate,Mexico,North America,Office Supplies,Ballpoint Pen Pack 12,5,8.93,20,35.72,9.26,6.37,PayPal
+ORD-11719,2024-08-15,Sarah Patel,Home Office,United States,North America,Furniture,Standing Desk Converter,3,305.72,10,825.44,9.96,265.18,PayPal
+ORD-11697,2024-08-16,Thomas Yamamoto,Consumer,United States,North America,Technology,Wireless Ergonomic Mouse,1,66.5,10,59.85,6.99,16.28,Credit Card
+ORD-11094,2024-08-19,Xiao Romano,Corporate,Mexico,North America,Office Supplies,Sticky Notes Multicolor 6-Pack,4,10.58,5,40.2,14.1,7.06,Bank Transfer
+ORD-10248,2024-08-20,Amina Thomas,Consumer,Mexico,North America,Clothing & Accessories,Leather Wallet Minimalist,2,57.19,5,108.66,7.96,43.51,PayPal
+ORD-11246,2024-08-25,Felix Schmidt,Corporate,Canada,North America,Technology,Mechanical Gaming Keyboard,1,132.41,10,119.17,6.65,39.69,Credit Card
+ORD-11635,2024-08-26,Yuki Kim,Corporate,United States,North America,Clothing & Accessories,Polarized Sunglasses,3,74.99,0,224.97,11.37,101.12,Credit Card
+ORD-10108,2024-08-28,Diego Thomas,Consumer,United States,North America,Clothing & Accessories,Cotton Formal Shirt,3,45.38,10,122.53,9.66,44.8,PayPal
+ORD-11347,2024-08-28,Amina Wang,Consumer,United States,North America,Technology,Smart LED Desk Lamp,2,64.84,20,103.74,6.94,25.48,PayPal
+ORD-11480,2024-08-29,Richard Costa,Consumer,Mexico,North America,Furniture,Standing Desk Converter,3,277.81,15,708.42,9.76,198.6,PayPal
+ORD-11613,2024-08-30,Ingrid Laurent,Consumer,Canada,North America,Clothing & Accessories,Canvas Messenger Bag,2,57.71,5,109.65,6.72,45.22,Credit Card
+ORD-10403,2024-09-03,Ethan Williams,Consumer,Mexico,North America,Furniture,Standing Desk Converter,2,112.26,0,224.52,8.69,81.12,PayPal
+ORD-10929,2024-09-05,Noah Dubois,Consumer,Mexico,North America,Technology,Noise Cancelling Earbuds,2,79.84,10,143.71,7.24,48.65,PayPal
+ORD-11534,2024-09-05,Jessica Williams,Consumer,United States,North America,Technology,Wireless Ergonomic Mouse,1,30.33,5,28.81,6.89,5.24,Bank Transfer
+ORD-11023,2024-09-06,Olivia Garcia,Home Office,United States,North America,Office Supplies,Desk Calendar 2025,8,7.55,20,48.32,12.15,8.99,PayPal
+ORD-11582,2024-09-06,Christopher Müller,Consumer,Mexico,North America,Furniture,Ergonomic Office Chair,1,187.47,0,187.47,6.23,68.76,Bank Transfer
+ORD-10544,2024-09-07,William Robinson,Consumer,Canada,North America,Technology,USB-C Hub Multiport Adapter,2,50.79,0,101.58,7.71,38.0,PayPal
+ORD-10493,2024-09-09,Linda Fischer,Consumer,United States,North America,Office Supplies,Ballpoint Pen Pack 12,8,15.17,0,121.36,23.42,43.33,Credit Card
+ORD-11073,2024-09-12,Elizabeth Chen,Home Office,Canada,North America,Clothing & Accessories,Sports Water Bottle 750ml,9,22.04,0,198.36,9.79,89.39,Credit Card
+ORD-11058,2024-09-13,Omar Costa,Corporate,Mexico,North America,Furniture,Ergonomic Office Chair,1,376.74,20,301.39,7.19,68.16,Credit Card
+ORD-10229,2024-09-15,Xiao Martin,Home Office,Mexico,North America,Clothing & Accessories,Travel Backpack 30L,6,33.23,5,189.41,9.09,80.63,Credit Card
+ORD-10286,2024-09-15,Oscar Williams,Corporate,United States,North America,Clothing & Accessories,Sports Water Bottle 750ml,4,12.55,25,37.65,9.91,2.64,Credit Card
+ORD-11799,2024-09-15,Jamal Pereira,Consumer,United States,North America,Technology,Smart LED Desk Lamp,2,31.01,10,55.82,6.85,14.86,Bank Transfer
+ORD-11951,2024-09-15,William Romano,Consumer,Canada,North America,Furniture,Desk Organizer Set,4,29.07,10,104.65,12.59,22.29,Cash on Delivery
+ORD-10466,2024-09-16,Zara Harris,Corporate,Canada,North America,Technology,Wireless Ergonomic Mouse,5,62.9,0,314.5,12.05,129.47,Bank Transfer
+ORD-11491,2024-09-16,Carlos Yamamoto,Consumer,Mexico,North America,Clothing & Accessories,Cotton Formal Shirt,1,20.04,0,20.04,6.51,3.51,Credit Card
+ORD-11504,2024-09-16,Yuki Pereira,Corporate,Canada,North America,Office Supplies,Tape Dispenser Heavy Duty,4,17.37,15,59.06,9.1,18.69,Cash on Delivery
+ORD-10262,2024-09-17,Carlos Ferrari,Home Office,Mexico,North America,Office Supplies,Paper Clips Box 500pc,2,5.97,5,11.34,7.01,-1.04,PayPal
+ORD-10011,2024-09-21,James Ferrari,Consumer,Canada,North America,Technology,Mechanical Gaming Keyboard,9,164.14,0,1477.26,18.25,646.52,Credit Card
+ORD-11399,2024-10-02,Thomas Chen,Home Office,Mexico,North America,Furniture,Mesh Back Task Chair,1,160.45,5,152.43,5.89,50.27,PayPal
+ORD-11797,2024-10-03,Hanna Sato,Consumer,United States,North America,Office Supplies,Sticky Notes Multicolor 6-Pack,6,7.06,20,33.89,9.61,5.22,Bank Transfer
+ORD-11228,2024-10-05,Sakura Thomas,Consumer,United States,North America,Furniture,Bookshelf 5-Tier,8,88.37,5,671.61,16.48,230.95,Cash on Delivery
+ORD-10504,2024-10-06,John Suzuki,Home Office,Canada,North America,Clothing & Accessories,Leather Wallet Minimalist,1,37.98,10,34.18,7.22,7.97,Credit Card
+ORD-10119,2024-10-08,Zara Thomas,Consumer,United States,North America,Clothing & Accessories,Sports Water Bottle 750ml,6,16.76,5,95.53,8.44,36.81,PayPal
+ORD-11739,2024-10-09,Olivia Sharma,Consumer,Mexico,North America,Technology,Wireless Bluetooth Headphones,4,58.38,0,233.52,13.39,91.69,PayPal
+ORD-11965,2024-10-09,Layla Patel,Consumer,Mexico,North America,Furniture,Corner L-Shaped Desk,1,371.21,10,334.09,5.6,105.76,Credit Card
+ORD-10877,2024-10-10,Yuki Sharma,Corporate,Mexico,North America,Clothing & Accessories,Leather Belt Classic,3,51.23,25,115.27,9.6,28.82,Cash on Delivery
+ORD-10523,2024-10-11,Omar Jackson,Home Office,Canada,North America,Clothing & Accessories,Polarized Sunglasses,2,66.94,0,133.88,9.12,57.82,PayPal
+ORD-11209,2024-10-11,Nadia Martinez,Corporate,Mexico,North America,Office Supplies,Paper Clips Box 500pc,2,9.28,20,14.85,8.04,-1.54,Credit Card
+ORD-10162,2024-10-15,Linda Rodriguez,Corporate,Mexico,North America,Office Supplies,Whiteboard Markers Set 8,7,9.79,30,47.97,15.8,1.33,PayPal
+ORD-10416,2024-10-15,Wei Khan,Consumer,Mexico,North America,Office Supplies,Ballpoint Pen Pack 12,1,8.54,0,8.54,7.42,-2.72,PayPal
+ORD-10038,2024-10-16,Kenji Jones,Corporate,Canada,North America,Clothing & Accessories,Cotton Formal Shirt,1,26.92,15,22.88,6.91,2.51,Credit Card
+ORD-10580,2024-10-17,Maria Johnson,Corporate,United States,North America,Technology,Webcam HD 1080p,9,45.48,20,327.46,10.43,91.9,Credit Card
+ORD-11874,2024-10-19,Thomas Johnson,Corporate,United States,North America,Furniture,Ergonomic Office Chair,1,292.37,15,248.51,5.62,67.47,Credit Card
+ORD-11864,2024-10-21,Zara Hassan,Consumer,United States,North America,Office Supplies,Desk Calendar 2025,1,13.36,0,13.36,7.32,0.03,Credit Card
+ORD-11054,2024-10-23,Ingrid Martinez,Home Office,Canada,North America,Furniture,Mesh Back Task Chair,5,94.04,5,446.69,14.2,150.37,PayPal
+ORD-11807,2024-10-26,Amina Harris,Consumer,United States,North America,Technology,Laptop Stand Adjustable,2,38.76,5,73.64,6.68,24.32,Credit Card
+ORD-10944,2024-10-30,Mary White,Consumer,United States,North America,Furniture,Filing Cabinet 3-Drawer,3,210.89,5,601.04,11.78,209.66,Cash on Delivery
+ORD-10217,2024-10-31,Layla Garcia,Corporate,United States,North America,Furniture,Standing Desk Converter,2,177.54,25,266.31,6.95,46.31,Credit Card
+ORD-10389,2024-11-05,Ingrid Sato,Consumer,Canada,North America,Furniture,Bookshelf 5-Tier,1,88.95,5,84.5,7.1,24.03,Cash on Delivery
+ORD-11853,2024-11-05,Elizabeth Johnson,Home Office,Canada,North America,Technology,Laptop Stand Adjustable,7,58.73,0,411.11,19.17,165.83,Bank Transfer
+ORD-10014,2024-11-07,Elizabeth Wang,Corporate,United States,North America,Technology,Mechanical Gaming Keyboard,3,86.2,10,232.74,10.84,79.67,Cash on Delivery
+ORD-10193,2024-11-08,Fatima Zhang,Consumer,United States,North America,Office Supplies,Highlighters Neon Pack 6,2,6.32,0,12.64,8.56,-1.61,PayPal
+ORD-10794,2024-11-09,Noah Ferrari,Consumer,Canada,North America,Clothing & Accessories,Cotton Formal Shirt,4,57.02,10,205.27,7.42,83.81,Credit Card
+ORD-10120,2024-11-10,Ali Hassan,Home Office,Mexico,North America,Technology,Webcam HD 1080p,2,56.22,5,106.82,9.83,35.15,Credit Card
+ORD-10715,2024-11-14,Hans Miller,Home Office,United States,North America,Technology,Laptop Stand Adjustable,4,74.26,0,297.04,11.24,122.43,PayPal
+ORD-11223,2024-11-16,Nadia Dubois,Consumer,United States,North America,Clothing & Accessories,Business Casual Blazer,1,45.27,5,43.01,6.72,13.65,Credit Card
+ORD-11617,2024-11-16,Felix Romano,Corporate,Mexico,North America,Office Supplies,Sticky Notes Multicolor 6-Pack,2,6.86,0,13.72,8.1,-0.55,Bank Transfer
+ORD-10400,2024-11-17,Ahmed Tanaka,Corporate,United States,North America,Office Supplies,Desk Calendar 2025,1,8.27,15,7.03,5.6,-2.29,Credit Card
+ORD-10243,2024-11-18,Pierre Hassan,Home Office,United States,North America,Furniture,Monitor Riser Wood,4,36.53,5,138.81,13.3,37.84,Bank Transfer
+ORD-10401,2024-11-20,Ayumi Robinson,Corporate,United States,North America,Technology,Wireless Ergonomic Mouse,3,62.77,0,188.31,11.8,72.94,Credit Card
+ORD-11590,2024-11-21,James Oliveira,Corporate,United States,North America,Office Supplies,Paper Clips Box 500pc,6,6.5,20,31.2,16.69,-3.04,PayPal
+ORD-10469,2024-11-24,Carlos Sharma,Corporate,Mexico,North America,Technology,Laptop Stand Adjustable,5,60.7,15,257.97,16.21,74.84,Bank Transfer
+ORD-10669,2024-11-24,Ava Fischer,Consumer,Mexico,North America,Office Supplies,Desk Calendar 2025,2,14.78,0,29.56,6.96,9.3,PayPal
+ORD-10533,2024-11-25,Jennifer Romano,Consumer,Canada,North America,Clothing & Accessories,Leather Belt Classic,4,18.59,5,70.64,9.08,24.38,Credit Card
+ORD-11257,2024-11-26,Olivia Zhang,Home Office,Mexico,North America,Office Supplies,Binder Clips Assorted 48pc,5,15.61,5,74.15,14.63,24.4,PayPal
+ORD-10239,2024-11-28,James Ali,Home Office,United States,North America,Office Supplies,Whiteboard Markers Set 8,1,6.95,10,6.25,5.78,-2.66,Credit Card
+ORD-10543,2024-11-30,Maria Suzuki,Corporate,Mexico,North America,Clothing & Accessories,Silk Tie Collection,4,36.61,25,109.83,11.22,25.39,PayPal
+ORD-10602,2024-11-30,Sakura Thomas,Corporate,United States,North America,Technology,Wireless Ergonomic Mouse,12,54.74,10,591.19,18.95,210.96,PayPal
+ORD-11869,2024-11-30,Linda Smith,Consumer,Mexico,North America,Furniture,Mesh Back Task Chair,6,120.71,5,688.05,16.62,236.87,Credit Card
+ORD-11338,2024-12-03,Nadia Harris,Home Office,Mexico,North America,Clothing & Accessories,Silk Tie Collection,3,24.35,15,62.09,8.1,17.46,Cash on Delivery
+ORD-11973,2024-12-05,Lucas Sato,Corporate,Canada,North America,Furniture,Standing Desk Converter,3,250.01,10,675.03,7.92,217.09,PayPal
+ORD-10073,2024-12-08,Xiao Robinson,Corporate,Canada,North America,Clothing & Accessories,Canvas Messenger Bag,2,66.53,5,126.41,9.38,50.5,Credit Card
+ORD-11792,2024-12-08,Jamal Wang,Consumer,United States,North America,Office Supplies,Stapler Full-Size,2,11.64,0,23.28,8.51,4.29,Credit Card
+ORD-10160,2024-12-09,Ivan Moreau,Consumer,Canada,North America,Technology,Mechanical Gaming Keyboard,4,171.86,0,687.44,13.48,295.87,PayPal
+ORD-10690,2024-12-09,Maria Yamamoto,Consumer,Canada,North America,Clothing & Accessories,Polarized Sunglasses,3,25.68,0,77.04,10.44,28.08,Credit Card
+ORD-11067,2024-12-11,Mia Li,Corporate,Mexico,North America,Furniture,Folding Table Portable,3,76.16,5,217.06,8.25,71.72,Bank Transfer
+ORD-11384,2024-12-13,Ahmed Ali,Consumer,Mexico,North America,Clothing & Accessories,Cotton Formal Shirt,12,44.66,5,509.12,14.12,227.04,Credit Card
+ORD-10759,2024-12-14,Thomas Thompson,Consumer,United States,North America,Office Supplies,Paper Clips Box 500pc,6,6.27,5,35.74,19.36,-0.55,Cash on Delivery
+ORD-10741,2024-12-16,Ivan Ali,Home Office,United States,North America,Clothing & Accessories,Leather Wallet Minimalist,4,38.77,0,155.08,12.57,64.97,Credit Card
+ORD-11242,2024-12-18,Clara Müller,Consumer,Mexico,North America,Furniture,Mesh Back Task Chair,10,253.85,0,2538.5,22.56,992.84,Cash on Delivery
+ORD-10029,2024-12-20,Clara Ali,Consumer,Canada,North America,Office Supplies,Binder Clips Assorted 48pc,6,12.47,5,71.08,8.33,29.08,Cash on Delivery
+ORD-11477,2024-12-23,Karen Romano,Consumer,Canada,North America,Furniture,Folding Table Portable,2,76.2,5,144.78,8.88,44.46,Credit Card
+ORD-11764,2024-12-25,Mary Clark,Consumer,United States,North America,Office Supplies,Binder Clips Assorted 48pc,3,13.27,25,29.86,12.34,-0.39,Credit Card
+ORD-10899,2025-01-01,Ayumi Khan,Consumer,United States,North America,Furniture,Mesh Back Task Chair,1,142.21,0,142.21,6.95,49.93,PayPal
+ORD-11129,2025-01-01,Jamal Taylor,Consumer,Canada,North America,Technology,USB-C Hub Multiport Adapter,2,60.18,0,120.36,8.33,45.83,Cash on Delivery
+ORD-11083,2025-01-02,Ivan Jones,Consumer,Mexico,North America,Furniture,Filing Cabinet 3-Drawer,7,234.12,0,1638.84,10.77,644.77,PayPal
+ORD-10948,2025-01-03,Jessica Anderson,Corporate,Canada,North America,Furniture,Filing Cabinet 3-Drawer,1,115.76,10,104.18,6.46,28.26,PayPal
+ORD-11331,2025-01-03,Thomas Thomas,Home Office,Mexico,North America,Office Supplies,Premium Notebook Set A5,2,23.83,0,47.66,8.87,17.34,Bank Transfer
+ORD-10074,2025-01-05,Nadia Oliveira,Consumer,Mexico,North America,Clothing & Accessories,Canvas Messenger Bag,6,26.43,5,150.65,8.1,63.26,Cash on Delivery
+ORD-10807,2025-01-06,Richard Jackson,Consumer,United States,North America,Office Supplies,Ballpoint Pen Pack 12,4,9.43,20,30.18,12.83,0.38,PayPal
+ORD-11852,2025-01-06,James Johansson,Home Office,Mexico,North America,Office Supplies,Premium Notebook Set A5,3,18.18,0,54.54,7.27,22.73,PayPal
+ORD-10259,2025-01-08,Sakura Costa,Consumer,United States,North America,Technology,Wireless Ergonomic Mouse,4,45.26,0,181.04,7.24,74.23,Credit Card
+ORD-11804,2025-01-09,Jamal Kim,Consumer,Canada,North America,Office Supplies,Ballpoint Pen Pack 12,3,9.86,10,,7.69,5.62,Credit Card
+ORD-11364,2025-01-12,Barbara Khan,Consumer,United States,North America,Clothing & Accessories,Leather Wallet Minimalist,3,17.66,0,52.98,6.7,19.79,Credit Card
+ORD-10699,2025-01-14,Priya Ferrari,Consumer,Canada,North America,Technology,Wireless Bluetooth Headphones,5,185.01,0,925.05,11.11,405.16,Bank Transfer
+ORD-11236,2025-01-17,Clara Laurent,Corporate,United States,North America,Furniture,Bookshelf 5-Tier,6,71.81,5,409.32,15.55,135.25,Credit Card
+ORD-11403,2025-01-24,Hanna Weber,Consumer,Canada,North America,Furniture,Mesh Back Task Chair,5,186.71,15,793.52,11.33,222.06,Bank Transfer
+ORD-11606,2025-01-24,Mary Khan,Home Office,United States,North America,Furniture,Desk Organizer Set,4,49.36,20,157.95,12.59,26.9,PayPal
+ORD-10249,2025-01-26,Barbara Sharma,Corporate,Canada,North America,Technology,Wireless Ergonomic Mouse,1,43.25,5,41.09,5.62,11.68,Bank Transfer
+ORD-11893,2025-01-26,Michael Davis,Home Office,Mexico,North America,Technology,Tablet Stand Holder,2,52.22,15,88.77,9.88,21.45,Cash on Delivery
+ORD-11957,2025-01-26,Barbara Singh,Consumer,United States,North America,Technology,Portable External SSD 1TB,6,92.96,0,557.76,10.11,240.88,Bank Transfer
+ORD-11056,2025-02-05,James Patel,Corporate,Mexico,North America,Technology,Mechanical Gaming Keyboard,2,148.04,5,281.28,9.59,108.85,Credit Card
+ORD-11732,2025-02-07,Emma Clark,Consumer,Mexico,North America,Office Supplies,Whiteboard Markers Set 8,4,9.42,5,35.8,14.51,4.33,Cash on Delivery
+ORD-11496,2025-02-10,Robert Wang,Home Office,Canada,North America,Clothing & Accessories,Polarized Sunglasses,5,51.1,10,229.95,11.04,91.16,Bank Transfer
+ORD-10611,2025-02-11,Ayumi Pereira,Consumer,Canada,North America,Clothing & Accessories,Wool Blend Scarf,1,26.45,15,22.48,6.09,3.17,PayPal
+ORD-11694,2025-02-11,Chen Rossi,Corporate,Canada,North America,Office Supplies,Stapler Full-Size,1,15.54,25,,6.71,-2.05,Cash on Delivery
+ORD-10506,2025-02-12,Ahmed Dubois,Consumer,Mexico,North America,Furniture,Monitor Riser Wood,1,42.63,0,42.63,7.17,9.88,Credit Card
+ORD-10509,2025-02-12,Robert Chen,Consumer,Canada,North America,Furniture,Standing Desk Converter,1,302.08,10,271.87,6.17,84.45,PayPal
+ORD-11876,2025-02-14,Jessica Moreau,Consumer,United States,North America,Furniture,Monitor Riser Wood,2,60.59,0,121.18,7.99,40.48,Credit Card
+ORD-10814,2025-02-15,Patricia Park,Corporate,Mexico,North America,Office Supplies,Tape Dispenser Heavy Duty,2,16.2,10,29.16,6.5,8.08,Bank Transfer
+ORD-11350,2025-02-15,James Ahmed,Home Office,Canada,North America,Technology,Wireless Bluetooth Headphones,1,230.1,5,218.59,7.29,84.74,Credit Card
+ORD-10730,2025-02-21,Richard Dubois,Home Office,Mexico,North America,Clothing & Accessories,Business Casual Blazer,1,71.91,5,68.31,7.27,25.09,Credit Card
+ORD-10647,2025-02-26,Ahmed Smith,Consumer,Mexico,North America,Office Supplies,Ballpoint Pen Pack 12,1,11.74,5,11.15,7.16,-1.29,Credit Card
+ORD-11443,2025-02-28,Ayumi Clark,Home Office,United States,North America,Furniture,Ergonomic Office Chair,2,239.93,0,479.86,6.98,184.96,Credit Card
+ORD-11017,2025-03-01,Olga Taylor,Home Office,United States,North America,Technology,Tablet Stand Holder,4,45.77,10,164.77,13.41,50.67,Credit Card
+ORD-11471,2025-03-05,Joseph Weber,Consumer,Canada,North America,Technology,Noise Cancelling Earbuds,1,112.7,5,107.06,6.08,38.99,Credit Card
+ORD-11595,2025-03-05,Hanna Williams,Corporate,Mexico,North America,Technology,Webcam HD 1080p,4,71.02,15,241.47,7.41,77.82,PayPal
+ORD-11821,2025-03-06,Olivia Zhang,Consumer,Mexico,North America,Office Supplies,Paper Clips Box 500pc,3,3.72,0,11.16,9.25,-3.11,PayPal
+ORD-11427,2025-03-07,Michael Leroy,Home Office,United States,North America,Office Supplies,Ballpoint Pen Pack 12,6,14.94,15,76.19,10.4,25.45,Credit Card
+ORD-11845,2025-03-09,Maria Müller,Corporate,United States,North America,Office Supplies,Whiteboard Markers Set 8,1,12.48,10,11.23,5.52,0.09,Credit Card
+ORD-11308,2025-03-14,Ivan Leroy,Home Office,Mexico,North America,Clothing & Accessories,Leather Wallet Minimalist,1,48.23,0,48.23,6.21,17.9,Bank Transfer
+ORD-10159,2025-03-15,Sarah Sharma,Home Office,Mexico,North America,Office Supplies,Sticky Notes Multicolor 6-Pack,5,13.18,20,52.72,12.13,10.93,Bank Transfer
+ORD-10247,2025-03-15,Giulia Singh,Consumer,United States,North America,Clothing & Accessories,Leather Belt Classic,1,17.18,0,17.18,7.15,1.44,PayPal
+ORD-10751,2025-03-16,Pierre Leroy,Home Office,Mexico,North America,Clothing & Accessories,Travel Backpack 30L,9,64.33,5,550.02,22.61,237.92,PayPal
+ORD-11281,2025-03-19,Ali Taylor,Consumer,Mexico,North America,Technology,Webcam HD 1080p,3,81.59,5,232.53,7.31,90.6,PayPal
+ORD-10585,2025-03-20,Ahmed Zhang,Corporate,United States,North America,Clothing & Accessories,Sports Water Bottle 750ml,7,29.97,5,199.3,15.57,78.84,Bank Transfer
+ORD-11238,2025-03-25,Carlos Jones,Home Office,Mexico,North America,Office Supplies,Premium Notebook Set A5,3,17.48,10,47.2,7.91,15.69,PayPal
+ORD-11005,2025-03-26,Emma Anderson,Home Office,Mexico,North America,Technology,Tablet Stand Holder,5,25.46,5,120.94,16.36,34.56,Credit Card
+ORD-11860,2025-03-27,Hans Patel,Consumer,Canada,North America,Technology,Tablet Stand Holder,2,48.96,5,93.02,9.1,30.06,PayPal
+ORD-10337,2025-03-28,Mary Chen,Home Office,United States,North America,Clothing & Accessories,Cotton Formal Shirt,1,47.73,5,45.34,5.94,15.54,PayPal
+ORD-11193,2025-03-30,Raj Harris,Consumer,Mexico,North America,Technology,USB-C Hub Multiport Adapter,4,43.48,10,156.53,9.46,51.41,Credit Card
+ORD-10087,2025-04-02,Omar Schmidt,Corporate,Canada,North America,Furniture,Standing Desk Converter,8,222.57,0,1780.56,10.29,701.93,PayPal
+ORD-11637,2025-04-02,Sarah Brown,Consumer,Canada,North America,Technology,Wireless Ergonomic Mouse,3,42.99,0,128.97,6.89,51.15,Credit Card
+ORD-10541,2025-04-04,Clara Garcia,Consumer,Canada,North America,Technology,USB-C Hub Multiport Adapter,3,25.43,5,72.48,11.34,19.18,Credit Card
+ORD-10255,2025-04-05,Diego Rossi,Corporate,Canada,North America,Technology,Tablet Stand Holder,2,42.23,10,76.01,9.52,20.04,PayPal
+ORD-11368,2025-04-05,Elizabeth Williams,Consumer,Canada,North America,Technology,USB-C Hub Multiport Adapter,7,23.09,0,161.63,20.84,51.89,Bank Transfer
+ORD-10615,2025-04-07,Giulia Smith,Corporate,Canada,North America,Clothing & Accessories,Travel Backpack 30L,1,90.62,15,77.03,7.48,24.24,Cash on Delivery
+ORD-10778,2025-04-08,Raj Harris,Consumer,United States,North America,Furniture,Standing Desk Converter,6,154.97,10,836.84,13.94,265.01,Credit Card
+ORD-11157,2025-04-11,James Miller,Home Office,Canada,North America,Furniture,Monitor Riser Wood,9,33.73,15,258.03,13.96,61.93,Credit Card
+ORD-10684,2025-04-12,Ingrid Clark,Corporate,Canada,North America,Office Supplies,Ballpoint Pen Pack 12,1,13.25,5,12.59,5.69,0.94,PayPal
+ORD-11312,2025-04-12,Ahmed Hassan,Corporate,Mexico,North America,Technology,Noise Cancelling Earbuds,3,60.01,10,162.03,11.24,51.77,Credit Card
+ORD-11848,2025-04-14,Richard Weber,Consumer,Canada,North America,Technology,Noise Cancelling Earbuds,1,155.22,15,131.94,6.82,39.75,Credit Card
+ORD-11524,2025-04-18,Olivia Anderson,Consumer,Mexico,North America,Office Supplies,Paper Clips Box 500pc,1,9.33,0,9.33,6.05,-0.92,Cash on Delivery
+ORD-10634,2025-04-21,Priya Sharma,Corporate,United States,North America,Furniture,Folding Table Portable,13,84.96,15,938.81,32.07,244.05,Cash on Delivery
+ORD-11841,2025-04-21,Pierre Garcia,Home Office,United States,North America,Office Supplies,Binder Clips Assorted 48pc,1,15.62,0,15.62,6.6,1.99,Bank Transfer
+ORD-10172,2025-04-22,Amina Singh,Consumer,Mexico,North America,Technology,Noise Cancelling Earbuds,3,155.55,0,466.65,9.51,200.48,PayPal
+ORD-10756,2025-04-27,Lucas Costa,Consumer,United States,North America,Technology,Laptop Stand Adjustable,2,36.57,15,62.17,8.53,13.41,PayPal
+ORD-10371,2025-04-30,Sophie Rossi,Corporate,Mexico,North America,Office Supplies,Stapler Full-Size,3,11.65,15,29.71,11.8,2.18,Credit Card
+ORD-10856,2025-04-30,Raj Pereira,Consumer,Mexico,North America,Technology,Noise Cancelling Earbuds,1,136.78,10,123.1,7.09,40.78,Credit Card
+ORD-11317,2025-05-02,John Pereira,Consumer,United States,North America,Furniture,Standing Desk Converter,5,217.51,15,924.42,16.81,255.08,Credit Card
+ORD-11756,2025-05-04,Jessica Brown,Home Office,United States,North America,Technology,Smart LED Desk Lamp,1,31.62,5,30.04,7.3,5.35,Bank Transfer
+ORD-10135,2025-05-06,Ayumi Harris,Consumer,Canada,North America,Technology,USB-C Hub Multiport Adapter,8,56.61,10,407.59,12.04,146.47,Credit Card
+ORD-11206,2025-05-06,Christopher Jones,Consumer,Canada,North America,Technology,Portable External SSD 1TB,4,144.04,15,489.74,9.35,163.5,PayPal
+ORD-11578,2025-05-07,Sarah Leroy,Corporate,United States,North America,Clothing & Accessories,Leather Belt Classic,11,46.45,5,485.4,10.89,219.03,PayPal
+ORD-10324,2025-05-09,Nadia Rodriguez,Consumer,Mexico,North America,Clothing & Accessories,Travel Backpack 30L,3,37.7,10,101.79,6.73,38.51,Bank Transfer
+ORD-10692,2025-05-12,Sakura Davis,Consumer,Canada,North America,Office Supplies,Premium Notebook Set A5,1,10.73,5,10.19,6.83,-1.47,Credit Card
+ORD-11014,2025-05-12,Thomas Costa,Corporate,Canada,North America,Clothing & Accessories,Leather Wallet Minimalist,2,51.67,10,93.01,7.45,33.89,Credit Card
+ORD-11386,2025-05-13,David Smith,Corporate,United States,North America,Clothing & Accessories,Business Casual Blazer,1,79.18,15,67.3,6.58,21.13,Cash on Delivery
+ORD-10470,2025-05-16,Hans Khan,Consumer,Mexico,North America,Technology,Laptop Stand Adjustable,2,45.5,5,86.45,9.32,27.08,PayPal
+ORD-10328,2025-05-17,Ivan Sharma,Corporate,Mexico,North America,Office Supplies,Stapler Full-Size,4,10.58,15,,10.31,6.62,Bank Transfer
+ORD-10583,2025-05-17,Christopher Ahmed,Corporate,United States,North America,Clothing & Accessories,Sports Water Bottle 750ml,1,17.94,10,16.15,7.16,0.02,Credit Card
+ORD-10482,2025-05-18,Hanna Nilsson,Consumer,Mexico,North America,Office Supplies,Binder Clips Assorted 48pc,3,6.54,0,19.62,7.75,3.04,PayPal
+ORD-10946,2025-05-18,Liam White,Corporate,United States,North America,Clothing & Accessories,Silk Tie Collection,1,47.58,10,42.82,5.77,13.26,Cash on Delivery
+ORD-10492,2025-05-20,Ingrid Clark,Consumer,United States,North America,Office Supplies,Ballpoint Pen Pack 12,5,6.01,15,25.54,7.93,4.09,Credit Card
+ORD-11528,2025-05-21,Noah Nilsson,Consumer,United States,North America,Furniture,Bookshelf 5-Tier,2,133.23,5,253.14,6.33,86.93,Bank Transfer
+ORD-10194,2025-05-29,Patricia Zhang,Corporate,Mexico,North America,Furniture,Filing Cabinet 3-Drawer,5,114.98,20,459.92,8.13,106.85,Credit Card
+ORD-10762,2025-05-29,Ava Yamamoto,Consumer,Canada,North America,Office Supplies,Whiteboard Markers Set 8,1,9.93,5,9.43,5.79,-0.83,Credit Card
+ORD-10181,2025-06-01,Lucas Kim,Consumer,United States,North America,Furniture,Floating Wall Shelves Set,1,65.87,0,65.87,6.61,19.74,PayPal
+ORD-10423,2025-06-01,Amina Tanaka,Consumer,Mexico,North America,Office Supplies,Binder Clips Assorted 48pc,2,11.24,10,20.23,6.69,3.42,PayPal
+ORD-10784,2025-06-01,Christopher Hassan,Consumer,Mexico,North America,Furniture,Standing Desk Converter,9,148.46,10,1202.53,26.88,373.97,Cash on Delivery
+ORD-11616,2025-06-02,Sarah Hassan,Corporate,Mexico,North America,Office Supplies,Highlighters Neon Pack 6,2,10.07,15,17.12,6.12,1.94,Credit Card
+ORD-10974,2025-06-03,Chen Rossi,Home Office,Canada,North America,Office Supplies,Premium Notebook Set A5,1,11.67,10,10.5,6.16,-0.91,Credit Card
+ORD-11486,2025-06-03,Sakura Davis,Corporate,United States,North America,Furniture,Ergonomic Office Chair,5,408.13,15,1734.55,8.12,502.04,Credit Card
+ORD-11736,2025-06-04,Richard Rossi,Consumer,Canada,North America,Furniture,Filing Cabinet 3-Drawer,6,112.24,10,606.1,15.24,186.8,PayPal
+ORD-11662,2025-06-07,Jennifer Thompson,Corporate,Mexico,North America,Office Supplies,Paper Clips Box 500pc,1,3.44,25,2.58,6.69,-5.66,Credit Card
+ORD-11134,2025-06-10,Noah Chen,Consumer,Canada,North America,Furniture,Floating Wall Shelves Set,2,81.06,10,145.91,9.58,39.06,PayPal
+ORD-11313,2025-06-11,Clara Moreau,Corporate,United States,North America,Technology,Portable External SSD 1TB,1,95.57,30,66.9,6.55,7.79,PayPal
+ORD-11878,2025-06-14,Sophie Chen,Corporate,Canada,North America,Furniture,Floating Wall Shelves Set,2,89.6,5,170.24,9.88,52.84,Bank Transfer
+ORD-10357,2025-06-16,Robert Taylor,Home Office,United States,North America,Office Supplies,Sticky Notes Multicolor 6-Pack,1,4.99,0,4.99,6.34,-3.6,Bank Transfer
+ORD-11382,2025-06-18,Ivan Santos,Corporate,Canada,North America,Furniture,Ergonomic Office Chair,7,422.4,30,2069.76,15.51,280.17,PayPal
+ORD-10870,2025-06-19,Emma Jones,Home Office,Mexico,North America,Furniture,Corner L-Shaped Desk,3,227.94,0,683.82,9.86,263.67,Credit Card
+ORD-10200,2025-06-22,Lucas Moreau,Home Office,Mexico,North America,Furniture,Mesh Back Task Chair,6,111.51,15,568.7,11.57,155.69,Cash on Delivery
+ORD-11585,2025-06-24,Clara Martinez,Home Office,United States,North America,Clothing & Accessories,Polarized Sunglasses,2,70.84,15,120.43,7.08,42.51,PayPal
+ORD-11425,2025-06-25,Li Harris,Consumer,Mexico,North America,Technology,Tablet Stand Holder,3,22.6,10,61.02,6.51,17.22,Credit Card
+ORD-10232,2025-06-27,Elizabeth Johnson,Home Office,Mexico,North America,Clothing & Accessories,Cotton Formal Shirt,6,65.25,5,371.92,8.51,167.66,PayPal
+ORD-10829,2025-06-27,Jennifer Ferrari,Consumer,Mexico,North America,Technology,Laptop Stand Adjustable,2,38.03,5,72.26,9.29,21.14,PayPal
+ORD-10834,2025-06-30,Chen Khan,Corporate,United States,North America,Office Supplies,Binder Clips Assorted 48pc,2,8.98,10,16.16,9.66,-1.58,PayPal
+ORD-11775,2025-06-30,Ayumi Romano,Consumer,Mexico,North America,Furniture,Desk Organizer Set,3,29.12,0,87.36,11.41,23.53,Cash on Delivery
+ORD-10161,2025-07-03,Robert Harris,Consumer,United States,North America,Office Supplies,Premium Notebook Set A5,1,12.16,5,11.55,6.58,-0.5,Bank Transfer
+ORD-10859,2025-07-04,Ayumi White,Corporate,United States,North America,Furniture,Folding Table Portable,2,49.81,0,99.62,8.52,31.33,Credit Card
+ORD-10285,2025-07-06,Amir Yamamoto,Home Office,Canada,North America,Technology,Wireless Ergonomic Mouse,1,42.35,5,40.23,6.81,10.13,Credit Card
+ORD-11305,2025-07-13,Clara Martin,Consumer,United States,North America,Clothing & Accessories,Wool Blend Scarf,5,38.49,0,192.45,17.33,78.89,Cash on Delivery
+ORD-10089,2025-07-17,Li Suzuki,Consumer,Canada,North America,Furniture,Standing Desk Converter,2,178.14,0,356.28,9.81,132.7,PayPal
+ORD-10094,2025-07-18,Patricia Garcia,Corporate,Canada,North America,Furniture,Desk Organizer Set,2,29.02,25,43.53,8.38,0.33,Cash on Delivery
+ORD-11072,2025-07-18,Oscar Chen,Corporate,Mexico,North America,Technology,Mechanical Gaming Keyboard,7,143.11,25,751.33,19.7,180.66,PayPal
+ORD-11516,2025-07-19,Michael Ahmed,Consumer,Canada,North America,Furniture,Corner L-Shaped Desk,2,196.01,0,392.02,9.09,147.72,Credit Card
+ORD-11063,2025-07-21,Jamal Taylor,Consumer,United States,North America,Clothing & Accessories,Travel Backpack 30L,2,85.59,0,171.18,8.25,77.34,Credit Card
+ORD-10280,2025-07-23,Mia Santos,Consumer,Canada,North America,Technology,Smart LED Desk Lamp,3,59.5,5,169.57,11.82,59.57,Credit Card
+ORD-10115,2025-07-25,Ali Harris,Consumer,Canada,North America,Technology,Wireless Ergonomic Mouse,1,49.84,5,47.35,5.98,13.96,Credit Card
+ORD-10913,2025-07-26,Nadia Leroy,Corporate,United States,North America,Furniture,Filing Cabinet 3-Drawer,9,109.79,25,741.08,15.31,132.9,Credit Card
+ORD-11838,2025-07-29,Barbara Robinson,Consumer,Mexico,North America,Clothing & Accessories,Canvas Messenger Bag,8,45.61,20,291.9,10.2,99.26,Cash on Delivery
+ORD-11176,2025-08-01,Carlos Thomas,Home Office,Canada,North America,Technology,Wireless Ergonomic Mouse,1,31.28,0,31.28,7.32,6.76,Credit Card
+ORD-11289,2025-08-03,Sophie Martin,Consumer,Canada,North America,Furniture,Standing Desk Converter,1,111.03,0,111.03,7.07,37.34,Credit Card
+ORD-10627,2025-08-04,Oscar Müller,Consumer,United States,North America,Technology,Wireless Ergonomic Mouse,5,39.06,15,166.0,11.47,47.11,Credit Card
+ORD-11264,2025-08-06,Sophie Sato,Consumer,Mexico,North America,Furniture,Floating Wall Shelves Set,3,41.55,5,118.42,7.02,36.61,PayPal
+ORD-11621,2025-08-09,Carlos Sharma,Consumer,United States,North America,Clothing & Accessories,Leather Wallet Minimalist,1,36.3,5,34.48,6.35,9.98,Credit Card
+ORD-10393,2025-08-18,William Chen,Corporate,Mexico,North America,Office Supplies,Whiteboard Markers Set 8,2,8.94,10,16.09,6.66,1.38,Credit Card
+ORD-11669,2025-08-22,Amina Sharma,Consumer,Canada,North America,Office Supplies,Ballpoint Pen Pack 12,1,12.12,10,10.91,6.34,-0.88,Cash on Delivery
+ORD-10221,2025-08-24,James Williams,Home Office,United States,North America,Furniture,Bookshelf 5-Tier,10,85.05,0,850.5,26.06,314.14,Bank Transfer
+ORD-11971,2025-08-28,William Martin,Corporate,United States,North America,Clothing & Accessories,Leather Wallet Minimalist,1,20.71,10,18.64,7.24,1.04,Credit Card
+ORD-10458,2025-08-29,Wei Thompson,Consumer,United States,North America,Furniture,Bookshelf 5-Tier,1,153.82,10,138.44,6.07,40.08,PayPal
+ORD-11894,2025-08-31,Elizabeth Miller,Home Office,United States,North America,Furniture,Floating Wall Shelves Set,7,80.08,10,504.5,16.07,152.09,Credit Card
+ORD-11620,2025-09-03,Pierre Costa,Corporate,United States,North America,Technology,Smart LED Desk Lamp,1,62.48,15,53.11,5.86,12.89,Bank Transfer
+ORD-10290,2025-09-16,Isabella Smith,Corporate,Canada,North America,Clothing & Accessories,Leather Belt Classic,1,42.67,20,34.14,5.71,7.09,PayPal
+ORD-10862,2025-09-16,Isabella Khan,Home Office,Canada,North America,Furniture,Standing Desk Converter,2,330.31,0,,6.51,257.74,Credit Card
+ORD-10386,2025-09-19,Amir Dubois,Home Office,Canada,North America,Clothing & Accessories,Sports Water Bottle 750ml,1,9.94,20,7.95,6.62,-3.64,Bank Transfer
+ORD-11721,2025-09-22,Elizabeth Zhang,Corporate,Canada,North America,Clothing & Accessories,Leather Wallet Minimalist,8,15.3,10,110.16,9.77,39.19,Cash on Delivery
+ORD-11541,2025-09-23,Sarah Weber,Home Office,United States,North America,Furniture,Mesh Back Task Chair,6,118.21,15,602.87,11.16,166.15,Credit Card
+ORD-10960,2025-09-25,Olivia Ali,Home Office,Canada,North America,Office Supplies,Highlighters Neon Pack 6,4,10.63,5,40.39,11.15,10.11,Credit Card
+ORD-10170,2025-09-27,Fatima Li,Corporate,Mexico,North America,Technology,Noise Cancelling Earbuds,10,198.45,10,1786.05,26.78,667.79,Credit Card
+ORD-11044,2025-09-27,Ingrid Wang,Corporate,United States,North America,Office Supplies,Premium Notebook Set A5,7,13.33,10,83.98,10.58,31.41,Credit Card
+ORD-10850,2025-09-28,Ethan Chen,Consumer,Canada,North America,Office Supplies,Sticky Notes Multicolor 6-Pack,2,4.32,0,8.64,9.4,-4.65,PayPal
+ORD-10918,2025-10-03,Richard Ali,Corporate,Mexico,North America,Office Supplies,Paper Clips Box 500pc,4,5.4,5,20.52,10.6,0.2,Credit Card
+ORD-11055,2025-10-03,David Williams,Consumer,United States,North America,Technology,Laptop Stand Adjustable,2,56.99,15,96.88,6.66,27.53,Credit Card
+ORD-11567,2025-10-03,Mary Anderson,Consumer,Mexico,North America,Office Supplies,Desk Calendar 2025,2,18.13,5,34.45,9.51,8.62,Bank Transfer
+ORD-10890,2025-10-05,Olga Garcia,Corporate,Mexico,North America,Furniture,Corner L-Shaped Desk,2,301.44,5,572.74,7.89,203.12,Credit Card
+ORD-11081,2025-10-07,Amir Williams,Consumer,Mexico,North America,Technology,Wireless Ergonomic Mouse,9,60.42,0,543.78,12.46,232.24,Credit Card
+ORD-11975,2025-10-09,Kenji Moreau,Consumer,Canada,North America,Technology,Laptop Stand Adjustable,6,35.76,5,203.83,16.97,68.85,Bank Transfer
+ORD-11285,2025-10-10,Ivan Davis,Consumer,United States,North America,Technology,USB-C Hub Multiport Adapter,1,46.96,10,42.26,7.43,9.0,PayPal
+ORD-10284,2025-10-12,Michael Smith,Corporate,Canada,North America,Clothing & Accessories,Cotton Formal Shirt,2,57.57,5,109.38,7.11,44.7,PayPal
+ORD-11360,2025-10-14,Thomas Smith,Home Office,Canada,North America,Clothing & Accessories,Travel Backpack 30L,5,31.44,0,157.2,11.49,67.11,Cash on Delivery
+ORD-11842,2025-10-14,Olivia Anderson,Home Office,Mexico,North America,Office Supplies,Ballpoint Pen Pack 12,4,5.03,5,19.11,12.77,-2.71,Credit Card
+ORD-11482,2025-10-16,James Williams,Corporate,Mexico,North America,Furniture,Floating Wall Shelves Set,6,63.63,10,343.6,17.31,97.22,Cash on Delivery
+ORD-10502,2025-10-17,Sarah Johnson,Consumer,United States,North America,Office Supplies,Desk Calendar 2025,4,11.36,0,45.44,11.98,13.01,Credit Card
+ORD-10809,2025-10-18,William Rodriguez,Corporate,United States,North America,Technology,Tablet Stand Holder,1,36.62,20,29.3,6.08,3.08,Bank Transfer
+ORD-10125,2025-10-19,Priya Harris,Home Office,United States,North America,Furniture,Floating Wall Shelves Set,5,38.24,10,172.08,9.65,47.71,PayPal
+ORD-11215,2025-10-21,Sophie Martinez,Consumer,United States,North America,Clothing & Accessories,Travel Backpack 30L,11,79.5,0,874.5,14.35,422.9,Credit Card
+ORD-11197,2025-10-22,Robert Park,Consumer,United States,North America,Furniture,Monitor Riser Wood,11,43.24,5,451.86,28.8,137.68,Credit Card
+ORD-11679,2025-10-25,Elizabeth Schmidt,Corporate,Canada,North America,Clothing & Accessories,Business Casual Blazer,2,82.5,15,140.25,8.65,49.1,PayPal
+ORD-10019,2025-10-26,Linda Zhang,Consumer,Canada,North America,Clothing & Accessories,Sports Water Bottle 750ml,10,11.46,0,114.6,13.72,43.58,PayPal
+ORD-11773,2025-10-26,Christopher White,Corporate,Mexico,North America,Clothing & Accessories,Business Casual Blazer,7,147.88,5,983.4,18.01,447.81,PayPal
+ORD-11915,2025-10-31,Jamal Rossi,Consumer,United States,North America,Clothing & Accessories,Polarized Sunglasses,4,70.89,0,283.56,8.25,133.53,Cash on Delivery
+ORD-11119,2025-11-02,Diego Suzuki,Corporate,Mexico,North America,Technology,USB-C Hub Multiport Adapter,2,61.98,15,105.37,7.76,29.43,Bank Transfer
+ORD-11743,2025-11-02,Xiao Jackson,Consumer,Mexico,North America,Office Supplies,Premium Notebook Set A5,2,24.23,0,48.46,7.91,18.74,Cash on Delivery
+ORD-10971,2025-11-06,Priya Costa,Corporate,Canada,North America,Furniture,Monitor Riser Wood,1,79.07,0,79.07,7.11,24.52,Credit Card
+ORD-11492,2025-11-06,Hans Wang,Corporate,Mexico,North America,Office Supplies,Sticky Notes Multicolor 6-Pack,1,7.84,15,6.66,6.96,-3.83,Credit Card
+ORD-11970,2025-11-11,Sophie Zhang,Consumer,Mexico,North America,Office Supplies,Paper Clips Box 500pc,2,7.54,0,15.08,6.17,2.12,Credit Card
+ORD-10565,2025-11-13,Thomas Laurent,Home Office,United States,North America,Office Supplies,Tape Dispenser Heavy Duty,4,13.79,0,55.16,14.12,16.22,PayPal
+ORD-10678,2025-11-13,Raj Patel,Corporate,Canada,North America,Office Supplies,Binder Clips Assorted 48pc,2,14.04,15,23.87,7.52,3.71,Cash on Delivery
+ORD-11787,2025-11-15,Omar Nilsson,Corporate,Canada,North America,Technology,Smart LED Desk Lamp,3,73.82,5,210.39,11.99,76.6,Cash on Delivery
+ORD-10682,2025-11-17,Clara Fischer,Corporate,Mexico,North America,Office Supplies,Desk Calendar 2025,3,8.0,5,22.8,12.01,-0.01,PayPal
+ORD-11407,2025-11-17,Emma Thompson,Corporate,Mexico,North America,Office Supplies,Premium Notebook Set A5,3,17.07,30,35.85,12.2,0.61,PayPal
+ORD-11222,2025-11-18,Fatima Fischer,Corporate,Mexico,North America,Furniture,Mesh Back Task Chair,2,280.54,30,392.76,6.47,49.64,Cash on Delivery
+ORD-11131,2025-11-20,Xiao Ferrari,Home Office,Mexico,North America,Technology,Tablet Stand Holder,2,23.95,5,45.5,7.35,11.8,Credit Card
+ORD-10190,2025-11-28,Olga Miller,Consumer,Mexico,North America,Office Supplies,Stapler Full-Size,2,9.87,5,18.75,8.72,1.15,PayPal
+ORD-10472,2025-12-02,Joseph Chen,Consumer,United States,North America,Clothing & Accessories,Business Casual Blazer,10,72.25,5,686.38,12.64,312.49,Credit Card
+ORD-11151,2025-12-02,James Khan,Home Office,United States,North America,Office Supplies,Ballpoint Pen Pack 12,3,12.71,10,34.32,9.81,7.35,Bank Transfer
+ORD-11251,2025-12-04,Joseph Fischer,Corporate,United States,North America,Clothing & Accessories,Wool Blend Scarf,2,41.19,0,82.38,9.35,31.84,Credit Card
+ORD-11604,2025-12-06,Mary Jackson,Consumer,Mexico,North America,Office Supplies,Desk Calendar 2025,1,9.95,10,8.96,5.73,-1.25,PayPal
+ORD-10276,2025-12-07,Susan Weber,Consumer,Canada,North America,Clothing & Accessories,Wool Blend Scarf,2,46.65,0,93.3,7.99,38.66,Credit Card
+ORD-11374,2025-12-07,Robert Martinez,Consumer,Canada,North America,Technology,Wireless Bluetooth Headphones,4,128.26,20,410.43,9.52,118.74,Cash on Delivery
+ORD-10173,2025-12-09,Olga Nilsson,Home Office,United States,North America,Technology,Mechanical Gaming Keyboard,2,130.57,5,248.08,9.18,95.27,Credit Card
+ORD-10963,2025-12-11,Ava Laurent,Corporate,Mexico,North America,Technology,Noise Cancelling Earbuds,1,98.02,25,73.52,6.56,13.05,Credit Card
+ORD-11255,2025-12-14,Amina Smith,Consumer,Mexico,North America,Office Supplies,Whiteboard Markers Set 8,7,12.44,20,69.66,16.3,14.17,Cash on Delivery
+ORD-11898,2025-12-15,Xiao Johansson,Home Office,Mexico,North America,Office Supplies,Sticky Notes Multicolor 6-Pack,1,9.32,0,9.32,6.23,-1.1,Cash on Delivery
+ORD-11009,2025-12-18,Kenji Johnson,Home Office,United States,North America,Technology,USB-C Hub Multiport Adapter,10,26.45,0,264.5,23.7,95.32,PayPal
+ORD-11254,2025-12-19,Barbara Williams,Corporate,Canada,North America,Clothing & Accessories,Cotton Formal Shirt,3,54.8,10,147.96,10.13,55.63,Bank Transfer
+ORD-11168,2025-12-21,Pierre Robinson,Consumer,Mexico,North America,Clothing & Accessories,Leather Wallet Minimalist,1,63.87,20,51.1,6.15,13.02,PayPal
+ORD-11286,2025-12-23,Robert Sato,Consumer,Canada,North America,Office Supplies,Ballpoint Pen Pack 12,2,9.45,15,16.06,9.31,-1.76,PayPal
+ORD-10592,2025-12-27,Priya Thomas,Home Office,Mexico,North America,Office Supplies,Tape Dispenser Heavy Duty,1,23.01,5,21.86,6.85,4.66,PayPal
+ORD-10441,2024-05-30,Susan Kumar,Consumer,Canada,North America,Technology,Wireless Bluetooth Headphones,1,171.98,10,154.78,7.29,52.9,Credit Card
+ORD-11254,2025-12-19,Barbara Williams,Corporate,Canada,North America,Clothing & Accessories,Cotton Formal Shirt,3,54.8,10,147.96,10.13,55.63,Bank Transfer
+ORD-11878,2025-06-14,Sophie Chen,Corporate,Canada,North America,Furniture,Floating Wall Shelves Set,2,89.6,5,170.24,9.88,52.84,Bank Transfer
+ORD-10885,2023-08-03,Amir Singh,Corporate,Mexico,North America,Office Supplies,Premium Notebook Set A5,3,10.7,5,30.49,11.92,4.13,Credit Card
+ORD-11604,2025-12-06,Mary Jackson,Consumer,Mexico,North America,Office Supplies,Desk Calendar 2025,1,9.95,10,8.96,5.73,-1.25,PayPal

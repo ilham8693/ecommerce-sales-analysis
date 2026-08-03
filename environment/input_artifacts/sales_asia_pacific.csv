@@ -1,0 +1,528 @@
+Order_ID,Order_Date,Customer_Name,Customer_Segment,Country,Region,Product_Category,Product_Name,Quantity,Unit_Price,Discount_Percent,Total_Sales,Shipping_Cost,Earnings,Payment_Method
+ORD-11702,2023-01-06,Thomas Smith,Consumer,China,Asia Pacific,Furniture,Standing Desk Converter,2,334.11,5,634.81,11.92,221.96,Bank Transfer
+ORD-11330,2023-01-13,Marco Moreau,Corporate,Japan,Asia Pacific,Clothing & Accessories,Business Casual Blazer,3,51.92,30,109.03,13.39,17.76,PayPal
+ORD-10339,2023-01-14,Susan Davis,Home Office,Australia,Asia Pacific,Furniture,Ergonomic Office Chair,2,446.8,5,848.92,13.59,299.17,Cash on Delivery
+ORD-10344,2023-01-20,Sakura Martinez,Home Office,Australia,Asia Pacific,Furniture,Floating Wall Shelves Set,2,67.38,5,128.02,11.0,36.16,Cash on Delivery
+ORD-11029,2023-01-20,Karen Rossi,Home Office,Japan,Asia Pacific,Office Supplies,Whiteboard Markers Set 8,4,19.92,0,79.68,16.01,27.81,Cash on Delivery
+ORD-11026,2023-01-22,Chen Singh,Consumer,China,Asia Pacific,Technology,Smart LED Desk Lamp,3,34.98,5,99.69,14.67,27.3,Credit Card
+ORD-10636,2023-01-28,Ayumi Tanaka,Corporate,South Korea,Asia Pacific,Office Supplies,Ballpoint Pen Pack 12,5,9.02,15,38.33,17.7,0.34,Credit Card
+ORD-10017,2023-01-31,Kenji Nilsson,Home Office,Japan,Asia Pacific,Clothing & Accessories,Silk Tie Collection,3,18.32,0,54.96,12.91,14.57,Credit Card
+ORD-11237,2023-01-31,Ahmed Garcia,Home Office,India,Asia Pacific,Furniture,Corner L-Shaped Desk,4,429.23,5,1631.07,12.2,588.72,Credit Card
+ORD-11670,2023-02-03,Jamal Rossi,Corporate,South Korea,Asia Pacific,Furniture,Floating Wall Shelves Set,1,60.16,15,51.14,10.85,4.19,Bank Transfer
+ORD-11158,2023-02-04,Maria Sharma,Home Office,Japan,Asia Pacific,Office Supplies,Desk Calendar 2025,10,8.37,15,71.14,24.19,9.29,Cash on Delivery
+ORD-10384,2023-02-07,Giulia Leroy,Consumer,China,Asia Pacific,Clothing & Accessories,Sports Water Bottle 750ml,1,8.96,0,8.96,11.08,-6.6,PayPal
+ORD-11503,2023-02-07,Felix Yamamoto,Consumer,Japan,Asia Pacific,Technology,Noise Cancelling Earbuds,2,173.37,0,346.74,10.89,145.14,PayPal
+ORD-10098,2023-02-08,Ava Jones,Consumer,Australia,Asia Pacific,Technology,Webcam HD 1080p,3,64.55,10,174.28,13.01,54.76,Credit Card
+ORD-10314,2023-02-08,Sakura Martin,Corporate,Japan,Asia Pacific,Office Supplies,Stapler Full-Size,5,14.53,5,69.02,11.87,24.46,Credit Card
+ORD-10322,2023-02-08,Maria Laurent,Home Office,South Korea,Asia Pacific,Office Supplies,Paper Clips Box 500pc,1,9.63,10,8.67,10.44,-6.1,PayPal
+ORD-11011,2023-02-10,Hans Kim,Corporate,Japan,Asia Pacific,Clothing & Accessories,Travel Backpack 30L,2,81.58,15,138.69,11.8,45.31,Bank Transfer
+ORD-11082,2023-02-12,Patricia Müller,Consumer,Australia,Asia Pacific,Clothing & Accessories,Wool Blend Scarf,1,43.57,5,41.39,10.06,9.54,PayPal
+ORD-11355,2023-02-17,Lucas Schmidt,Home Office,Australia,Asia Pacific,Technology,Wireless Bluetooth Headphones,1,238.37,15,202.61,11.03,60.48,Credit Card
+ORD-10916,2023-02-18,Jessica Wang,Corporate,South Korea,Asia Pacific,Clothing & Accessories,Business Casual Blazer,2,72.23,20,115.57,13.08,30.26,Credit Card
+ORD-11419,2023-02-21,Michael Davis,Consumer,China,Asia Pacific,Furniture,Desk Organizer Set,6,54.39,0,326.34,17.34,113.2,PayPal
+ORD-11855,2023-02-21,Hans Johnson,Consumer,Australia,Asia Pacific,Technology,Noise Cancelling Earbuds,1,133.63,0,133.63,9.94,50.19,PayPal
+ORD-11175,2023-02-25,Ethan Hassan,Corporate,China,Asia Pacific,Clothing & Accessories,Travel Backpack 30L,2,31.71,5,60.25,10.63,17.91,Bank Transfer
+ORD-11378,2023-02-27,Michael Hassan,Corporate,India,Asia Pacific,Office Supplies,Ballpoint Pen Pack 12,12,5.63,5,64.18,31.26,2.52,Credit Card
+ORD-11523,2023-03-01,Giulia Ali,Consumer,South Korea,Asia Pacific,Technology,Noise Cancelling Earbuds,2,135.29,0,270.58,10.07,111.69,Cash on Delivery
+ORD-10233,2023-03-02,Fatima Rossi,Consumer,Australia,Asia Pacific,Furniture,Desk Organizer Set,1,24.66,0,24.66,11.27,-1.41,Credit Card
+ORD-10605,2023-03-02,Yuki Patel,Corporate,Japan,Asia Pacific,Technology,Mechanical Gaming Keyboard,4,165.1,5,627.38,15.44,248.72,Credit Card
+ORD-11294,2023-03-02,Ayumi Suzuki,Corporate,Australia,Asia Pacific,Office Supplies,Whiteboard Markers Set 8,4,9.18,20,29.38,12.6,0.26,PayPal
+ORD-11673,2023-03-02,Elizabeth Moreau,Home Office,Australia,Asia Pacific,Technology,Wireless Bluetooth Headphones,2,201.32,0,402.64,13.72,167.47,PayPal
+ORD-10246,2023-03-05,Barbara Ali,Corporate,Australia,Asia Pacific,Office Supplies,Stapler Full-Size,1,18.57,0,18.57,9.91,0.3,Credit Card
+ORD-10620,2023-03-07,Omar Garcia,Consumer,China,Asia Pacific,Office Supplies,Premium Notebook Set A5,1,11.17,20,8.94,10.07,-6.16,Credit Card
+ORD-10521,2023-03-13,Mia Santos,Consumer,South Korea,Asia Pacific,Office Supplies,Premium Notebook Set A5,5,19.74,0,98.7,17.03,37.26,Credit Card
+ORD-10861,2023-03-16,Isabella Martin,Consumer,China,Asia Pacific,Office Supplies,Binder Clips Assorted 48pc,2,14.59,0,29.18,12.25,3.8,PayPal
+ORD-11064,2023-03-18,Karen Jackson,Consumer,Japan,Asia Pacific,Clothing & Accessories,Polarized Sunglasses,1,28.85,15,24.52,10.81,-0.72,Cash on Delivery
+ORD-11090,2023-03-23,Hanna Jones,Corporate,China,Asia Pacific,Furniture,Corner L-Shaped Desk,12,334.56,5,3813.98,35.07,1370.08,PayPal
+ORD-10887,2023-03-24,Mia Ferrari,Consumer,India,Asia Pacific,Clothing & Accessories,Sports Water Bottle 750ml,2,10.37,0,20.74,12.31,-1.94,PayPal
+ORD-11007,2023-03-26,Olga Russo,Consumer,Australia,Asia Pacific,Furniture,Filing Cabinet 3-Drawer,4,210.65,0,842.6,11.11,325.93,Credit Card
+ORD-11478,2023-03-29,Oscar Taylor,Home Office,China,Asia Pacific,Technology,Portable External SSD 1TB,1,116.12,10,104.51,10.18,30.46,Credit Card
+ORD-11479,2023-03-31,Susan White,Corporate,Japan,Asia Pacific,Furniture,Filing Cabinet 3-Drawer,1,199.74,20,159.79,9.67,30.28,Cash on Delivery
+ORD-10207,2023-04-05,Diego Johansson,Consumer,Japan,Asia Pacific,Technology,Wireless Ergonomic Mouse,8,20.81,0,166.48,20.3,54.62,Cash on Delivery
+ORD-11995,2023-04-05,Jamal Ferrari,Consumer,India,Asia Pacific,Office Supplies,Binder Clips Assorted 48pc,2,12.65,15,21.5,12.32,-2.21,PayPal
+ORD-10176,2023-04-06,Li Pereira,Corporate,India,Asia Pacific,Clothing & Accessories,Canvas Messenger Bag,3,83.46,0,250.38,16.07,109.12,Credit Card
+ORD-10274,2023-04-09,Michael Ferrari,Home Office,Japan,Asia Pacific,Office Supplies,Binder Clips Assorted 48pc,1,9.89,5,9.4,10.9,-5.95,Credit Card
+ORD-11333,2023-04-09,Olga Hassan,Corporate,South Korea,Asia Pacific,Furniture,Desk Organizer Set,4,58.82,10,211.75,13.12,57.46,PayPal
+ORD-11079,2023-04-10,Maria Schmidt,Consumer,South Korea,Asia Pacific,Technology,Laptop Stand Adjustable,3,63.4,20,152.16,12.26,35.29,Credit Card
+ORD-11912,2023-04-13,Lucas Chen,Consumer,Australia,Asia Pacific,Office Supplies,Whiteboard Markers Set 8,4,13.89,0,55.56,18.26,12.3,Credit Card
+ORD-10091,2023-04-16,Jessica Sato,Consumer,Australia,Asia Pacific,Clothing & Accessories,Travel Backpack 30L,1,55.0,5,52.25,9.81,14.94,PayPal
+ORD-10434,2023-04-16,Giulia Brown,Corporate,South Korea,Asia Pacific,Office Supplies,Paper Clips Box 500pc,4,8.66,5,32.91,11.66,5.66,PayPal
+ORD-11212,2023-04-20,Li White,Corporate,Japan,Asia Pacific,Technology,Webcam HD 1080p,4,57.09,15,194.11,11.38,57.13,Credit Card
+ORD-10667,2023-04-21,Felix Miller,Consumer,South Korea,Asia Pacific,Clothing & Accessories,Canvas Messenger Bag,1,54.74,0,54.74,10.89,16.48,Credit Card
+ORD-10468,2023-04-23,Wei Johansson,Corporate,India,Asia Pacific,Furniture,Desk Organizer Set,1,54.96,10,49.46,10.74,5.74,Credit Card
+ORD-10377,2023-04-25,Omar Williams,Corporate,Japan,Asia Pacific,Clothing & Accessories,Wool Blend Scarf,6,30.66,10,165.56,22.41,51.17,Cash on Delivery
+ORD-11553,2023-04-25,Karen Moreau,Consumer,China,Asia Pacific,Clothing & Accessories,Leather Belt Classic,1,46.16,5,43.85,11.08,9.69,Credit Card
+ORD-10102,2023-04-26,Kenji Jones,Consumer,India,Asia Pacific,Furniture,Standing Desk Converter,2,177.6,0,355.2,13.33,128.75,Credit Card
+ORD-11204,2023-04-29,Li Yamamoto,Consumer,China,Asia Pacific,Technology,Tablet Stand Holder,1,17.84,5,16.95,11.04,-3.9,Credit Card
+ORD-10826,2023-04-30,Ava Fischer,Corporate,Australia,Asia Pacific,Office Supplies,Ballpoint Pen Pack 12,4,8.59,5,32.64,11.51,5.67,Credit Card
+ORD-10202,2023-05-02,Ivan Anderson,Corporate,China,Asia Pacific,Office Supplies,Tape Dispenser Heavy Duty,3,12.78,5,36.42,14.72,4.45,Credit Card
+ORD-11586,2023-05-04,Jamal Schmidt,Home Office,South Korea,Asia Pacific,Office Supplies,Whiteboard Markers Set 8,2,6.24,20,9.98,13.23,-8.87,Credit Card
+ORD-10828,2023-05-05,Kenji Romano,Consumer,China,Asia Pacific,Clothing & Accessories,Canvas Messenger Bag,1,88.39,15,75.13,11.2,19.73,PayPal
+ORD-10652,2023-05-06,Pierre Fischer,Consumer,Japan,Asia Pacific,Technology,Wireless Bluetooth Headphones,5,181.39,0,906.95,13.61,394.52,Bank Transfer
+ORD-10143,2023-05-08,Wei Sato,Corporate,Australia,Asia Pacific,Office Supplies,Tape Dispenser Heavy Duty,2,11.52,15,19.58,12.1,-2.89,Credit Card
+ORD-10609,2023-05-13,Diego Jackson,Corporate,South Korea,Asia Pacific,Technology,Smart LED Desk Lamp,4,62.57,10,225.25,14.99,72.61,PayPal
+ORD-11288,2023-05-13,Ayumi Ahmed,Consumer,South Korea,Asia Pacific,Furniture,Folding Table Portable,15,100.94,5,1438.39,29.26,500.67,Credit Card
+ORD-10105,2023-05-15,Olivia Kumar,Corporate,India,Asia Pacific,Furniture,Floating Wall Shelves Set,2,77.49,15,131.73,12.63,26.11,Cash on Delivery
+ORD-11227,2023-05-17,Nadia Brown,Home Office,South Korea,Asia Pacific,Office Supplies,Paper Clips Box 500pc,9,3.16,10,25.6,18.23,-5.43,Cash on Delivery
+ORD-11149,2023-05-18,Clara Jackson,Consumer,Australia,Asia Pacific,Clothing & Accessories,Silk Tie Collection,8,43.71,15,297.23,21.92,100.47,PayPal
+ORD-11329,2023-05-18,Jamal Clark,Consumer,South Korea,Asia Pacific,Furniture,Standing Desk Converter,2,119.77,25,179.66,10.37,25.57,Cash on Delivery
+ORD-11762,2023-05-22,Hans Johnson,Home Office,India,Asia Pacific,Technology,Tablet Stand Holder,5,15.48,10,69.66,19.74,7.35,PayPal
+ORD-10710,2023-05-23,Ahmed Taylor,Home Office,China,Asia Pacific,Technology,Smart LED Desk Lamp,8,37.26,20,238.46,14.6,59.92,PayPal
+ORD-10942,2023-05-30,Barbara Rossi,Home Office,China,Asia Pacific,Office Supplies,Binder Clips Assorted 48pc,3,14.0,15,35.7,16.47,0.33,Credit Card
+ORD-11401,2023-06-01,Robert Sharma,Consumer,Australia,Asia Pacific,Furniture,Mesh Back Task Chair,1,271.69,20,217.35,10.66,43.68,Cash on Delivery
+ORD-10025,2023-06-04,Kenji Leroy,Corporate,Japan,Asia Pacific,Clothing & Accessories,Leather Belt Classic,6,36.82,10,198.83,13.78,74.59,Credit Card
+ORD-10816,2023-06-06,Jennifer Nilsson,Consumer,Japan,Asia Pacific,Technology,Wireless Ergonomic Mouse,1,29.03,5,27.58,10.81,0.8,Credit Card
+ORD-11468,2023-06-06,Christopher Harris,Consumer,Australia,Asia Pacific,Office Supplies,Ballpoint Pen Pack 12,1,6.69,0,6.69,10.56,-6.88,Cash on Delivery
+ORD-11539,2023-06-06,Marco Martin,Consumer,Australia,Asia Pacific,Technology,Laptop Stand Adjustable,4,59.29,20,189.73,13.59,45.7,Cash on Delivery
+ORD-10376,2023-06-08,Omar Garcia,Corporate,China,Asia Pacific,Office Supplies,Highlighters Neon Pack 6,6,5.73,15,29.22,18.91,-5.16,Cash on Delivery
+ORD-10726,2023-06-08,Hans Yamamoto,Consumer,South Korea,Asia Pacific,Clothing & Accessories,Leather Wallet Minimalist,4,38.87,5,147.71,14.04,55.93,Credit Card
+ORD-11048,2023-06-11,Christopher Robinson,Consumer,Australia,Asia Pacific,Furniture,Bookshelf 5-Tier,2,122.54,0,245.08,11.78,86.25,Credit Card
+ORD-11133,2023-06-12,Wei Harris,Consumer,Japan,Asia Pacific,Technology,Laptop Stand Adjustable,15,33.12,0,496.8,38.18,185.38,Credit Card
+ORD-10358,2023-06-14,Isabella Ahmed,Consumer,India,Asia Pacific,Clothing & Accessories,Leather Belt Classic,5,17.24,0,86.2,16.2,26.9,Credit Card
+ORD-11375,2023-06-19,Raj Chen,Home Office,Japan,Asia Pacific,Office Supplies,Desk Calendar 2025,2,12.13,15,20.62,12.26,-2.56,Cash on Delivery
+ORD-11336,2023-06-23,Ayumi Robinson,Corporate,Australia,Asia Pacific,Furniture,Mesh Back Task Chair,1,250.47,5,237.95,10.78,76.89,Bank Transfer
+ORD-10712,2023-06-24,Mary Johansson,Consumer,India,Asia Pacific,Technology,Wireless Ergonomic Mouse,7,57.98,15,344.98,16.8,104.96,PayPal
+ORD-10747,2023-06-29,Olga Patel,Consumer,Japan,Asia Pacific,Clothing & Accessories,Cotton Formal Shirt,1,24.48,20,19.58,9.71,-2.37,Bank Transfer
+ORD-10483,2023-07-01,Noah Jones,Home Office,Australia,Asia Pacific,Technology,Portable External SSD 1TB,3,97.31,10,262.74,15.03,87.15,Credit Card
+ORD-10792,2023-07-01,Oscar Schmidt,Consumer,Australia,Asia Pacific,Office Supplies,Stapler Full-Size,5,18.79,10,84.55,15.23,27.04,PayPal
+ORD-10381,2023-07-03,Sophie Harris,Consumer,India,Asia Pacific,Technology,Smart LED Desk Lamp,2,46.18,5,87.74,12.38,24.56,Credit Card
+ORD-11464,2023-07-06,Chen Jones,Home Office,Japan,Asia Pacific,Furniture,Bookshelf 5-Tier,4,194.07,0,776.28,11.42,299.09,Credit Card
+ORD-10003,2023-07-09,Priya Martinez,Consumer,Japan,Asia Pacific,Furniture,Desk Organizer Set,3,53.14,15,135.51,14.88,24.98,PayPal
+ORD-10107,2023-07-11,Noah Santos,Consumer,South Korea,Asia Pacific,Office Supplies,Binder Clips Assorted 48pc,1,10.59,5,10.06,11.4,-6.11,Credit Card
+ORD-10511,2023-07-14,Clara Nilsson,Consumer,Japan,Asia Pacific,Office Supplies,Paper Clips Box 500pc,5,3.47,5,16.48,13.6,-4.93,Bank Transfer
+ORD-11806,2023-07-14,Ali Harris,Consumer,Australia,Asia Pacific,Furniture,Ergonomic Office Chair,5,394.43,5,1873.54,12.1,678.15,Bank Transfer
+ORD-10625,2023-07-15,Olga Schmidt,Consumer,South Korea,Asia Pacific,Furniture,Ergonomic Office Chair,7,233.89,0,1637.23,21.29,633.6,Credit Card
+ORD-10904,2023-07-18,Thomas Thompson,Consumer,India,Asia Pacific,Technology,Wireless Bluetooth Headphones,1,190.35,10,171.31,10.96,55.66,PayPal
+ORD-10266,2023-07-19,Fatima Costa,Corporate,India,Asia Pacific,Furniture,Monitor Riser Wood,3,64.89,25,146.0,16.18,13.02,Cash on Delivery
+ORD-11061,2023-07-19,Omar Müller,Consumer,China,Asia Pacific,Technology,Mechanical Gaming Keyboard,10,133.95,10,1205.55,21.46,447.36,Credit Card
+ORD-11391,2023-07-22,James Taylor,Consumer,China,Asia Pacific,Office Supplies,Stapler Full-Size,1,16.43,5,15.61,11.32,-3.1,Bank Transfer
+ORD-11199,2023-07-29,Liam Wang,Consumer,China,Asia Pacific,Technology,Tablet Stand Holder,3,33.19,15,84.63,11.24,18.63,Credit Card
+ORD-10755,2023-07-31,William Martinez,Corporate,South Korea,Asia Pacific,Technology,Tablet Stand Holder,1,19.91,5,18.91,9.86,-1.9,Credit Card
+ORD-10459,2023-08-02,Noah Russo,Home Office,Japan,Asia Pacific,Office Supplies,Tape Dispenser Heavy Duty,5,10.99,5,52.2,12.66,14.81,Cash on Delivery
+ORD-10228,2023-08-05,Sakura Rodriguez,Corporate,China,Asia Pacific,Technology,Wireless Ergonomic Mouse,1,35.7,10,32.13,11.04,1.46,PayPal
+ORD-10254,2023-08-05,Christopher Rossi,Corporate,Japan,Asia Pacific,Office Supplies,Ballpoint Pen Pack 12,7,15.21,20,85.18,24.79,12.48,Credit Card
+ORD-11929,2023-08-06,James Schmidt,Consumer,India,Asia Pacific,Technology,Webcam HD 1080p,3,67.35,150,202.05,12.44,78.48,PayPal
+ORD-11909,2023-08-10,Ivan Davis,Corporate,Australia,Asia Pacific,Furniture,Folding Table Portable,5,79.11,10,356.0,16.05,102.62,Credit Card
+ORD-10651,2023-08-12,Giulia Pereira,Consumer,South Korea,Asia Pacific,Clothing & Accessories,Leather Belt Classic,1,18.19,0,18.19,9.63,-0.54,Credit Card
+ORD-10737,2023-08-12,Barbara Hassan,Consumer,Australia,Asia Pacific,Technology,Laptop Stand Adjustable,8,75.46,15,513.13,16.19,164.92,Credit Card
+ORD-10952,2023-08-13,Karen Zhang,Home Office,India,Asia Pacific,Office Supplies,Premium Notebook Set A5,2,16.46,10,29.63,13.64,1.18,Credit Card
+ORD-11557,2023-08-18,Liam Pereira,Home Office,Australia,Asia Pacific,Clothing & Accessories,Cotton Formal Shirt,3,48.47,20,116.33,10.91,32.72,Bank Transfer
+ORD-10820,2023-08-22,Christopher Williams,Home Office,Australia,Asia Pacific,Technology,Wireless Bluetooth Headphones,3,100.41,5,286.17,16.29,104.2,Credit Card
+ORD-10009,2023-08-23,Xiao Laurent,Consumer,Japan,Asia Pacific,Office Supplies,Tape Dispenser Heavy Duty,5,20.76,5,98.61,14.44,37.46,Credit Card
+ORD-10457,2023-08-29,Omar Hassan,Consumer,China,Asia Pacific,Clothing & Accessories,Cotton Formal Shirt,6,50.95,25,229.28,18.09,58.34,PayPal
+ORD-10219,2023-08-30,Giulia Anderson,Consumer,India,Asia Pacific,Office Supplies,Premium Notebook Set A5,2,13.7,5,26.03,11.05,2.65,Cash on Delivery
+ORD-10688,2023-08-30,Mia Davis,Consumer,South Korea,Asia Pacific,Technology,Wireless Ergonomic Mouse,1,34.68,10,31.21,10.64,1.5,Credit Card
+ORD-10153,2023-08-31,Mary Martin,Corporate,Japan,Asia Pacific,Furniture,Bookshelf 5-Tier,3,116.76,20,280.22,14.72,55.33,Credit Card
+ORD-10341,2023-09-04,Ethan Yamamoto,Home Office,Australia,Asia Pacific,Office Supplies,Highlighters Neon Pack 6,1,7.16,10,6.44,10.26,-7.04,Credit Card
+ORD-10872,2023-09-04,Olga Leroy,Consumer,India,Asia Pacific,Office Supplies,Binder Clips Assorted 48pc,1,12.17,15,10.34,11.21,-6.35,Bank Transfer
+ORD-10447,2023-09-06,Hans Smith,Consumer,Australia,Asia Pacific,Office Supplies,Whiteboard Markers Set 8,2,11.34,0,22.68,13.99,-1.52,PayPal
+ORD-11030,2023-09-07,Chen Patel,Home Office,Japan,Asia Pacific,Technology,USB-C Hub Multiport Adapter,5,28.98,0,144.9,12.42,52.78,Cash on Delivery
+ORD-11840,2023-09-08,Omar Russo,Home Office,Australia,Asia Pacific,Office Supplies,Paper Clips Box 500pc,4,4.19,0,16.76,13.27,-4.05,Credit Card
+ORD-10399,2023-09-11,Chen Garcia,Consumer,China,Asia Pacific,Technology,Wireless Ergonomic Mouse,1,51.7,10,46.53,10.95,7.14,Cash on Delivery
+ORD-10576,2023-09-11,Fatima Wang,Consumer,India,Asia Pacific,Office Supplies,Ballpoint Pen Pack 12,4,7.5,10,27.0,11.42,2.08,PayPal
+ORD-11991,2023-09-11,Hanna Santos,Home Office,South Korea,Asia Pacific,Technology,Portable External SSD 1TB,1,149.93,10,134.94,9.79,42.69,Credit Card
+ORD-11911,2023-09-18,Lucas Thomas,Corporate,China,Asia Pacific,Clothing & Accessories,Travel Backpack 30L,2,36.08,30,50.51,12.81,1.62,PayPal
+ORD-10600,2023-09-19,Kenji Taylor,Consumer,Japan,Asia Pacific,Furniture,Mesh Back Task Chair,4,197.76,5,751.49,15.67,261.2,PayPal
+ORD-10920,2023-09-21,Layla Fischer,Corporate,China,Asia Pacific,Technology,Portable External SSD 1TB,2,137.32,5,260.91,13.4,96.46,PayPal
+ORD-10554,2023-09-26,Olivia Ferrari,Home Office,Australia,Asia Pacific,Clothing & Accessories,Polarized Sunglasses,6,77.51,10,418.55,20.82,165.2,Bank Transfer
+ORD-10085,2023-09-27,Marco Nilsson,Consumer,Japan,Asia Pacific,Technology,Mechanical Gaming Keyboard,1,126.55,0,126.55,9.75,47.2,PayPal
+ORD-11745,2023-09-28,John Patel,Consumer,Japan,Asia Pacific,Clothing & Accessories,Canvas Messenger Bag,4,26.2,5,99.56,17.25,29.91,Credit Card
+ORD-10881,2023-09-29,Sophie Clark,Home Office,China,Asia Pacific,Furniture,Mesh Back Task Chair,1,238.24,0,238.24,10.13,85.17,Credit Card
+ORD-10926,2023-09-29,Priya Garcia,Corporate,Japan,Asia Pacific,Furniture,Ergonomic Office Chair,1,222.71,15,189.3,10.45,45.22,Credit Card
+ORD-10635,2023-09-30,Fatima Martin,Home Office,Australia,Asia Pacific,Furniture,Desk Organizer Set,4,59.01,0,236.04,11.14,83.28,Cash on Delivery
+ORD-11651,2023-10-03,Hanna Yamamoto,Consumer,Japan,Asia Pacific,Furniture,Ergonomic Office Chair,6,241.8,5,1378.26,22.07,485.71,Cash on Delivery
+ORD-10380,2023-10-04,William Yamamoto,Corporate,China,Asia Pacific,Furniture,Filing Cabinet 3-Drawer,4,162.94,5,619.17,15.93,212.18,Bank Transfer
+ORD-10525,2023-10-06,Patricia Kim,Consumer,Australia,Asia Pacific,Technology,Mechanical Gaming Keyboard,2,131.68,0,263.36,10.63,107.88,PayPal
+ORD-11358,2023-10-10,Christopher Thompson,Consumer,Australia,Asia Pacific,Furniture,Bookshelf 5-Tier,3,82.78,5,235.92,13.57,73.35,Credit Card
+ORD-10568,2023-10-14,Ethan Clark,Consumer,South Korea,Asia Pacific,Office Supplies,Tape Dispenser Heavy Duty,1,20.54,5,19.51,9.89,0.38,Bank Transfer
+ORD-11812,2023-10-18,Liam Jones,Consumer,South Korea,Asia Pacific,Technology,Smart LED Desk Lamp,1,46.22,15,39.29,10.54,3.33,Credit Card
+ORD-10211,2023-10-20,Sarah Tanaka,Corporate,China,Asia Pacific,Technology,Tablet Stand Holder,4,15.34,10,55.22,16.78,4.69,PayPal
+ORD-11809,2023-10-20,Michael Sato,Corporate,Japan,Asia Pacific,Clothing & Accessories,Travel Backpack 30L,1,82.52,20,66.02,9.64,15.12,Cash on Delivery
+ORD-10499,2023-10-21,Felix Müller,Corporate,Japan,Asia Pacific,Furniture,Folding Table Portable,5,127.98,20,511.92,13.19,114.79,Credit Card
+ORD-11550,2023-10-23,Linda Russo,Consumer,Japan,Asia Pacific,Technology,Portable External SSD 1TB,3,108.96,10,294.19,14.91,99.5,PayPal
+ORD-10429,2023-10-24,Karen Robinson,Home Office,China,Asia Pacific,Technology,Wireless Ergonomic Mouse,11,52.9,0,581.9,17.52,244.33,Bank Transfer
+ORD-10382,2023-10-26,Layla Anderson,Home Office,Australia,Asia Pacific,Furniture,Filing Cabinet 3-Drawer,2,113.95,15,193.72,13.41,43.57,Credit Card
+ORD-10478,2023-10-29,Jamal Robinson,Home Office,South Korea,Asia Pacific,Office Supplies,Highlighters Neon Pack 6,1,7.39,5,7.02,9.58,-5.89,PayPal
+ORD-10696,2023-11-01,Susan Chen,Corporate,China,Asia Pacific,Technology,USB-C Hub Multiport Adapter,2,38.06,5,72.31,10.58,19.86,Credit Card
+ORD-10054,2023-11-02,Diego Jones,Corporate,China,Asia Pacific,Clothing & Accessories,Canvas Messenger Bag,1,30.54,10,27.49,10.33,1.89,PayPal
+ORD-11038,2023-11-02,Hanna Johnson,Home Office,Australia,Asia Pacific,Furniture,Ergonomic Office Chair,6,302.03,20,1449.74,13.81,348.62,Cash on Delivery
+ORD-11728,2023-11-02,Ahmed Pereira,Consumer,India,Asia Pacific,Technology,Tablet Stand Holder,2,34.8,5,66.12,10.05,17.79,Cash on Delivery
+ORD-11470,2023-11-06,Diego Robinson,Corporate,China,Asia Pacific,Furniture,Folding Table Portable,4,127.45,15,433.33,12.43,115.02,Credit Card
+ORD-11903,2023-11-07,Wei Smith,Home Office,Japan,Asia Pacific,Office Supplies,Whiteboard Markers Set 8,7,9.27,5,61.65,19.21,13.24,Credit Card
+ORD-11109,2023-11-09,Jessica Park,Consumer,China,Asia Pacific,Furniture,Bookshelf 5-Tier,1,94.39,15,80.23,11.03,12.57,PayPal
+ORD-11761,2023-11-12,Oscar Thomas,Consumer,India,Asia Pacific,Clothing & Accessories,Sports Water Bottle 750ml,1,22.15,0,22.15,10.89,0.18,Bank Transfer
+ORD-10375,2023-11-13,Priya Leroy,Corporate,South Korea,Asia Pacific,Technology,Wireless Ergonomic Mouse,1,37.78,10,34.0,10.66,2.56,Credit Card
+ORD-10725,2023-11-18,Giulia Rossi,Corporate,Australia,Asia Pacific,Technology,Laptop Stand Adjustable,11,53.68,0,590.48,19.16,246.56,PayPal
+ORD-10932,2023-11-20,Karen Khan,Consumer,China,Asia Pacific,Office Supplies,Desk Calendar 2025,3,10.56,5,30.1,14.07,1.77,PayPal
+ORD-11833,2023-11-21,Ali Romano,Corporate,Japan,Asia Pacific,Office Supplies,Desk Calendar 2025,1,18.51,10,16.66,11.16,-2.83,PayPal
+ORD-11111,2023-11-28,Xiao Harris,Consumer,China,Asia Pacific,Office Supplies,Premium Notebook Set A5,2,9.14,0,18.28,11.84,-1.79,Bank Transfer
+ORD-11687,2023-11-29,Zara Nilsson,Corporate,India,Asia Pacific,Office Supplies,Whiteboard Markers Set 8,3,9.44,10,25.49,16.13,-3.38,Credit Card
+ORD-10487,2023-12-01,Christopher Khan,Consumer,India,Asia Pacific,Technology,Webcam HD 1080p,8,55.17,5,419.29,17.64,158.9,PayPal
+ORD-10044,2023-12-02,Fatima Ferrari,Corporate,Japan,Asia Pacific,Clothing & Accessories,Cotton Formal Shirt,8,48.93,10,352.3,27.53,129.05,Credit Card
+ORD-10288,2023-12-03,Zara Leroy,Corporate,Japan,Asia Pacific,Furniture,Mesh Back Task Chair,4,112.46,5,427.35,18.44,139.01,Credit Card
+ORD-11423,2023-12-03,Felix Laurent,Home Office,Australia,Asia Pacific,Clothing & Accessories,Silk Tie Collection,2,16.62,5,31.58,12.84,2.12,PayPal
+ORD-11904,2023-12-04,Hans Martin,Consumer,Japan,Asia Pacific,Furniture,Floating Wall Shelves Set,2,55.94,0,111.88,10.95,33.8,Bank Transfer
+ORD-11661,2023-12-05,Nadia Rossi,Consumer,Japan,Asia Pacific,Furniture,Monitor Riser Wood,2,67.5,0,135.0,13.37,40.63,Credit Card
+ORD-11770,2023-12-06,Lucas Li,Corporate,India,Asia Pacific,Furniture,Corner L-Shaped Desk,3,216.54,0,649.62,16.39,243.46,Credit Card
+ORD-10189,2023-12-07,William Miller,Corporate,India,Asia Pacific,Office Supplies,Premium Notebook Set A5,4,17.57,15,59.74,18.73,9.38,Credit Card
+ORD-10779,2023-12-07,Wei Hassan,Corporate,India,Asia Pacific,Clothing & Accessories,Travel Backpack 30L,2,68.14,25,102.21,10.95,23.12,Credit Card
+ORD-10488,2023-12-09,Elizabeth Dubois,Consumer,Japan,Asia Pacific,Furniture,Desk Organizer Set,4,52.21,5,198.4,16.48,56.62,PayPal
+ORD-11393,2023-12-09,Liam Rossi,Corporate,Australia,Asia Pacific,Office Supplies,Ballpoint Pen Pack 12,3,9.96,15,25.4,15.0,-3.05,Bank Transfer
+ORD-11936,2023-12-11,Wei Santos,Consumer,Australia,Asia Pacific,Clothing & Accessories,Business Casual Blazer,3,126.07,0,378.21,16.14,172.96,Bank Transfer
+ORD-11463,2023-12-16,Ingrid Zhang,Corporate,Australia,Asia Pacific,Technology,Mechanical Gaming Keyboard,8,85.21,15,579.43,13.75,190.76,PayPal
+ORD-11449,2023-12-17,Giulia Johnson,Corporate,South Korea,Asia Pacific,Technology,Wireless Bluetooth Headphones,3,166.63,0,499.89,14.84,210.11,Bank Transfer
+ORD-11967,2023-12-20,Elizabeth Harris,Home Office,Australia,Asia Pacific,Technology,Webcam HD 1080p,1,36.01,5,34.21,9.7,4.7,Credit Card
+ORD-10237,2023-12-22,Hans Rossi,Home Office,India,Asia Pacific,Technology,Tablet Stand Holder,5,27.72,5,131.67,17.42,38.02,Bank Transfer
+ORD-10724,2023-12-22,Joseph Martinez,Consumer,South Korea,Asia Pacific,Furniture,Ergonomic Office Chair,2,288.74,20,461.98,11.82,103.67,Bank Transfer
+ORD-10230,2023-12-23,Ava Yamamoto,Corporate,India,Asia Pacific,Technology,Smart LED Desk Lamp,3,67.73,10,182.87,11.07,60.05,Credit Card
+ORD-10318,2023-12-23,Priya Costa,Corporate,South Korea,Asia Pacific,Furniture,Mesh Back Task Chair,4,166.71,20,533.47,15.13,118.24,Credit Card
+ORD-10218,2023-12-26,Olga Davis,Consumer,India,Asia Pacific,Technology,USB-C Hub Multiport Adapter,1,51.57,20,41.26,10.55,2.35,Bank Transfer
+ORD-10409,2023-12-26,Noah Ali,Consumer,Japan,Asia Pacific,Technology,Webcam HD 1080p,3,85.34,5,243.22,10.71,91.7,Credit Card
+ORD-10591,2023-12-26,Isabella Anderson,Corporate,South Korea,Asia Pacific,Technology,USB-C Hub Multiport Adapter,1,53.57,25,40.18,11.21,-0.49,Cash on Delivery
+ORD-10825,2023-12-26,Raj Singh,Consumer,South Korea,Asia Pacific,Office Supplies,Paper Clips Box 500pc,2,8.93,0,17.86,10.04,-0.22,Credit Card
+ORD-11187,2023-12-26,Ali Weber,Corporate,China,Asia Pacific,Clothing & Accessories,Canvas Messenger Bag,5,57.59,5,273.55,16.19,113.38,PayPal
+ORD-11457,2023-12-27,Hanna Dubois,Corporate,Australia,Asia Pacific,Furniture,Bookshelf 5-Tier,2,139.67,15,237.44,13.84,56.0,Credit Card
+ORD-11147,2023-12-28,Priya Johansson,Consumer,India,Asia Pacific,Furniture,Filing Cabinet 3-Drawer,1,172.7,0,172.7,11.33,57.75,Bank Transfer
+ORD-11551,2024-01-11,Nadia Martin,Home Office,China,Asia Pacific,Technology,Wireless Ergonomic Mouse,5,62.1,0,310.5,11.64,128.08,Bank Transfer
+ORD-10672,2024-01-14,Thomas Miller,Consumer,South Korea,Asia Pacific,Office Supplies,Binder Clips Assorted 48pc,3,11.12,15,28.36,13.43,-0.08,PayPal
+ORD-11592,2024-01-17,Mia Clark,Consumer,Japan,Asia Pacific,Technology,Smart LED Desk Lamp,4,27.55,20,88.16,14.39,13.16,Bank Transfer
+ORD-10695,2024-01-18,William Kim,Consumer,South Korea,Asia Pacific,Office Supplies,Paper Clips Box 500pc,1,9.96,15,8.47,9.9,-5.91,Bank Transfer
+ORD-11033,2024-01-19,Yuki Chen,Consumer,China,Asia Pacific,Office Supplies,Sticky Notes Multicolor 6-Pack,4,5.79,10,20.84,15.81,-5.39,PayPal
+ORD-10471,2024-01-21,Zara Müller,Corporate,Japan,Asia Pacific,Furniture,Standing Desk Converter,1,197.67,25,148.25,9.65,20.0,Credit Card
+ORD-10265,2024-01-24,Nadia Zhang,Consumer,South Korea,Asia Pacific,Office Supplies,Tape Dispenser Heavy Duty,3,18.85,20,45.24,12.65,7.14,Credit Card
+ORD-11782,2024-01-27,Oscar Pereira,Corporate,China,Asia Pacific,Office Supplies,Premium Notebook Set A5,2,21.61,15,36.74,13.06,4.23,Bank Transfer
+ORD-10878,2024-01-31,Clara Sato,Home Office,Japan,Asia Pacific,Furniture,Monitor Riser Wood,2,29.62,5,56.28,10.79,9.95,PayPal
+ORD-10928,2024-02-03,Olga Pereira,Home Office,Australia,Asia Pacific,Office Supplies,Highlighters Neon Pack 6,1,13.92,5,13.22,10.04,-3.08,PayPal
+ORD-10297,2024-02-07,Hans Patel,Corporate,South Korea,Asia Pacific,Clothing & Accessories,Canvas Messenger Bag,12,54.17,0,650.04,38.1,286.92,Bank Transfer
+ORD-10923,2024-02-08,Hans Martinez,Consumer,Japan,Asia Pacific,Furniture,Ergonomic Office Chair,6,443.99,15,2264.35,18.29,647.7,Credit Card
+ORD-11599,2024-02-10,Nadia Martin,Consumer,South Korea,Asia Pacific,Clothing & Accessories,Business Casual Blazer,2,89.21,15,151.66,13.6,48.85,Credit Card
+ORD-11580,2024-02-15,Chen Garcia,Consumer,China,Asia Pacific,Technology,Smart LED Desk Lamp,1,28.43,0,28.43,11.31,1.48,Cash on Delivery
+ORD-11565,2024-02-17,Omar Williams,Consumer,South Korea,Asia Pacific,Clothing & Accessories,Leather Belt Classic,5,48.34,25,181.28,14.29,46.14,Credit Card
+ORD-10503,2024-02-18,Elizabeth Singh,Corporate,Australia,Asia Pacific,Furniture,Floating Wall Shelves Set,2,48.32,20,77.31,12.19,7.14,Cash on Delivery
+ORD-10869,2024-03-04,Priya Nilsson,Corporate,Australia,Asia Pacific,Office Supplies,Sticky Notes Multicolor 6-Pack,5,5.0,0,25.0,13.15,0.6,Cash on Delivery
+ORD-10706,2024-03-06,Priya Rodriguez,Consumer,China,Asia Pacific,Technology,Webcam HD 1080p,11,67.96,5,710.18,35.32,263.7,Cash on Delivery
+ORD-10437,2024-03-07,Nadia Harris,Corporate,China,Asia Pacific,Clothing & Accessories,Business Casual Blazer,5,110.65,0,553.25,13.18,263.44,Credit Card
+ORD-10883,2024-03-07,Fatima Williams,Home Office,China,Asia Pacific,Furniture,Monitor Riser Wood,4,36.41,10,131.08,17.64,26.06,Bank Transfer
+ORD-10273,2024-03-08,Clara Johnson,Consumer,China,Asia Pacific,Office Supplies,Desk Calendar 2025,4,7.72,15,26.25,14.0,-1.65,PayPal
+ORD-10309,2024-03-09,William Clark,Consumer,India,Asia Pacific,Office Supplies,Tape Dispenser Heavy Duty,1,10.42,10,9.38,10.01,-5.32,Credit Card
+ORD-11742,2024-03-13,James Wang,Home Office,China,Asia Pacific,Technology,Smart LED Desk Lamp,4,74.64,0,298.56,12.03,122.32,PayPal
+ORD-10084,2024-03-18,Wei Jones,Home Office,South Korea,Asia Pacific,Technology,USB-C Hub Multiport Adapter,3,55.49,5,158.15,16.4,50.19,Cash on Delivery
+ORD-11174,2024-03-19,Fatima Singh,Corporate,Australia,Asia Pacific,Clothing & Accessories,Cotton Formal Shirt,3,24.44,25,54.99,12.17,6.16,PayPal
+ORD-11802,2024-03-19,Giulia Nilsson,Consumer,Japan,Asia Pacific,Clothing & Accessories,Sports Water Bottle 750ml,11,15.11,10,149.59,21.86,44.63,Credit Card
+ORD-10425,2024-03-21,Amir Khan,Consumer,Japan,Asia Pacific,Clothing & Accessories,Business Casual Blazer,4,123.28,5,468.46,13.33,208.57,PayPal
+ORD-10379,2024-03-30,Felix Müller,Corporate,Japan,Asia Pacific,Office Supplies,Desk Calendar 2025,1,7.85,10,7.06,9.6,-6.07,Credit Card
+ORD-11969,2024-03-31,Nadia Laurent,Consumer,Australia,Asia Pacific,Technology,Noise Cancelling Earbuds,4,130.45,0,521.8,18.51,216.3,PayPal
+ORD-10768,2024-04-03,Jessica Costa,Consumer,Japan,Asia Pacific,Technology,Wireless Bluetooth Headphones,13,73.44,15,811.51,34.33,252.08,Credit Card
+ORD-10295,2024-04-04,Ayumi Miller,Corporate,South Korea,Asia Pacific,Office Supplies,Tape Dispenser Heavy Duty,3,14.61,15,37.26,14.68,2.86,PayPal
+ORD-10832,2024-04-04,Karen Tanaka,Corporate,Japan,Asia Pacific,Office Supplies,Stapler Full-Size,5,15.19,10,68.36,12.71,21.47,Cash on Delivery
+ORD-11250,2024-04-04,Emma Kim,Consumer,India,Asia Pacific,Technology,Portable External SSD 1TB,1,116.53,10,104.88,10.52,30.27,PayPal
+ORD-10064,2024-04-05,Ahmed Clark,Corporate,Japan,Asia Pacific,Clothing & Accessories,Cotton Formal Shirt,1,43.07,20,34.46,10.5,2.43,Bank Transfer
+ORD-11634,2024-04-07,Olivia Robinson,Consumer,Japan,Asia Pacific,Clothing & Accessories,Travel Backpack 30L,3,70.34,10,189.92,14.67,69.74,Credit Card
+ORD-10964,2024-04-08,Richard Kumar,Consumer,South Korea,Asia Pacific,Clothing & Accessories,Leather Belt Classic,9,36.63,5,313.19,17.14,131.21,Credit Card
+ORD-11053,2024-04-10,Wei Müller,Consumer,India,Asia Pacific,Technology,Noise Cancelling Earbuds,4,43.88,10,157.97,14.83,46.6,Credit Card
+ORD-11489,2024-04-10,Olga Anderson,Home Office,China,Asia Pacific,Technology,Noise Cancelling Earbuds,1,198.87,15,169.04,10.72,48.94,Credit Card
+ORD-10305,2024-04-11,Michael Taylor,Corporate,South Korea,Asia Pacific,Clothing & Accessories,Polarized Sunglasses,4,42.06,10,151.42,11.14,56.16,PayPal
+ORD-10006,2024-04-14,Hans Kumar,Consumer,Japan,Asia Pacific,Clothing & Accessories,Wool Blend Scarf,1,33.05,20,26.44,10.63,-0.71,Bank Transfer
+ORD-11434,2024-04-14,Clara Singh,Consumer,Australia,Asia Pacific,Office Supplies,Highlighters Neon Pack 6,2,10.57,5,20.08,11.11,-0.54,PayPal
+ORD-11290,2024-04-15,Wei Johnson,Home Office,Australia,Asia Pacific,Technology,Smart LED Desk Lamp,9,38.81,5,331.83,21.13,118.59,Credit Card
+ORD-11171,2024-04-18,Robert Chen,Consumer,China,Asia Pacific,Furniture,Ergonomic Office Chair,2,221.74,25,332.61,10.29,56.23,PayPal
+ORD-10332,2024-04-19,Ali Thomas,Consumer,South Korea,Asia Pacific,Office Supplies,Premium Notebook Set A5,4,14.12,25,42.36,11.69,5.25,Credit Card
+ORD-10420,2024-04-19,Layla Kumar,Corporate,Australia,Asia Pacific,Clothing & Accessories,Leather Belt Classic,4,49.44,25,148.32,14.14,35.3,PayPal
+ORD-11259,2024-04-20,Karen Nilsson,Consumer,South Korea,Asia Pacific,Technology,Mechanical Gaming Keyboard,7,67.05,15,398.95,24.08,116.73,Bank Transfer
+ORD-10575,2024-04-21,Barbara Nilsson,Corporate,Australia,Asia Pacific,Clothing & Accessories,Wool Blend Scarf,10,39.34,20,314.72,28.72,89.3,PayPal
+ORD-11315,2024-04-21,Ahmed Santos,Home Office,Japan,Asia Pacific,Technology,Smart LED Desk Lamp,2,69.72,20,111.55,10.18,24.68,Credit Card
+ORD-10438,2024-04-23,Omar Fischer,Corporate,South Korea,Asia Pacific,Furniture,Mesh Back Task Chair,1,189.66,20,151.73,9.52,28.41,Cash on Delivery
+ORD-10616,2024-04-23,Felix White,Consumer,Australia,Asia Pacific,Furniture,Floating Wall Shelves Set,4,83.03,5,315.51,17.34,98.9,Credit Card
+ORD-10034,2024-04-26,Ali Dubois,Corporate,Japan,Asia Pacific,Office Supplies,Sticky Notes Multicolor 6-Pack,1,12.87,0,12.87,11.47,-4.39,PayPal
+ORD-10515,2024-04-28,Oscar Thompson,Home Office,India,Asia Pacific,Furniture,Standing Desk Converter,1,137.49,15,116.87,10.12,24.26,PayPal
+ORD-10640,2024-04-28,Wei Rodriguez,Consumer,China,Asia Pacific,Furniture,Mesh Back Task Chair,2,242.25,10,436.05,10.98,134.37,Credit Card
+ORD-11297,2024-04-28,Jessica Martin,Consumer,India,Asia Pacific,Furniture,Floating Wall Shelves Set,4,34.76,15,118.18,17.86,16.9,PayPal
+ORD-11198,2024-05-04,Olivia Williams,Consumer,India,Asia Pacific,Technology,Mechanical Gaming Keyboard,5,77.16,5,366.51,19.79,134.53,Credit Card
+ORD-10167,2024-05-05,Amina Harris,Corporate,Australia,Asia Pacific,Office Supplies,Paper Clips Box 500pc,3,5.66,10,15.28,12.07,-4.43,PayPal
+ORD-10056,2024-05-06,Wei Patel,Consumer,China,Asia Pacific,Technology,Laptop Stand Adjustable,2,33.61,10,60.5,11.88,11.65,Credit Card
+ORD-10728,2024-05-07,Layla Thomas,Corporate,Japan,Asia Pacific,Technology,Tablet Stand Holder,3,37.59,15,95.85,10.77,23.06,Credit Card
+ORD-10072,2024-05-08,Maria Anderson,Consumer,Australia,Asia Pacific,Furniture,Folding Table Portable,3,52.88,0,158.64,12.03,51.43,Credit Card
+ORD-11626,2024-05-09,Kenji Anderson,Corporate,Australia,Asia Pacific,Clothing & Accessories,Business Casual Blazer,10,99.39,0,993.9,21.95,475.0,Cash on Delivery
+ORD-10147,2024-05-11,Raj Rodriguez,Consumer,China,Asia Pacific,Technology,Noise Cancelling Earbuds,1,76.11,0,76.11,10.16,24.09,PayPal
+ORD-11448,2024-05-11,Jessica Yamamoto,Corporate,China,Asia Pacific,Clothing & Accessories,Canvas Messenger Bag,2,42.93,5,81.57,13.52,25.12,Cash on Delivery
+ORD-11152,2024-05-18,Jessica Russo,Home Office,India,Asia Pacific,Furniture,Mesh Back Task Chair,6,151.62,0,909.72,15.6,348.29,Cash on Delivery
+ORD-10582,2024-05-19,Robert Thompson,Corporate,Japan,Asia Pacific,Office Supplies,Desk Calendar 2025,2,10.26,0,20.52,12.54,-1.25,Credit Card
+ORD-11791,2024-05-21,Mia Jones,Corporate,India,Asia Pacific,Office Supplies,Binder Clips Assorted 48pc,3,5.26,5,14.99,12.25,-4.36,Credit Card
+ORD-10104,2024-05-22,Olivia Wang,Consumer,Japan,Asia Pacific,Office Supplies,Highlighters Neon Pack 6,4,9.24,5,35.11,18.34,0.14,Credit Card
+ORD-11021,2024-05-25,Oscar Anderson,Corporate,India,Asia Pacific,Clothing & Accessories,Leather Belt Classic,1,51.37,0,51.37,11.26,14.42,PayPal
+ORD-11160,2024-05-25,Clara Romano,Consumer,India,Asia Pacific,Office Supplies,Ballpoint Pen Pack 12,2,14.19,10,25.54,10.01,2.76,Credit Card
+ORD-11462,2024-05-25,Amina Russo,Corporate,India,Asia Pacific,Clothing & Accessories,Business Casual Blazer,4,59.09,5,224.54,11.63,94.73,Cash on Delivery
+ORD-10631,2024-05-26,Michael Ferrari,Consumer,China,Asia Pacific,Furniture,Filing Cabinet 3-Drawer,1,114.0,0,114.0,9.53,36.07,Bank Transfer
+ORD-10790,2024-05-27,Emma Nilsson,Corporate,China,Asia Pacific,Technology,Noise Cancelling Earbuds,2,71.92,5,136.65,13.71,43.83,PayPal
+ORD-11173,2024-05-27,Barbara Ali,Home Office,Japan,Asia Pacific,Office Supplies,Tape Dispenser Heavy Duty,9,20.69,0,186.21,22.07,80.35,Credit Card
+ORD-11588,2024-06-01,Joseph Martinez,Consumer,Australia,Asia Pacific,Office Supplies,Whiteboard Markers Set 8,2,8.62,15,14.65,10.07,-3.18,Credit Card
+ORD-10117,2024-06-03,Nadia Pereira,Consumer,India,Asia Pacific,Office Supplies,Whiteboard Markers Set 8,2,18.62,10,33.52,12.51,4.25,Bank Transfer
+ORD-11074,2024-06-03,Wei Taylor,Home Office,Japan,Asia Pacific,Furniture,Standing Desk Converter,2,205.48,5,390.41,12.79,131.04,Credit Card
+ORD-10157,2024-06-05,Xiao Kumar,Home Office,Australia,Asia Pacific,Clothing & Accessories,Silk Tie Collection,1,33.98,5,32.28,9.63,5.66,Cash on Delivery
+ORD-10557,2024-06-12,Joseph Russo,Consumer,Australia,Asia Pacific,Clothing & Accessories,Wool Blend Scarf,5,49.62,10,223.29,20.46,78.78,Cash on Delivery
+ORD-11738,2024-06-12,Chen Tanaka,Corporate,China,Asia Pacific,Technology,Wireless Ergonomic Mouse,4,65.92,15,224.13,12.79,66.32,PayPal
+ORD-10822,2024-06-21,Ethan Johnson,Home Office,India,Asia Pacific,Clothing & Accessories,Travel Backpack 30L,1,47.32,10,42.59,10.74,8.19,Cash on Delivery
+ORD-10983,2024-06-23,Nadia Zhang,Consumer,India,Asia Pacific,Furniture,Desk Organizer Set,9,55.5,5,474.52,19.93,154.89,Cash on Delivery
+ORD-11816,2024-06-24,Omar Russo,Consumer,China,Asia Pacific,Office Supplies,Binder Clips Assorted 48pc,2,9.72,10,17.5,12.92,-4.17,PayPal
+ORD-11311,2024-06-28,Sophie Li,Consumer,Japan,Asia Pacific,Furniture,Monitor Riser Wood,2,33.34,0,66.68,11.35,15.32,Credit Card
+ORD-10513,2024-07-02,Maria Rossi,Consumer,Australia,Asia Pacific,Clothing & Accessories,Sports Water Bottle 750ml,6,25.8,20,123.84,23.22,23.22,Bank Transfer
+ORD-11498,2024-07-03,Omar Rodriguez,Corporate,Australia,Asia Pacific,Office Supplies,Desk Calendar 2025,2,16.71,10,30.08,13.99,1.05,Credit Card
+ORD-11444,2024-07-11,Hans Fischer,Consumer,Australia,Asia Pacific,Office Supplies,Stapler Full-Size,3,9.42,0,28.26,15.8,-0.26,PayPal
+ORD-11549,2024-07-11,Priya Jones,Consumer,Australia,Asia Pacific,Technology,Mechanical Gaming Keyboard,2,70.74,15,120.26,13.36,29.09,PayPal
+ORD-10586,2024-07-13,Olivia Patel,Consumer,Australia,Asia Pacific,Technology,Webcam HD 1080p,3,50.5,10,136.35,10.6,42.42,PayPal
+ORD-11857,2024-07-23,Mia Romano,Corporate,Japan,Asia Pacific,Technology,Wireless Bluetooth Headphones,3,215.99,10,583.17,14.33,212.46,PayPal
+ORD-10909,2024-07-25,Clara Leroy,Consumer,Australia,Asia Pacific,Furniture,Desk Organizer Set,4,43.36,10,156.1,16.06,35.98,PayPal
+ORD-10340,2024-07-27,Priya Weber,Consumer,South Korea,Asia Pacific,Furniture,Folding Table Portable,3,51.54,5,146.89,16.14,37.98,Credit Card
+ORD-11203,2024-08-03,Amir Ali,Consumer,India,Asia Pacific,Clothing & Accessories,Travel Backpack 30L,4,39.58,5,150.4,11.02,60.22,PayPal
+ORD-10311,2024-08-06,Noah Hassan,Consumer,Japan,Asia Pacific,Office Supplies,Sticky Notes Multicolor 6-Pack,2,7.5,10,13.5,11.22,-4.47,PayPal
+ORD-11049,2024-08-06,Priya Schmidt,Consumer,Australia,Asia Pacific,Technology,USB-C Hub Multiport Adapter,1,34.53,0,34.53,10.15,5.39,PayPal
+ORD-11892,2024-08-08,Mary Oliveira,Consumer,South Korea,Asia Pacific,Clothing & Accessories,Travel Backpack 30L,3,40.65,5,115.85,13.02,41.86,PayPal
+ORD-10716,2024-08-10,Ivan Martinez,Home Office,South Korea,Asia Pacific,Furniture,Standing Desk Converter,3,167.77,5,478.14,12.09,164.06,Cash on Delivery
+ORD-10786,2024-08-13,Jessica Suzuki,Corporate,India,Asia Pacific,Technology,Wireless Bluetooth Headphones,4,147.28,10,530.21,12.2,193.99,Cash on Delivery
+ORD-11301,2024-08-15,Emma Suzuki,Consumer,South Korea,Asia Pacific,Office Supplies,Ballpoint Pen Pack 12,2,17.94,0,35.88,12.85,6.88,Cash on Delivery
+ORD-10748,2024-08-16,Richard Patel,Consumer,Japan,Asia Pacific,Clothing & Accessories,Silk Tie Collection,3,20.47,5,58.34,11.67,15.97,PayPal
+ORD-11186,2024-08-16,Karen Hassan,Consumer,South Korea,Asia Pacific,Office Supplies,Paper Clips Box 500pc,3,4.11,0,12.33,14.51,-7.73,PayPal
+ORD-11240,2024-08-20,Olga Li,Corporate,South Korea,Asia Pacific,Office Supplies,Paper Clips Box 500pc,2,9.18,15,15.61,12.05,-4.7,PayPal
+ORD-10608,2024-08-25,Sophie Williams,Corporate,South Korea,Asia Pacific,Office Supplies,Whiteboard Markers Set 8,4,9.95,5,37.81,12.01,7.89,PayPal
+ORD-10629,2024-08-25,Ahmed Anderson,Home Office,China,Asia Pacific,Technology,Smart LED Desk Lamp,4,33.42,0,133.68,13.19,46.97,PayPal
+ORD-10245,2024-08-26,Hans Anderson,Consumer,Japan,Asia Pacific,Technology,Portable External SSD 1TB,1,145.65,0,145.65,10.25,55.29,Bank Transfer
+ORD-10563,2024-08-28,Karen Rossi,Consumer,South Korea,Asia Pacific,Furniture,Floating Wall Shelves Set,4,91.15,5,346.37,13.75,113.86,Bank Transfer
+ORD-11823,2024-08-29,Oscar Johansson,Consumer,China,Asia Pacific,Office Supplies,Stapler Full-Size,4,15.31,15,52.05,17.07,7.42,Bank Transfer
+ORD-11966,2024-09-01,Wei Thompson,Consumer,India,Asia Pacific,Office Supplies,Tape Dispenser Heavy Duty,1,20.09,15,17.08,10.58,-2.54,Credit Card
+ORD-10484,2024-09-10,Maria Costa,Consumer,Japan,Asia Pacific,Clothing & Accessories,Canvas Messenger Bag,5,57.12,0,285.6,19.41,123.39,Credit Card
+ORD-10901,2024-09-10,Richard Tanaka,Corporate,India,Asia Pacific,Furniture,Ergonomic Office Chair,5,214.38,15,911.12,18.93,249.05,Credit Card
+ORD-11781,2024-09-14,Ingrid White,Consumer,Australia,Asia Pacific,Office Supplies,Highlighters Neon Pack 6,1,13.21,5,12.55,10.34,-3.73,Credit Card
+ORD-11939,2024-09-14,Amir Moreau,Home Office,India,Asia Pacific,Technology,Webcam HD 1080p,2,43.13,0,86.26,11.52,27.3,PayPal
+ORD-10329,2024-09-20,Amina Taylor,Consumer,India,Asia Pacific,Office Supplies,Binder Clips Assorted 48pc,6,13.09,10,70.69,20.97,14.38,PayPal
+ORD-10931,2024-09-21,Maria Thomas,Corporate,China,Asia Pacific,Furniture,Desk Organizer Set,3,49.49,15,126.2,16.07,21.05,Credit Card
+ORD-10648,2024-09-22,Omar Dubois,Home Office,Australia,Asia Pacific,Office Supplies,Ballpoint Pen Pack 12,3,6.42,15,16.37,15.39,-7.69,Credit Card
+ORD-10076,2024-09-24,Sarah Patel,Consumer,Japan,Asia Pacific,Office Supplies,Premium Notebook Set A5,5,17.85,0,89.25,14.45,34.64,Bank Transfer
+ORD-10106,2024-09-27,Karen Ali,Consumer,India,Asia Pacific,Clothing & Accessories,Polarized Sunglasses,4,26.0,150,104.0,15.47,36.53,PayPal
+ORD-10258,2024-09-29,Mia Santos,Consumer,Japan,Asia Pacific,Office Supplies,Binder Clips Assorted 48pc,6,6.49,15,33.1,12.35,3.23,Credit Card
+ORD-11092,2024-10-03,Raj Thompson,Home Office,China,Asia Pacific,Clothing & Accessories,Wool Blend Scarf,3,55.82,5,159.09,12.34,63.02,Bank Transfer
+ORD-10999,2024-10-04,Layla Romano,Corporate,China,Asia Pacific,Office Supplies,Tape Dispenser Heavy Duty,10,8.48,10,76.32,21.04,17.12,PayPal
+ORD-11749,2024-10-04,Ivan Williams,Corporate,India,Asia Pacific,Technology,Portable External SSD 1TB,5,113.75,5,540.31,19.74,207.76,Bank Transfer
+ORD-10021,2024-10-09,Giulia Yamamoto,Consumer,Australia,Asia Pacific,Clothing & Accessories,Cotton Formal Shirt,4,20.47,10,73.69,11.8,20.95,PayPal
+ORD-11018,2024-10-09,Liam Schmidt,Consumer,Australia,Asia Pacific,Office Supplies,Stapler Full-Size,4,13.9,0,55.6,11.78,18.8,Credit Card
+ORD-11774,2024-10-09,John Wang,Home Office,Australia,Asia Pacific,Clothing & Accessories,Sports Water Bottle 750ml,2,21.81,10,39.26,12.21,5.24,Bank Transfer
+ORD-10520,2024-10-10,Linda Weber,Corporate,Japan,Asia Pacific,Furniture,Corner L-Shaped Desk,10,345.3,20,2762.4,32.74,657.86,Credit Card
+ORD-11475,2024-10-10,Maria Yamamoto,Consumer,China,Asia Pacific,Furniture,Monitor Riser Wood,8,35.17,5,267.29,25.72,72.75,Credit Card
+ORD-11542,2024-10-11,Raj Schmidt,Consumer,China,Asia Pacific,Office Supplies,Premium Notebook Set A5,3,17.78,0,53.34,13.47,15.87,Credit Card
+ORD-11994,2024-10-13,Richard Santos,Consumer,India,Asia Pacific,Technology,Webcam HD 1080p,5,53.38,10,240.21,11.59,81.82,Bank Transfer
+ORD-11714,2024-10-14,Wei Li,Consumer,China,Asia Pacific,Office Supplies,Highlighters Neon Pack 6,6,7.0,5,39.9,18.09,2.91,Credit Card
+ORD-11851,2024-10-14,Patricia Santos,Home Office,China,Asia Pacific,Clothing & Accessories,Leather Wallet Minimalist,1,61.38,10,55.24,10.68,13.87,Cash on Delivery
+ORD-11341,2024-10-18,Li Müller,Corporate,Japan,Asia Pacific,Technology,Tablet Stand Holder,3,19.93,25,44.84,13.57,-1.61,Credit Card
+ORD-11623,2024-10-19,Ivan Romano,Consumer,China,Asia Pacific,Office Supplies,Stapler Full-Size,1,17.33,25,13.0,11.28,-6.08,Credit Card
+ORD-10453,2024-10-26,Olivia Nilsson,Home Office,Australia,Asia Pacific,Technology,Tablet Stand Holder,2,36.84,20,58.94,10.85,7.57,Credit Card
+ORD-10088,2024-10-27,David Rodriguez,Consumer,South Korea,Asia Pacific,Furniture,Folding Table Portable,3,87.75,10,236.93,11.1,67.88,Bank Transfer
+ORD-10693,2024-10-27,Hanna Weber,Corporate,China,Asia Pacific,Office Supplies,Binder Clips Assorted 48pc,8,10.52,20,67.33,19.22,10.24,Credit Card
+ORD-11170,2024-10-27,Ava Miller,Consumer,China,Asia Pacific,Technology,Webcam HD 1080p,5,51.41,5,244.2,16.43,86.39,PayPal
+ORD-11615,2024-10-28,Marco Rodriguez,Consumer,Australia,Asia Pacific,Clothing & Accessories,Silk Tie Collection,1,47.84,5,45.45,11.34,10.19,PayPal
+ORD-10659,2024-10-30,Barbara Miller,Consumer,China,Asia Pacific,Clothing & Accessories,Canvas Messenger Bag,2,39.32,5,74.71,13.59,21.8,Credit Card
+ORD-11451,2024-10-31,Carlos Davis,Home Office,Australia,Asia Pacific,Furniture,Floating Wall Shelves Set,2,54.34,10,97.81,11.65,20.95,Credit Card
+ORD-11146,2024-11-02,James Harris,Consumer,India,Asia Pacific,Furniture,Floating Wall Shelves Set,5,83.62,5,397.19,12.72,133.61,PayPal
+ORD-10405,2024-11-05,Zara Fischer,Consumer,India,Asia Pacific,Furniture,Floating Wall Shelves Set,1,44.69,0,44.69,10.64,7.24,Cash on Delivery
+ORD-10539,2024-11-05,Chen Patel,Home Office,Japan,Asia Pacific,Clothing & Accessories,Travel Backpack 30L,2,106.07,10,190.93,12.94,71.92,Cash on Delivery
+ORD-10061,2024-11-06,Ethan Sato,Consumer,China,Asia Pacific,Furniture,Corner L-Shaped Desk,9,215.11,15,1645.59,23.4,460.6,PayPal
+ORD-10638,2024-11-09,Hanna Sharma,Home Office,China,Asia Pacific,Furniture,Filing Cabinet 3-Drawer,8,171.68,10,1236.1,16.97,395.07,PayPal
+ORD-11790,2024-11-09,Wei Wang,Consumer,Japan,Asia Pacific,Office Supplies,Paper Clips Box 500pc,14,7.5,0,105.0,20.9,36.85,Credit Card
+ORD-10415,2024-11-13,Layla Williams,Corporate,Japan,Asia Pacific,Furniture,Ergonomic Office Chair,5,186.09,15,790.88,11.72,220.89,Bank Transfer
+ORD-10150,2024-11-17,Zara Williams,Consumer,Japan,Asia Pacific,Technology,Noise Cancelling Earbuds,7,123.89,0,867.23,19.56,370.69,Credit Card
+ORD-11902,2024-11-17,Christopher Miller,Consumer,Australia,Asia Pacific,Office Supplies,Ballpoint Pen Pack 12,3,13.86,0,41.58,13.05,9.82,PayPal
+ORD-10048,2024-11-19,Sophie Kim,Consumer,Australia,Asia Pacific,Technology,Webcam HD 1080p,1,40.91,15,34.77,10.18,2.09,Cash on Delivery
+ORD-11327,2024-11-20,Amir Johansson,Consumer,Australia,Asia Pacific,Office Supplies,Premium Notebook Set A5,4,9.84,10,35.42,13.78,3.93,Cash on Delivery
+ORD-11369,2024-11-21,Lucas Müller,Consumer,China,Asia Pacific,Clothing & Accessories,Leather Belt Classic,1,31.83,15,27.06,11.46,-0.32,PayPal
+ORD-10567,2024-11-25,Jessica Müller,Consumer,Australia,Asia Pacific,Clothing & Accessories,Travel Backpack 30L,7,75.25,10,474.07,19.97,190.72,PayPal
+ORD-10093,2024-11-26,Raj Johnson,Consumer,India,Asia Pacific,Furniture,Bookshelf 5-Tier,3,181.78,5,518.07,11.35,179.52,PayPal
+ORD-11778,2024-12-05,Clara Garcia,Consumer,Japan,Asia Pacific,Office Supplies,Stapler Full-Size,6,7.36,10,39.74,18.57,1.3,Bank Transfer
+ORD-11980,2024-12-06,Ingrid Yamamoto,Corporate,Japan,Asia Pacific,Office Supplies,Desk Calendar 2025,1,16.46,25,12.35,11.48,-6.54,PayPal
+ORD-10178,2024-12-09,Sarah Johansson,Home Office,South Korea,Asia Pacific,Technology,Smart LED Desk Lamp,1,36.61,10,32.95,10.73,2.08,PayPal
+ORD-11514,2024-12-10,Ivan Park,Consumer,China,Asia Pacific,Office Supplies,Whiteboard Markers Set 8,1,14.87,10,13.38,10.11,-3.42,PayPal
+ORD-10624,2024-12-11,Jennifer Zhang,Consumer,Australia,Asia Pacific,Office Supplies,Paper Clips Box 500pc,6,5.74,15,29.27,16.98,-3.21,Credit Card
+ORD-10742,2024-12-11,Nadia Santos,Consumer,South Korea,Asia Pacific,Office Supplies,Desk Calendar 2025,12,10.53,20,101.09,32.83,11.4,Bank Transfer
+ORD-11276,2024-12-14,Barbara Johnson,Corporate,China,Asia Pacific,Office Supplies,Ballpoint Pen Pack 12,3,8.94,15,22.8,14.91,-4.18,Credit Card
+ORD-11950,2024-12-14,Isabella White,Corporate,India,Asia Pacific,Technology,Laptop Stand Adjustable,5,39.27,30,137.44,19.48,9.97,Bank Transfer
+ORD-11908,2024-12-15,Zara Weber,Consumer,Japan,Asia Pacific,Office Supplies,Highlighters Neon Pack 6,4,12.49,5,47.46,14.76,10.22,Bank Transfer
+ORD-10967,2024-12-18,Ahmed Sharma,Consumer,China,Asia Pacific,Technology,Portable External SSD 1TB,2,72.64,10,130.75,12.34,38.51,PayPal
+ORD-11195,2024-12-27,Nadia Robinson,Home Office,China,Asia Pacific,Clothing & Accessories,Wool Blend Scarf,7,49.09,0,343.63,18.15,153.66,Credit Card
+ORD-11309,2024-12-27,Giulia Johansson,Consumer,Japan,Asia Pacific,Furniture,Corner L-Shaped Desk,4,416.86,0,1667.44,13.27,653.71,Cash on Delivery
+ORD-10241,2024-12-31,Liam Taylor,Corporate,South Korea,Asia Pacific,Technology,Tablet Stand Holder,2,47.58,15,80.89,11.18,17.37,Credit Card
+ORD-10026,2025-01-02,Layla Ahmed,Home Office,Japan,Asia Pacific,Technology,Laptop Stand Adjustable,3,44.45,15,113.35,16.34,23.67,Bank Transfer
+ORD-11866,2025-01-05,Oscar Schmidt,Corporate,Japan,Asia Pacific,Office Supplies,Binder Clips Assorted 48pc,1,9.21,20,7.37,11.17,-7.94,Credit Card
+ORD-10668,2025-01-11,Christopher Jackson,Consumer,Japan,Asia Pacific,Office Supplies,Desk Calendar 2025,12,11.27,10,121.72,19.04,41.82,Credit Card
+ORD-11730,2025-01-19,Robert Rodriguez,Consumer,Japan,Asia Pacific,Technology,Webcam HD 1080p,4,87.29,0,349.16,12.84,144.28,Bank Transfer
+ORD-11600,2025-01-20,Ali Leroy,Consumer,South Korea,Asia Pacific,Furniture,Floating Wall Shelves Set,1,32.2,0,32.2,11.24,1.64,Credit Card
+ORD-11194,2025-01-24,Robert Harris,Home Office,China,Asia Pacific,Clothing & Accessories,Polarized Sunglasses,2,31.26,15,53.14,10.33,11.55,Cash on Delivery
+ORD-10601,2025-01-25,Christopher Martinez,Consumer,India,Asia Pacific,Furniture,Bookshelf 5-Tier,3,68.02,15,173.45,15.65,35.36,PayPal
+ORD-11042,2025-01-26,Thomas Laurent,Consumer,China,Asia Pacific,Furniture,Ergonomic Office Chair,2,306.48,0,612.96,11.3,233.88,Credit Card
+ORD-10805,2025-02-05,Marco Davis,Consumer,Australia,Asia Pacific,Clothing & Accessories,Leather Belt Classic,4,27.85,5,105.83,18.91,31.22,PayPal
+ORD-11689,2025-02-07,Ayumi Smith,Consumer,China,Asia Pacific,Clothing & Accessories,Canvas Messenger Bag,2,27.73,10,49.91,11.7,10.48,PayPal
+ORD-10604,2025-02-08,Li Harris,Consumer,India,Asia Pacific,Technology,Wireless Bluetooth Headphones,1,119.38,0,119.38,9.73,43.99,Credit Card
+ORD-11436,2025-02-08,Noah Suzuki,Consumer,Japan,Asia Pacific,Technology,Webcam HD 1080p,3,57.05,15,145.48,10.86,40.49,Bank Transfer
+ORD-11408,2025-02-17,Oscar Martinez,Corporate,Japan,Asia Pacific,Technology,Webcam HD 1080p,7,78.3,15,465.88,25.97,138.45,Credit Card
+ORD-10079,2025-02-19,Jessica Schmidt,Consumer,India,Asia Pacific,Clothing & Accessories,Cotton Formal Shirt,3,53.74,10,145.1,16.16,48.33,Credit Card
+ORD-11001,2025-02-20,Isabella Jackson,Corporate,Japan,Asia Pacific,Office Supplies,Paper Clips Box 500pc,1,3.03,20,2.42,11.16,-10.1,Cash on Delivery
+ORD-11801,2025-02-20,Thomas Tanaka,Consumer,India,Asia Pacific,Office Supplies,Whiteboard Markers Set 8,1,15.32,0,15.32,10.87,-2.44,Credit Card
+ORD-11412,2025-02-21,Raj Yamamoto,Consumer,South Korea,Asia Pacific,Technology,Mechanical Gaming Keyboard,1,167.77,0,167.77,10.07,65.43,Credit Card
+ORD-10873,2025-02-22,Ethan Li,Consumer,China,Asia Pacific,Clothing & Accessories,Business Casual Blazer,2,61.54,0,123.08,12.34,49.2,Credit Card
+ORD-10035,2025-02-25,Elizabeth Schmidt,Consumer,China,Asia Pacific,Technology,Wireless Bluetooth Headphones,6,228.0,15,1162.8,21.34,389.06,Credit Card
+ORD-11796,2025-02-26,Karen Suzuki,Home Office,Japan,Asia Pacific,Technology,Noise Cancelling Earbuds,2,182.51,5,346.77,10.49,135.52,Bank Transfer
+ORD-10905,2025-03-07,Chen Romano,Consumer,South Korea,Asia Pacific,Office Supplies,Whiteboard Markers Set 8,2,11.45,5,21.75,11.85,-0.4,Bank Transfer
+ORD-11727,2025-03-08,Robert Patel,Corporate,South Korea,Asia Pacific,Furniture,Filing Cabinet 3-Drawer,6,128.18,5,730.63,15.96,253.22,Cash on Delivery
+ORD-10538,2025-03-18,Richard Ali,Consumer,Japan,Asia Pacific,Clothing & Accessories,Cotton Formal Shirt,1,61.85,0,61.85,11.16,19.77,PayPal
+ORD-10348,2025-03-20,Olivia White,Consumer,India,Asia Pacific,Furniture,Desk Organizer Set,3,48.66,5,138.68,11.5,39.59,Cash on Delivery
+ORD-11757,2025-03-27,Oscar Thompson,Consumer,South Korea,Asia Pacific,Office Supplies,Whiteboard Markers Set 8,2,20.22,25,30.33,10.69,1.44,PayPal
+ORD-11695,2025-03-29,Sophie Jackson,Consumer,Australia,Asia Pacific,Furniture,Corner L-Shaped Desk,1,268.81,20,215.05,10.37,43.39,Credit Card
+ORD-10331,2025-03-31,Giulia White,Consumer,Australia,Asia Pacific,Furniture,Folding Table Portable,5,45.17,0,225.85,16.44,73.9,Credit Card
+ORD-11754,2025-03-31,Sakura Chen,Corporate,India,Asia Pacific,Office Supplies,Stapler Full-Size,11,14.79,25,122.02,23.11,25.7,Bank Transfer
+ORD-11935,2025-04-02,Isabella Thompson,Consumer,Japan,Asia Pacific,Office Supplies,Stapler Full-Size,14,11.48,0,160.72,39.83,48.57,PayPal
+ORD-11614,2025-04-04,Carlos Ali,Consumer,South Korea,Asia Pacific,Clothing & Accessories,Leather Wallet Minimalist,3,24.3,5,69.25,10.77,22.03,PayPal
+ORD-10906,2025-04-05,Wei Moreau,Corporate,India,Asia Pacific,Technology,Tablet Stand Holder,4,53.71,10,193.36,13.76,61.44,Credit Card
+ORD-10264,2025-04-07,Omar Thomas,Consumer,Japan,Asia Pacific,Office Supplies,Desk Calendar 2025,4,16.1,25,48.3,13.08,6.24,PayPal
+ORD-11647,2025-04-08,Emma Chen,Consumer,China,Asia Pacific,Office Supplies,Premium Notebook Set A5,2,20.57,5,39.08,12.63,7.94,Bank Transfer
+ORD-11057,2025-04-10,Ali Müller,Consumer,South Korea,Asia Pacific,Technology,Laptop Stand Adjustable,5,27.29,10,122.8,20.24,27.51,Credit Card
+ORD-11493,2025-04-11,Amina Khan,Corporate,Japan,Asia Pacific,Clothing & Accessories,Leather Wallet Minimalist,1,39.65,0,39.65,11.01,8.81,Bank Transfer
+ORD-11190,2025-04-12,Jennifer Leroy,Corporate,Japan,Asia Pacific,Technology,Smart LED Desk Lamp,4,55.11,10,198.4,13.84,63.32,Cash on Delivery
+ORD-11485,2025-04-12,Joseph Garcia,Consumer,China,Asia Pacific,Office Supplies,Stapler Full-Size,2,19.7,10,35.46,10.39,7.34,Credit Card
+ORD-11003,2025-04-18,Layla Jackson,Home Office,India,Asia Pacific,Office Supplies,Binder Clips Assorted 48pc,2,14.06,15,23.9,10.76,0.49,Bank Transfer
+ORD-11540,2025-04-18,Noah Moreau,Home Office,India,Asia Pacific,Clothing & Accessories,Business Casual Blazer,10,147.28,0,1472.8,27.39,709.01,PayPal
+ORD-11554,2025-04-18,Hanna Li,Consumer,China,Asia Pacific,Clothing & Accessories,Travel Backpack 30L,2,32.49,5,61.73,11.25,17.99,Credit Card
+ORD-11278,2025-04-19,Wei Anderson,Consumer,Australia,Asia Pacific,Furniture,Bookshelf 5-Tier,4,67.49,10,242.96,11.71,69.27,Credit Card
+ORD-10027,2025-04-24,Pierre Pereira,Consumer,China,Asia Pacific,Technology,Webcam HD 1080p,2,76.94,10,138.49,12.94,40.92,Credit Card
+ORD-11879,2025-04-25,Giulia Miller,Consumer,Australia,Asia Pacific,Furniture,Standing Desk Converter,2,320.6,0,641.2,12.1,244.38,Credit Card
+ORD-10289,2025-04-28,Chen Santos,Corporate,Japan,Asia Pacific,Technology,Tablet Stand Holder,7,19.93,10,125.56,20.75,28.08,PayPal
+ORD-11405,2025-05-03,Layla Ferrari,Corporate,South Korea,Asia Pacific,Furniture,Monitor Riser Wood,2,60.6,10,109.08,10.52,25.84,Credit Card
+ORD-11819,2025-05-03,Mia Johansson,Consumer,Japan,Asia Pacific,Furniture,Standing Desk Converter,5,166.65,5,791.59,13.99,277.65,Bank Transfer
+ORD-11677,2025-05-07,Robert Davis,Consumer,South Korea,Asia Pacific,Furniture,Mesh Back Task Chair,1,215.75,5,204.96,10.58,64.93,Credit Card
+ORD-10081,2025-05-08,Sarah Tanaka,Consumer,South Korea,Asia Pacific,Office Supplies,Desk Calendar 2025,4,18.4,15,62.56,15.93,13.51,Cash on Delivery
+ORD-11495,2025-05-08,Joseph Schmidt,Home Office,India,Asia Pacific,Office Supplies,Tape Dispenser Heavy Duty,3,18.94,5,53.98,14.46,13.95,Credit Card
+ORD-11913,2025-05-08,Richard Williams,Consumer,China,Asia Pacific,Technology,Noise Cancelling Earbuds,2,45.23,10,81.41,12.87,18.79,PayPal
+ORD-10002,2025-05-09,Patricia Leroy,Consumer,South Korea,Asia Pacific,Technology,Tablet Stand Holder,7,26.13,15,155.47,14.74,40.13,PayPal
+ORD-10267,2025-05-11,Barbara White,Consumer,India,Asia Pacific,Office Supplies,Whiteboard Markers Set 8,3,11.95,5,34.06,11.21,6.72,Credit Card
+ORD-10764,2025-05-13,Susan Leroy,Consumer,Japan,Asia Pacific,Office Supplies,Binder Clips Assorted 48pc,2,8.5,0,17.0,13.21,-3.86,PayPal
+ORD-11397,2025-05-13,Thomas Zhang,Home Office,Japan,Asia Pacific,Clothing & Accessories,Wool Blend Scarf,4,40.98,10,147.53,16.39,49.18,Bank Transfer
+ORD-10789,2025-05-15,Jamal Hassan,Consumer,Australia,Asia Pacific,Furniture,Standing Desk Converter,8,323.26,10,2327.47,15.77,760.05,PayPal
+ORD-11076,2025-05-15,Jamal Pereira,Corporate,Japan,Asia Pacific,Office Supplies,Stapler Full-Size,9,18.45,15,141.14,31.4,35.02,Credit Card
+ORD-11954,2025-05-18,Kenji Yamamoto,Consumer,Japan,Asia Pacific,Office Supplies,Ballpoint Pen Pack 12,2,12.85,0,25.7,13.38,0.75,Cash on Delivery
+ORD-10163,2025-05-24,Priya Brown,Corporate,China,Asia Pacific,Office Supplies,Premium Notebook Set A5,9,24.53,15,187.65,27.64,60.66,Credit Card
+ORD-10406,2025-05-24,Barbara Fischer,Corporate,India,Asia Pacific,Office Supplies,Whiteboard Markers Set 8,3,10.15,15,25.88,16.06,-3.88,PayPal
+ORD-11235,2025-05-27,Ayumi Zhang,Consumer,South Korea,Asia Pacific,Furniture,Standing Desk Converter,4,213.39,5,810.88,18.51,280.23,Credit Card
+ORD-10209,2025-05-29,Michael Yamamoto,Corporate,China,Asia Pacific,Office Supplies,Ballpoint Pen Pack 12,3,5.01,0,15.03,11.86,-3.59,PayPal
+ORD-11645,2025-05-30,Wei Harris,Corporate,South Korea,Asia Pacific,Furniture,Desk Organizer Set,9,54.27,5,464.01,21.91,149.04,PayPal
+ORD-11725,2025-05-31,Maria Yamamoto,Consumer,South Korea,Asia Pacific,Technology,Wireless Ergonomic Mouse,6,37.44,5,213.41,15.54,74.32,Credit Card
+ORD-11844,2025-06-05,Linda Johnson,Consumer,India,Asia Pacific,Furniture,Mesh Back Task Chair,2,133.72,5,254.07,13.55,80.06,Cash on Delivery
+ORD-11985,2025-06-05,Richard Leroy,Corporate,Japan,Asia Pacific,Technology,Mechanical Gaming Keyboard,4,132.14,25,396.42,16.65,89.06,PayPal
+ORD-10777,2025-06-06,Carlos Ferrari,Consumer,South Korea,Asia Pacific,Technology,Wireless Bluetooth Headphones,10,177.5,0,1775.0,15.06,783.69,Credit Card
+ORD-10270,2025-06-07,Ahmed Weber,Corporate,China,Asia Pacific,Office Supplies,Binder Clips Assorted 48pc,3,9.72,0,29.16,13.7,2.34,Bank Transfer
+ORD-11097,2025-06-14,Ivan Patel,Home Office,Australia,Asia Pacific,Furniture,Standing Desk Converter,1,134.93,15,114.69,11.49,22.24,Credit Card
+ORD-11377,2025-06-16,Giulia Müller,Corporate,Japan,Asia Pacific,Technology,Wireless Ergonomic Mouse,2,24.99,5,47.48,10.52,9.47,PayPal
+ORD-10617,2025-06-17,Yuki Suzuki,Corporate,China,Asia Pacific,Furniture,Floating Wall Shelves Set,1,32.11,20,25.69,10.11,-3.69,Bank Transfer
+ORD-10535,2025-06-20,Liam Zhang,Home Office,China,Asia Pacific,Technology,USB-C Hub Multiport Adapter,1,22.46,5,21.34,9.83,-0.84,PayPal
+ORD-10735,2025-06-21,Ali Yamamoto,Consumer,China,Asia Pacific,Furniture,Folding Table Portable,2,125.68,10,226.22,12.02,63.38,Credit Card
+ORD-11022,2025-06-22,Amina Anderson,Corporate,India,Asia Pacific,Office Supplies,Desk Calendar 2025,1,12.26,10,11.03,10.84,-5.33,Credit Card
+ORD-10033,2025-06-23,Olga Johansson,Corporate,Australia,Asia Pacific,Furniture,Filing Cabinet 3-Drawer,5,166.9,25,625.88,18.86,106.32,PayPal
+ORD-10564,2025-06-24,Christopher Chen,Consumer,South Korea,Asia Pacific,Office Supplies,Binder Clips Assorted 48pc,7,13.53,0,94.71,20.02,32.07,Credit Card
+ORD-11032,2025-06-25,Jamal Robinson,Corporate,Japan,Asia Pacific,Technology,Wireless Bluetooth Headphones,11,61.31,5,640.69,33.82,235.94,PayPal
+ORD-11907,2025-06-25,Nadia Thomas,Consumer,Japan,Asia Pacific,Clothing & Accessories,Leather Belt Classic,6,17.93,10,96.82,15.34,27.69,Credit Card
+ORD-11872,2025-06-28,Noah Tanaka,Consumer,China,Asia Pacific,Technology,Laptop Stand Adjustable,9,58.82,5,502.91,25.7,186.05,PayPal
+ORD-10479,2025-07-02,Joseph Clark,Consumer,China,Asia Pacific,Furniture,Desk Organizer Set,4,17.48,10,62.93,12.78,8.2,Cash on Delivery
+ORD-11291,2025-07-06,Mary Laurent,Consumer,India,Asia Pacific,Technology,Tablet Stand Holder,4,16.22,25,48.66,16.63,-3.65,PayPal
+ORD-10553,2025-07-07,Hanna Fischer,Consumer,India,Asia Pacific,Office Supplies,Premium Notebook Set A5,5,10.74,5,51.02,15.88,10.97,PayPal
+ORD-11640,2025-07-07,Christopher Chen,Consumer,Japan,Asia Pacific,Clothing & Accessories,Silk Tie Collection,3,13.01,0,39.03,14.95,4.57,PayPal
+ORD-10101,2025-07-08,Elizabeth Taylor,Home Office,Australia,Asia Pacific,Office Supplies,Stapler Full-Size,12,15.36,5,175.1,38.3,53.86,Credit Card
+ORD-11004,2025-07-08,Marco Ferrari,Consumer,Japan,Asia Pacific,Technology,Mechanical Gaming Keyboard,1,59.17,0,59.17,11.08,15.55,Credit Card
+ORD-11213,2025-07-16,David Nilsson,Consumer,Japan,Asia Pacific,Clothing & Accessories,Travel Backpack 30L,2,94.59,10,170.26,12.29,63.38,Cash on Delivery
+ORD-11630,2025-07-16,Giulia Russo,Corporate,Japan,Asia Pacific,Office Supplies,Tape Dispenser Heavy Duty,2,22.61,20,36.18,11.67,4.16,PayPal
+ORD-10598,2025-07-17,Ingrid Pereira,Corporate,Japan,Asia Pacific,Furniture,Mesh Back Task Chair,4,274.79,5,1044.2,18.5,366.2,Bank Transfer
+ORD-10205,2025-07-20,Clara Dubois,Corporate,India,Asia Pacific,Clothing & Accessories,Wool Blend Scarf,7,41.19,20,230.66,13.8,72.7,Cash on Delivery
+ORD-10334,2025-07-20,Ethan Santos,Consumer,China,Asia Pacific,Clothing & Accessories,Travel Backpack 30L,1,30.37,5,28.85,10.62,3.05,PayPal
+ORD-10895,2025-07-20,Mary Anderson,Consumer,Australia,Asia Pacific,Technology,Smart LED Desk Lamp,1,46.12,5,43.81,10.98,7.46,Credit Card
+ORD-11400,2025-07-24,Linda Hassan,Corporate,Australia,Asia Pacific,Furniture,Mesh Back Task Chair,1,279.65,10,251.68,9.76,74.13,Credit Card
+ORD-11977,2025-07-25,Li Smith,Consumer,Japan,Asia Pacific,Furniture,Standing Desk Converter,1,271.05,10,243.95,10.25,71.07,Credit Card
+ORD-10683,2025-07-26,Mia Wang,Corporate,Australia,Asia Pacific,Technology,Webcam HD 1080p,3,77.91,5,222.04,13.07,80.42,Cash on Delivery
+ORD-11241,2025-07-26,William Robinson,Consumer,South Korea,Asia Pacific,Clothing & Accessories,Business Casual Blazer,2,116.48,5,221.31,10.72,94.11,Cash on Delivery
+ORD-11923,2025-07-26,Omar Park,Consumer,India,Asia Pacific,Clothing & Accessories,Wool Blend Scarf,1,56.01,25,42.01,11.23,2.77,Credit Card
+ORD-11095,2025-07-29,Mia Harris,Consumer,South Korea,Asia Pacific,Furniture,Bookshelf 5-Tier,1,95.66,0,95.66,10.25,28.01,PayPal
+ORD-11619,2025-08-06,Emma Sato,Consumer,South Korea,Asia Pacific,Furniture,Desk Organizer Set,1,30.49,15,25.92,10.67,-3.04,Cash on Delivery
+ORD-10670,2025-08-07,Carlos Sharma,Corporate,Japan,Asia Pacific,Clothing & Accessories,Polarized Sunglasses,4,35.06,10,126.22,11.96,44.14,Credit Card
+ORD-10763,2025-08-11,Mary Khan,Corporate,China,Asia Pacific,Office Supplies,Whiteboard Markers Set 8,3,20.38,10,55.03,14.11,13.41,PayPal
+ORD-11366,2025-08-17,Ingrid Nilsson,Corporate,South Korea,Asia Pacific,Furniture,Floating Wall Shelves Set,6,70.12,10,378.65,13.58,112.64,Credit Card
+ORD-10287,2025-08-26,Hans Oliveira,Consumer,South Korea,Asia Pacific,Office Supplies,Whiteboard Markers Set 8,1,17.45,15,14.83,9.94,-2.96,Credit Card
+ORD-10610,2025-08-28,Emma Wang,Consumer,Australia,Asia Pacific,Technology,Smart LED Desk Lamp,5,56.91,10,256.09,13.57,86.02,Cash on Delivery
+ORD-10798,2025-09-02,Pierre Anderson,Corporate,China,Asia Pacific,Furniture,Monitor Riser Wood,10,61.71,10,555.39,27.35,157.78,Credit Card
+ORD-10986,2025-09-03,Robert Leroy,Consumer,India,Asia Pacific,Clothing & Accessories,Leather Belt Classic,2,17.55,20,28.08,11.1,-0.57,Credit Card
+ORD-10053,2025-09-07,Diego Miller,Home Office,Australia,Asia Pacific,Furniture,Bookshelf 5-Tier,2,195.17,15,331.79,10.46,87.13,Credit Card
+ORD-11086,2025-09-07,Amina Nilsson,Consumer,Australia,Asia Pacific,Technology,USB-C Hub Multiport Adapter,4,37.45,5,142.31,17.43,42.49,Credit Card
+ORD-10145,2025-09-09,Ali Wang,Consumer,India,Asia Pacific,Furniture,Monitor Riser Wood,3,40.83,5,116.37,15.87,27.01,Credit Card
+ORD-11794,2025-09-09,Ali Miller,Consumer,India,Asia Pacific,Furniture,Ergonomic Office Chair,2,396.83,10,714.29,12.78,225.31,Bank Transfer
+ORD-10555,2025-09-15,Ahmed Russo,Consumer,Japan,Asia Pacific,Technology,Mechanical Gaming Keyboard,3,70.32,15,179.32,16.16,47.13,PayPal
+ORD-11931,2025-09-15,Kenji Miller,Home Office,India,Asia Pacific,Office Supplies,Sticky Notes Multicolor 6-Pack,9,10.29,0,92.61,30.73,20.21,Cash on Delivery
+ORD-11715,2025-09-16,Olga Weber,Consumer,South Korea,Asia Pacific,Clothing & Accessories,Business Casual Blazer,1,105.62,10,95.06,9.73,32.52,PayPal
+ORD-10501,2025-09-19,Clara Hassan,Consumer,Australia,Asia Pacific,Furniture,Bookshelf 5-Tier,1,167.52,0,167.52,10.49,56.52,PayPal
+ORD-10548,2025-09-23,Chen Chen,Consumer,South Korea,Asia Pacific,Furniture,Folding Table Portable,4,72.47,10,260.89,14.16,72.8,Credit Card
+ORD-10269,2025-09-25,Chen Martinez,Consumer,Japan,Asia Pacific,Furniture,Bookshelf 5-Tier,1,103.88,5,98.69,9.92,26.44,Bank Transfer
+ORD-10972,2025-09-26,Isabella White,Corporate,Japan,Asia Pacific,Office Supplies,Stapler Full-Size,3,11.89,25,26.75,12.8,-2.1,PayPal
+ORD-11071,2025-09-28,Fatima Zhang,Consumer,India,Asia Pacific,Technology,Webcam HD 1080p,2,62.91,10,113.24,11.57,32.47,PayPal
+ORD-10368,2025-09-30,Yuki Miller,Consumer,Australia,Asia Pacific,Furniture,Folding Table Portable,2,63.03,10,113.45,10.28,27.53,Cash on Delivery
+ORD-10179,2025-10-01,Emma Johnson,Corporate,Australia,Asia Pacific,Technology,Noise Cancelling Earbuds,2,190.58,15,323.99,12.64,101.71,Credit Card
+ORD-10299,2025-10-01,Michael Park,Home Office,India,Asia Pacific,Office Supplies,Tape Dispenser Heavy Duty,5,14.09,5,66.93,13.7,21.53,Credit Card
+ORD-11130,2025-10-01,James Santos,Home Office,Australia,Asia Pacific,Technology,Tablet Stand Holder,6,26.66,0,159.96,19.35,52.63,Credit Card
+ORD-10238,2025-10-05,Ava Rossi,Corporate,China,Asia Pacific,Furniture,Bookshelf 5-Tier,1,128.66,5,122.23,9.94,35.09,PayPal
+ORD-11200,2025-10-05,Sakura Harris,Corporate,China,Asia Pacific,Technology,Smart LED Desk Lamp,15,57.2,0,858.0,28.7,357.4,Credit Card
+ORD-10214,2025-10-10,Felix Robinson,Corporate,China,Asia Pacific,Furniture,Filing Cabinet 3-Drawer,3,164.93,10,445.31,16.37,132.07,Cash on Delivery
+ORD-11024,2025-10-10,Zara Wang,Corporate,India,Asia Pacific,Technology,Tablet Stand Holder,1,31.71,20,25.37,9.88,-1.95,Credit Card
+ORD-10068,2025-10-11,Amir Tanaka,Home Office,China,Asia Pacific,Clothing & Accessories,Leather Belt Classic,3,35.09,15,89.48,15.75,21.09,PayPal
+ORD-11283,2025-10-13,Li Wang,Corporate,China,Asia Pacific,Clothing & Accessories,Cotton Formal Shirt,3,31.44,0,94.32,11.64,35.52,Cash on Delivery
+ORD-11051,2025-10-14,Jennifer Dubois,Consumer,China,Asia Pacific,Technology,Laptop Stand Adjustable,1,32.7,0,32.7,10.93,3.79,Credit Card
+ORD-11201,2025-10-14,Elizabeth Garcia,Home Office,South Korea,Asia Pacific,Office Supplies,Whiteboard Markers Set 8,1,21.86,20,17.49,11.22,-3.57,Bank Transfer
+ORD-11266,2025-10-14,Chen Tanaka,Home Office,Japan,Asia Pacific,Office Supplies,Ballpoint Pen Pack 12,1,13.39,5,12.72,9.93,-3.24,PayPal
+ORD-11691,2025-10-17,Christopher Davis,Consumer,Australia,Asia Pacific,Technology,Webcam HD 1080p,4,46.59,5,177.04,18.99,55.55,Cash on Delivery
+ORD-10175,2025-10-20,Jamal Brown,Corporate,Japan,Asia Pacific,Clothing & Accessories,Wool Blend Scarf,6,40.46,0,242.76,18.34,103.04,Credit Card
+ORD-10729,2025-10-21,Layla Smith,Home Office,Australia,Asia Pacific,Technology,Smart LED Desk Lamp,11,61.28,10,606.67,16.64,219.29,PayPal
+ORD-10731,2025-10-24,Ingrid Jackson,Home Office,China,Asia Pacific,Furniture,Folding Table Portable,8,98.63,5,749.59,25.57,250.6,Credit Card
+ORD-11593,2025-10-27,Pierre Weber,Consumer,South Korea,Asia Pacific,Technology,Wireless Bluetooth Headphones,1,249.9,10,224.91,10.6,76.86,PayPal
+ORD-11010,2025-10-28,Robert Russo,Corporate,India,Asia Pacific,Office Supplies,Premium Notebook Set A5,3,14.48,20,34.75,15.11,0.09,Credit Card
+ORD-11334,2025-10-28,Layla Rodriguez,Consumer,China,Asia Pacific,Furniture,Monitor Riser Wood,5,44.91,20,179.64,11.97,32.94,PayPal
+ORD-11474,2025-11-05,Fatima Smith,Home Office,Australia,Asia Pacific,Office Supplies,Ballpoint Pen Pack 12,7,12.96,0,90.72,22.05,27.85,PayPal
+ORD-11741,2025-11-07,William Ali,Home Office,China,Asia Pacific,Furniture,Folding Table Portable,4,102.08,0,408.32,18.68,144.65,Credit Card
+ORD-10139,2025-11-08,Olivia Leroy,Home Office,China,Asia Pacific,Furniture,Ergonomic Office Chair,1,165.86,5,157.57,10.45,47.6,PayPal
+ORD-11028,2025-11-08,Ayumi Singh,Consumer,India,Asia Pacific,Clothing & Accessories,Business Casual Blazer,6,129.18,0,775.08,12.89,374.65,Credit Card
+ORD-10839,2025-11-09,Olga Robinson,Corporate,China,Asia Pacific,Technology,Wireless Bluetooth Headphones,2,166.68,15,283.36,11.52,88.49,PayPal
+ORD-10831,2025-11-12,Karen Romano,Consumer,India,Asia Pacific,Office Supplies,Tape Dispenser Heavy Duty,4,21.32,20,68.22,14.03,15.81,PayPal
+ORD-10303,2025-11-18,Diego Williams,Consumer,India,Asia Pacific,Technology,Laptop Stand Adjustable,9,34.21,5,292.5,13.63,109.53,Credit Card
+ORD-10773,2025-11-18,Susan Ali,Consumer,South Korea,Asia Pacific,Clothing & Accessories,Canvas Messenger Bag,4,71.05,15,241.57,11.85,87.62,Credit Card
+ORD-10902,2025-11-18,Olga Davis,Corporate,India,Asia Pacific,Furniture,Filing Cabinet 3-Drawer,1,198.02,10,178.22,9.93,49.48,Cash on Delivery
+ORD-11274,2025-11-19,Kenji Hassan,Corporate,India,Asia Pacific,Furniture,Filing Cabinet 3-Drawer,2,188.36,0,376.72,13.35,137.34,Bank Transfer
+ORD-11896,2025-11-20,Noah Thomas,Corporate,India,Asia Pacific,Office Supplies,Highlighters Neon Pack 6,2,7.1,10,12.78,10.79,-4.4,PayPal
+ORD-10414,2025-11-23,Layla Park,Consumer,Japan,Asia Pacific,Office Supplies,Desk Calendar 2025,1,8.87,5,8.43,11.23,-6.79,Credit Card
+ORD-11805,2025-11-24,Joseph Martin,Corporate,South Korea,Asia Pacific,Furniture,Desk Organizer Set,1,24.61,15,20.92,10.08,-3.93,PayPal
+ORD-10013,2025-11-25,Layla Yamamoto,Home Office,Australia,Asia Pacific,Furniture,Filing Cabinet 3-Drawer,2,118.2,10,212.76,10.92,60.0,Credit Card
+ORD-11183,2025-11-26,Sarah Nilsson,Corporate,Japan,Asia Pacific,Technology,Wireless Ergonomic Mouse,4,23.57,10,84.85,16.9,16.1,Credit Card
+ORD-11710,2025-11-26,Felix Singh,Consumer,Japan,Asia Pacific,Clothing & Accessories,Business Casual Blazer,1,45.56,0,45.56,11.16,11.62,Credit Card
+ORD-10060,2025-11-28,Raj Rossi,Consumer,Australia,Asia Pacific,Office Supplies,Paper Clips Box 500pc,3,4.27,10,11.53,13.45,-7.68,Credit Card
+ORD-11172,2025-11-29,Kenji Wang,Consumer,China,Asia Pacific,Technology,Tablet Stand Holder,13,31.37,10,367.03,38.63,104.1,Cash on Delivery
+ORD-11123,2025-12-01,Emma Laurent,Consumer,South Korea,Asia Pacific,Office Supplies,Stapler Full-Size,1,17.12,15,14.55,10.37,-3.52,Credit Card
+ORD-11889,2025-12-01,Mary Yamamoto,Consumer,China,Asia Pacific,Furniture,Ergonomic Office Chair,12,189.49,15,1932.8,34.81,533.66,Credit Card
+ORD-11843,2025-12-02,Xiao Romano,Corporate,India,Asia Pacific,Furniture,Desk Organizer Set,4,34.17,10,123.01,18.86,22.14,PayPal
+ORD-10518,2025-12-04,Sarah Harris,Consumer,Japan,Asia Pacific,Office Supplies,Stapler Full-Size,8,19.35,0,154.8,27.15,57.99,Credit Card
+ORD-10327,2025-12-06,Oscar Martin,Consumer,Japan,Asia Pacific,Technology,Wireless Bluetooth Headphones,1,121.88,15,103.6,10.32,26.25,Credit Card
+ORD-10572,2025-12-06,Oscar Davis,Consumer,Japan,Asia Pacific,Technology,Webcam HD 1080p,2,48.3,0,96.6,10.11,33.36,Credit Card
+ORD-11933,2025-12-06,Maria Martin,Consumer,China,Asia Pacific,Clothing & Accessories,Sports Water Bottle 750ml,3,26.38,10,71.23,16.45,15.21,PayPal
+ORD-11779,2025-12-07,Richard Martinez,Home Office,South Korea,Asia Pacific,Office Supplies,Ballpoint Pen Pack 12,1,11.64,15,9.89,10.8,-6.15,PayPal
+ORD-10155,2025-12-12,Li Kim,Consumer,Japan,Asia Pacific,Furniture,Desk Organizer Set,3,18.51,0,55.53,13.79,8.42,PayPal
+ORD-10096,2025-12-15,Olga Davis,Consumer,Australia,Asia Pacific,Office Supplies,Premium Notebook Set A5,12,11.75,0,141.0,19.91,57.64,Cash on Delivery
+ORD-10943,2025-12-16,Noah Jones,Consumer,Australia,Asia Pacific,Office Supplies,Binder Clips Assorted 48pc,2,14.78,0,29.56,12.49,3.77,Credit Card
+ORD-11342,2025-12-16,Nadia Nilsson,Corporate,South Korea,Asia Pacific,Furniture,Bookshelf 5-Tier,5,183.87,10,827.42,14.56,261.25,Cash on Delivery
+ORD-10378,2025-12-22,Ingrid Zhang,Corporate,Japan,Asia Pacific,Technology,Noise Cancelling Earbuds,2,130.39,15,221.66,10.61,67.62,PayPal
+ORD-11409,2025-12-24,Chen Taylor,Home Office,India,Asia Pacific,Technology,Mechanical Gaming Keyboard,1,83.9,15,71.31,11.12,14.04,Credit Card
+ORD-11570,2025-12-25,Isabella Thomas,Home Office,South Korea,Asia Pacific,Clothing & Accessories,Travel Backpack 30L,5,88.14,10,396.63,15.38,160.9,PayPal
+ORD-11353,2025-12-30,Hanna Leroy,Consumer,Australia,Asia Pacific,Office Supplies,Stapler Full-Size,1,15.08,10,13.57,11.07,-4.29,PayPal
+ORD-11814,2025-12-30,Jennifer Oliveira,Consumer,India,Asia Pacific,Furniture,Filing Cabinet 3-Drawer,1,177.9,10,160.11,10.23,43.14,PayPal
+ORD-11701,2025-12-31,Susan Russo,Home Office,South Korea,Asia Pacific,Clothing & Accessories,Sports Water Bottle 750ml,11,28.27,0,310.97,36.23,119.26,Credit Card
+ORD-11147,2023-12-28,Priya Johansson,Consumer,India,Asia Pacific,Furniture,Filing Cabinet 3-Drawer,1,172.7,0,172.7,11.33,57.75,Bank Transfer
+ORD-11412,2025-02-21,Raj Yamamoto,Consumer,South Korea,Asia Pacific,Technology,Mechanical Gaming Keyboard,1,167.77,0,167.77,10.07,65.43,Credit Card
+ORD-11423,2023-12-03,Felix Laurent,Home Office,Australia,Asia Pacific,Clothing & Accessories,Silk Tie Collection,2,16.62,5,31.58,12.84,2.12,PayPal
+ORD-10340,2024-07-27,Priya Weber,Consumer,South Korea,Asia Pacific,Furniture,Folding Table Portable,3,51.54,5,146.89,16.14,37.98,Credit Card
+ORD-10379,2024-03-30,Felix Müller,Corporate,Japan,Asia Pacific,Office Supplies,Desk Calendar 2025,1,7.85,10,7.06,9.6,-6.07,Credit Card
+ORD-11463,2023-12-16,Ingrid Zhang,Corporate,Australia,Asia Pacific,Technology,Mechanical Gaming Keyboard,8,85.21,15,579.43,13.75,190.76,PayPal
+ORD-11342,2025-12-16,Nadia Nilsson,Corporate,South Korea,Asia Pacific,Furniture,Bookshelf 5-Tier,5,183.87,10,827.42,14.56,261.25,Cash on Delivery

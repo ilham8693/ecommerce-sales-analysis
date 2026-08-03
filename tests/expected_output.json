@@ -1,0 +1,74 @@
+{
+  "metadata": {
+    "total_records_processed": 1991,
+    "total_records_dropped": 24
+  },
+  "global_summary": {
+    "total_sales": 482975.86,
+    "total_profit": 158387.75,
+    "total_quantity": 7078,
+    "average_discount_percent": 8.58
+  },
+  "regional_breakdown": {
+    "Asia Pacific": {
+      "total_sales": 121401.46,
+      "total_profit": 39001.6,
+      "total_quantity": 1902,
+      "average_discount_percent": 8.93,
+      "top_category": "Furniture",
+      "customer_segment_distribution": {
+        "Consumer": 273,
+        "Corporate": 152,
+        "Home Office": 93
+      }
+    },
+    "Europe": {
+      "total_sales": 136332.19,
+      "total_profit": 45498.71,
+      "total_quantity": 1810,
+      "average_discount_percent": 8.32,
+      "top_category": "Furniture",
+      "customer_segment_distribution": {
+        "Consumer": 255,
+        "Corporate": 145,
+        "Home Office": 100
+      }
+    },
+    "Middle East & Africa": {
+      "total_sales": 45918.12,
+      "total_profit": 14152.48,
+      "total_quantity": 718,
+      "average_discount_percent": 8.17,
+      "top_category": "Furniture",
+      "customer_segment_distribution": {
+        "Consumer": 105,
+        "Corporate": 75,
+        "Home Office": 28
+      }
+    },
+    "North America": {
+      "total_sales": 133876.39,
+      "total_profit": 45250.09,
+      "total_quantity": 1996,
+      "average_discount_percent": 8.37,
+      "top_category": "Furniture",
+      "customer_segment_distribution": {
+        "Consumer": 280,
+        "Corporate": 182,
+        "Home Office": 116
+      }
+    },
+    "South America": {
+      "total_sales": 45447.7,
+      "total_profit": 14484.87,
+      "total_quantity": 652,
+      "average_discount_percent": 9.44,
+      "top_category": "Furniture",
+      "customer_segment_distribution": {
+        "Consumer": 88,
+        "Corporate": 66,
+        "Home Office": 33
+      }
+    }
+  }
+}

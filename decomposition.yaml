@@ -1,0 +1,64 @@
+coordination_pattern: fan-out-synthesize
+
+sub_tasks:
+  - id: clean_north_america
+    description: >
+      Clean and map the North American sales dataset (/input_artifacts/sales_north_america.csv).
+      Remove exact duplicate rows. Identify and calculate missing values in 'Total_Sales' using the standard formula:
+      Total_Sales = Quantity * Unit_Price * (1 - Discount_Percent / 100.0) rounded to 2 decimal places.
+      Maintain standard headers, verify all date formats are YYYY-MM-DD, and save the output as an intermediate file
+      at /logs/agent/intermediate_north_america.csv.
+    depends_on: []
+    parallel_group: clean
+
+  - id: clean_europe
+    description: >
+      Clean and map the European sales dataset (/input_artifacts/sales_europe.csv).
+      Remove exact duplicate rows. Map columns 'Date' to 'Order_Date' and 'Segment' to 'Customer_Segment'.
+      Standardize dates from DD/MM/YYYY to YYYY-MM-DD. Filter out and drop records where 'Quantity' is less than
+      or equal to 0. Keep all other columns standard and save the output as an intermediate file
+      at /logs/agent/intermediate_europe.csv.
+    depends_on: []
+    parallel_group: clean
+
+  - id: clean_middle_east_africa
+    description: >
+      Clean and map the Middle East and Africa sales dataset (/input_artifacts/sales_middle_east_africa.csv).
+      Remove exact duplicate rows. Map columns 'Sales_Amount' to 'Total_Sales' and 'Discount' to 'Discount_Percent'.
+      Standardize dates from MM-DD-YYYY to YYYY-MM-DD. Identify missing values in 'Quantity', impute them with 1,
+      and compute the correct Total_Sales for those imputed records using the standard formula. Save the output
+      as an intermediate file at /logs/agent/intermediate_middle_east_africa.csv.
+    depends_on: []
+    parallel_group: clean
+
+  - id: clean_asia_pacific
+    description: >
+      Clean and map the Asia Pacific sales dataset (/input_artifacts/sales_asia_pacific.csv).
+      Remove exact duplicate rows. Map column 'Earnings' to 'Profit'. Ensure date formats are YYYY-MM-DD.
+      Identify and discard records where 'Discount_Percent' is invalid (less than 0 or greater than 100).
+      Save the output as an intermediate file at /logs/agent/intermediate_asia_pacific.csv.
+    depends_on: []
+    parallel_group: clean
+
+  - id: clean_south_america
+    description: >
+      Clean and map the South American sales dataset (/input_artifacts/sales_south_america.csv).
+      Remove exact duplicate rows. Map columns 'Delivery_Fee' to 'Shipping_Cost' and 'Transaction_ID' to 'Order_ID'.
+      Standardize dates from DD/MM/YYYY to YYYY-MM-DD. Drop any records that have missing or null 'Customer_Name' values.
+      Save the output as an intermediate file at /logs/agent/intermediate_south_america.csv.
+    depends_on: []
+    parallel_group: clean
+
+  - id: synthesize_reports
+    description: >
+      Ingest the 5 cleaned intermediate CSV files from /logs/agent/ (intermediate_*.csv).
+      Verify completeness across all regions, aggregate the data to calculate global summaries (total sales, total profit,
+      total quantity, average discount percent), and regional statistics (totals, top product category by sales, and customer segment
+      distributions). Perform consistency checks and compile the final JSON report saved exactly at /logs/agent/output.json.
+    depends_on:
+      - clean_north_america
+      - clean_europe
+      - clean_middle_east_africa
+      - clean_asia_pacific
+      - clean_south_america
+    parallel_group: synthesize

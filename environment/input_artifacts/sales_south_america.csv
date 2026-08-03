@@ -1,0 +1,192 @@
+Transaction_ID,Order_Date,Customer_Name,Customer_Segment,Country,Region,Product_Category,Product_Name,Quantity,Unit_Price,Discount_Percent,Total_Sales,Delivery_Fee,Profit,Payment_Method
+ORD-10446,08/01/2023,Raj Martinez,Corporate,Colombia,South America,Clothing & Accessories,Leather Wallet Minimalist,2,38.91,15,66.15,14.25,12.99,Credit Card
+ORD-11356,12/01/2023,,Consumer,Colombia,South America,Clothing & Accessories,Travel Backpack 30L,1,59.48,0,59.48,11.42,18.32,Credit Card
+ORD-10686,15/01/2023,Clara Smith,Corporate,Colombia,South America,Office Supplies,Whiteboard Markers Set 8,5,9.91,25,37.16,20.73,-5.87,Cash on Delivery
+ORD-11718,15/01/2023,Robert Khan,Consumer,Colombia,South America,Clothing & Accessories,Wool Blend Scarf,2,47.0,10,84.6,14.83,22.77,Credit Card
+ORD-10589,20/01/2023,Mary Davis,Consumer,Argentina,South America,Technology,Portable External SSD 1TB,4,121.25,0,485.0,18.53,199.72,PayPal
+ORD-10383,29/01/2023,Michael Harris,Home Office,Argentina,South America,Clothing & Accessories,Canvas Messenger Bag,1,54.25,0,54.25,11.58,15.54,Credit Card
+ORD-11655,31/01/2023,Li Wang,Corporate,Brazil,South America,Technology,USB-C Hub Multiport Adapter,2,28.99,10,52.18,12.7,7.59,Credit Card
+ORD-10374,03/02/2023,Felix Smith,Corporate,Colombia,South America,Clothing & Accessories,Canvas Messenger Bag,12,25.43,5,289.9,23.56,113.76,Bank Transfer
+ORD-11430,04/02/2023,Karen Martinez,Home Office,Colombia,South America,Office Supplies,Paper Clips Box 500pc,1,4.78,10,4.3,11.84,-9.69,Bank Transfer
+ORD-11760,04/02/2023,Sakura Thomas,Corporate,Argentina,South America,Technology,Webcam HD 1080p,7,79.23,15,471.42,19.84,146.54,Cash on Delivery
+ORD-11218,05/02/2023,Lucas Sharma,Consumer,Brazil,South America,Clothing & Accessories,Business Casual Blazer,10,138.7,15,1178.95,17.36,468.09,Credit Card
+ORD-10642,10/02/2023,Olga Kim,Consumer,Argentina,South America,Furniture,Standing Desk Converter,8,289.71,10,2085.91,16.44,678.86,Bank Transfer
+ORD-11302,23/02/2023,Fatima Suzuki,Home Office,Brazil,South America,Technology,Wireless Ergonomic Mouse,3,60.99,0,182.97,12.03,70.31,Credit Card
+ORD-10646,27/02/2023,Sophie Harris,Consumer,Argentina,South America,Office Supplies,Paper Clips Box 500pc,9,7.24,0,65.16,18.95,16.89,PayPal
+ORD-10915,08/03/2023,Ahmed Harris,Consumer,Brazil,South America,Furniture,Floating Wall Shelves Set,6,99.69,0,598.14,18.01,221.25,Credit Card
+ORD-11632,08/03/2023,,Corporate,Brazil,South America,Furniture,Ergonomic Office Chair,1,354.67,5,336.94,12.41,111.73,Credit Card
+ORD-10744,16/03/2023,Thomas Patel,Consumer,Brazil,South America,Clothing & Accessories,Polarized Sunglasses,5,61.18,10,275.31,14.66,107.7,Credit Card
+ORD-11712,23/03/2023,Felix Park,Consumer,Colombia,South America,Furniture,Floating Wall Shelves Set,4,68.83,0,275.32,19.78,90.35,Bank Transfer
+ORD-10132,26/03/2023,Fatima Singh,Corporate,Argentina,South America,Technology,Wireless Bluetooth Headphones,5,239.45,5,1137.39,14.61,464.29,PayPal
+ORD-11002,02/04/2023,Nadia Santos,Consumer,Argentina,South America,Technology,Tablet Stand Holder,4,24.85,15,84.49,15.38,14.44,PayPal
+ORD-10532,04/04/2023,Ava Ferrari,Home Office,Colombia,South America,Technology,Noise Cancelling Earbuds,2,139.15,5,264.38,12.48,98.83,Cash on Delivery
+ORD-11988,07/04/2023,Michael Yamamoto,Corporate,Colombia,South America,Technology,Mechanical Gaming Keyboard,1,133.59,0,133.59,12.48,47.64,Credit Card
+ORD-10623,12/05/2023,Chen Thompson,Consumer,Argentina,South America,Clothing & Accessories,Travel Backpack 30L,3,94.61,20,227.06,16.78,68.37,PayPal
+ORD-10607,14/05/2023,Fatima Laurent,Home Office,Argentina,South America,Technology,USB-C Hub Multiport Adapter,1,55.77,5,52.98,11.25,11.06,PayPal
+ORD-11788,16/05/2023,Ivan Li,Home Office,Brazil,South America,Furniture,Bookshelf 5-Tier,3,145.84,15,371.89,14.54,94.84,Credit Card
+ORD-11258,19/06/2023,Carlos Dubois,Consumer,Brazil,South America,Clothing & Accessories,Polarized Sunglasses,1,79.09,20,63.27,10.51,13.22,Credit Card
+ORD-10083,07/07/2023,Priya Thomas,Home Office,Argentina,South America,Office Supplies,Stapler Full-Size,1,19.62,5,18.64,12.48,-2.67,Bank Transfer
+ORD-10024,09/07/2023,Giulia Dubois,Consumer,Brazil,South America,Office Supplies,Paper Clips Box 500pc,2,3.31,0,6.62,14.92,-11.28,Credit Card
+ORD-10961,13/07/2023,Lucas Suzuki,Corporate,Brazil,South America,Technology,Wireless Ergonomic Mouse,1,61.5,15,52.27,10.75,7.7,Credit Card
+ORD-11349,20/07/2023,Liam Clark,Consumer,Argentina,South America,Technology,Mechanical Gaming Keyboard,13,145.33,5,1794.83,36.04,719.68,Cash on Delivery
+ORD-10996,22/07/2023,Clara Williams,Consumer,Argentina,South America,Clothing & Accessories,Cotton Formal Shirt,2,53.18,5,101.04,13.3,34.56,PayPal
+ORD-11494,25/07/2023,Fatima Smith,Corporate,Colombia,South America,Clothing & Accessories,Canvas Messenger Bag,1,41.08,0,41.08,11.71,8.83,Cash on Delivery
+ORD-10240,26/07/2023,Lucas Jones,Consumer,Argentina,South America,Furniture,Desk Organizer Set,1,21.14,20,16.91,12.08,-7.85,Cash on Delivery
+ORD-11229,28/07/2023,Xiao Smith,Consumer,Brazil,South America,Technology,USB-C Hub Multiport Adapter,1,20.02,15,17.02,10.98,-4.97,PayPal
+ORD-10281,01/08/2023,Thomas Chen,Corporate,Brazil,South America,Furniture,Folding Table Portable,3,83.44,10,225.29,15.17,59.93,Bank Transfer
+ORD-10680,04/08/2023,Mary Miller,Consumer,Argentina,South America,Office Supplies,Ballpoint Pen Pack 12,5,7.28,5,34.58,20.71,-2.51,PayPal
+ORD-10418,05/08/2023,Michael Rodriguez,Consumer,Brazil,South America,Furniture,Standing Desk Converter,1,206.62,10,185.96,11.69,50.3,Bank Transfer
+ORD-10842,06/08/2023,Hans Anderson,Consumer,Colombia,South America,Clothing & Accessories,Canvas Messenger Bag,1,34.17,15,29.04,12.01,-0.06,Credit Card
+ORD-10030,11/08/2023,Giulia Taylor,Corporate,Brazil,South America,Office Supplies,Whiteboard Markers Set 8,2,17.66,15,30.02,13.05,1.08,Credit Card
+ORD-10558,16/08/2023,Susan Wang,Consumer,Argentina,South America,Clothing & Accessories,Travel Backpack 30L,6,78.77,0,472.62,19.75,216.56,PayPal
+ORD-11526,16/08/2023,Ethan Kim,Corporate,Colombia,South America,Clothing & Accessories,Business Casual Blazer,1,59.71,15,50.75,11.43,9.46,PayPal
+ORD-11846,16/08/2023,Jennifer Garcia,Consumer,Argentina,South America,Clothing & Accessories,Business Casual Blazer,2,148.55,10,267.39,14.84,104.0,Cash on Delivery
+ORD-10301,23/08/2023,Jamal Leroy,Home Office,Brazil,South America,Office Supplies,Highlighters Neon Pack 6,4,6.4,20,20.48,13.95,-4.99,Credit Card
+ORD-11681,23/08/2023,Barbara Ali,Consumer,Brazil,South America,Furniture,Folding Table Portable,2,127.96,0,255.92,12.79,89.58,Credit Card
+ORD-11601,06/09/2023,Sarah Jackson,Home Office,Brazil,South America,Furniture,Ergonomic Office Chair,2,426.27,10,767.29,12.53,243.24,Credit Card
+ORD-11323,15/09/2023,Hanna Khan,Consumer,Colombia,South America,Technology,Tablet Stand Holder,2,25.4,0,50.8,12.94,9.92,Credit Card
+ORD-10891,21/09/2023,Xiao Wang,Consumer,Argentina,South America,Furniture,Bookshelf 5-Tier,2,115.98,0,231.96,13.7,79.08,Cash on Delivery
+ORD-10984,21/09/2023,Sarah Khan,Home Office,Brazil,South America,Technology,Noise Cancelling Earbuds,3,153.34,0,460.02,16.46,190.55,Credit Card
+ORD-11813,25/09/2023,Sarah Thompson,Consumer,Brazil,South America,Technology,USB-C Hub Multiport Adapter,2,22.12,10,39.82,11.38,4.11,PayPal
+ORD-11561,02/10/2023,Omar Li,Corporate,Colombia,South America,Technology,Webcam HD 1080p,2,79.63,10,143.33,11.45,44.29,Credit Card
+ORD-11181,04/10/2023,Joseph Leroy,Consumer,Colombia,South America,Technology,USB-C Hub Multiport Adapter,1,44.26,0,44.26,12.32,7.6,PayPal
+ORD-10203,05/10/2023,Raj Oliveira,Corporate,Brazil,South America,Clothing & Accessories,Polarized Sunglasses,13,74.96,20,779.58,19.8,272.54,Cash on Delivery
+ORD-11396,05/10/2023,Zara Moreau,Consumer,Brazil,South America,Office Supplies,Desk Calendar 2025,1,6.83,0,6.83,12.47,-8.71,PayPal
+ORD-11837,05/10/2023,Richard Romano,Corporate,Brazil,South America,Furniture,Corner L-Shaped Desk,1,340.77,30,238.54,11.54,22.54,Bank Transfer
+ORD-10750,08/10/2023,Hanna Kumar,Consumer,Argentina,South America,Office Supplies,Tape Dispenser Heavy Duty,3,21.94,5,62.53,17.25,15.66,Cash on Delivery
+ORD-10606,09/10/2023,Robert Taylor,Home Office,Brazil,South America,Furniture,Standing Desk Converter,1,184.6,5,175.37,11.24,53.37,Credit Card
+ORD-11261,23/10/2023,Nadia Tanaka,Corporate,Argentina,South America,Furniture,Filing Cabinet 3-Drawer,7,151.92,15,903.92,23.57,242.29,Credit Card
+ORD-11798,23/10/2023,Thomas Rodriguez,Corporate,Argentina,South America,Office Supplies,Binder Clips Assorted 48pc,7,11.09,10,69.87,22.14,12.8,Credit Card
+ORD-11069,25/10/2023,Fatima Williams,Consumer,Colombia,South America,Office Supplies,Tape Dispenser Heavy Duty,5,18.76,15,79.73,18.24,19.28,Cash on Delivery
+ORD-10717,28/10/2023,Elizabeth Johansson,Consumer,Brazil,South America,Furniture,Mesh Back Task Chair,5,183.81,25,689.29,20.65,117.21,Credit Card
+ORD-10811,03/11/2023,Joseph Romano,Consumer,Argentina,South America,Technology,Webcam HD 1080p,1,83.28,0,83.28,12.13,25.35,Credit Card
+ORD-10757,06/11/2023,Ahmed Taylor,Consumer,Colombia,South America,Clothing & Accessories,Leather Wallet Minimalist,3,64.75,0,194.25,14.63,82.5,Credit Card
+ORD-12000,15/11/2023,Raj Anderson,Consumer,Argentina,South America,Office Supplies,Premium Notebook Set A5,2,10.67,15,18.14,14.02,-5.48,Credit Card
+ORD-11566,20/11/2023,Olga Thompson,Consumer,Colombia,South America,Technology,Tablet Stand Holder,2,53.62,0,107.24,11.75,36.51,Bank Transfer
+ORD-10360,21/11/2023,Wei Fischer,Consumer,Argentina,South America,Office Supplies,Premium Notebook Set A5,3,20.66,0,61.98,14.39,19.7,Credit Card
+ORD-11555,26/11/2023,Isabella Harris,Consumer,Colombia,South America,Technology,Wireless Ergonomic Mouse,5,24.47,0,122.35,17.01,38.05,Credit Card
+ORD-11488,28/11/2023,Pierre Leroy,Corporate,Colombia,South America,Clothing & Accessories,Travel Backpack 30L,5,43.67,15,185.6,13.12,63.3,PayPal
+ORD-11505,30/11/2023,Susan Leroy,Consumer,Brazil,South America,Office Supplies,Premium Notebook Set A5,1,8.8,10,7.92,11.94,-7.98,Bank Transfer
+ORD-11953,08/12/2023,Liam Costa,Consumer,Colombia,South America,Office Supplies,Paper Clips Box 500pc,1,9.18,5,8.72,11.53,-6.94,PayPal
+ORD-11649,11/12/2023,Ava Li,Corporate,Argentina,South America,Office Supplies,Paper Clips Box 500pc,3,6.13,5,17.47,16.06,-6.87,Cash on Delivery
+ORD-10587,22/12/2023,James Ferrari,Consumer,Colombia,South America,Furniture,Corner L-Shaped Desk,3,371.61,15,947.61,15.39,263.32,Credit Card
+ORD-10439,26/12/2023,Ayumi Tanaka,Corporate,Colombia,South America,Office Supplies,Binder Clips Assorted 48pc,4,11.72,5,44.54,14.16,9.28,Bank Transfer
+ORD-11418,27/12/2023,Ahmed Jackson,Consumer,Argentina,South America,Furniture,Floating Wall Shelves Set,2,85.83,15,145.91,13.6,29.31,PayPal
+ORD-11996,27/12/2023,Priya Li,Consumer,Colombia,South America,Office Supplies,Highlighters Neon Pack 6,5,8.83,0,44.15,19.01,5.27,Bank Transfer
+ORD-10430,04/01/2024,Chen Johansson,Corporate,Colombia,South America,Furniture,Corner L-Shaped Desk,1,246.96,10,222.26,10.51,63.57,PayPal
+ORD-10673,06/01/2024,Jessica Kim,Corporate,Brazil,South America,Office Supplies,Premium Notebook Set A5,5,17.43,0,87.15,13.79,34.14,Credit Card
+ORD-10962,09/01/2024,Ayumi Suzuki,Corporate,Colombia,South America,Clothing & Accessories,Sports Water Bottle 750ml,6,12.29,5,70.05,13.2,19.98,Bank Transfer
+ORD-11431,13/01/2024,Karen Wang,Home Office,Colombia,South America,Clothing & Accessories,Polarized Sunglasses,1,21.54,15,18.31,12.49,-4.95,Credit Card
+ORD-11547,31/01/2024,Mary Russo,Home Office,Argentina,South America,Office Supplies,Binder Clips Assorted 48pc,1,15.66,0,15.66,10.77,-2.16,Credit Card
+ORD-11625,11/02/2024,Jennifer Ali,Corporate,Argentina,South America,Furniture,Corner L-Shaped Desk,8,180.57,10,1300.1,17.58,415.78,Credit Card
+ORD-10338,13/02/2024,,Corporate,Argentina,South America,Technology,Portable External SSD 1TB,1,78.61,5,74.68,11.74,19.7,Credit Card
+ORD-11277,06/03/2024,Sakura Smith,Corporate,Brazil,South America,Furniture,Folding Table Portable,1,127.07,0,127.07,10.8,40.03,Credit Card
+ORD-10841,07/03/2024,Carlos Martinez,Consumer,Colombia,South America,Technology,Tablet Stand Holder,2,27.57,0,55.14,12.15,12.66,PayPal
+ORD-11179,17/03/2024,Noah Müller,Consumer,Colombia,South America,Furniture,Folding Table Portable,2,115.3,5,219.07,13.43,67.28,Cash on Delivery
+ORD-11326,28/03/2024,Patricia Rossi,Consumer,Argentina,South America,Furniture,Folding Table Portable,1,42.6,15,36.21,11.24,-0.59,Bank Transfer
+ORD-10394,31/03/2024,Oscar Kim,Home Office,Argentina,South America,Clothing & Accessories,Silk Tie Collection,8,14.51,20,92.86,27.87,6.95,PayPal
+ORD-10078,07/04/2024,Olivia Nilsson,Consumer,Brazil,South America,Clothing & Accessories,Polarized Sunglasses,5,77.97,5,370.36,20.41,155.03,Credit Card
+ORD-10463,15/04/2024,Ahmed Johansson,Corporate,Brazil,South America,Technology,Noise Cancelling Earbuds,14,118.27,10,1490.2,40.44,539.08,Credit Card
+ORD-11607,21/04/2024,Sophie White,Corporate,Argentina,South America,Furniture,Standing Desk Converter,2,123.37,20,197.39,14.52,34.83,Credit Card
+ORD-11675,22/04/2024,Karen Sato,Corporate,Brazil,South America,Furniture,Corner L-Shaped Desk,8,363.39,10,2616.41,27.16,844.98,Credit Card
+ORD-11373,23/04/2024,Layla Li,Consumer,Brazil,South America,Technology,Laptop Stand Adjustable,3,79.82,5,227.49,13.83,81.96,PayPal
+ORD-11546,24/04/2024,Kenji Sharma,Corporate,Brazil,South America,Technology,Portable External SSD 1TB,2,128.49,20,205.58,11.38,52.86,Bank Transfer
+ORD-11108,28/04/2024,Carlos Robinson,Corporate,Brazil,South America,Technology,Mechanical Gaming Keyboard,1,128.34,15,109.09,11.04,27.46,Bank Transfer
+ORD-10804,29/04/2024,Jamal Khan,Corporate,Colombia,South America,Technology,USB-C Hub Multiport Adapter,2,52.77,30,73.88,14.69,1.14,Credit Card
+ORD-10049,09/05/2024,Priya Leroy,Consumer,Brazil,South America,Office Supplies,Highlighters Neon Pack 6,1,9.55,5,9.07,11.92,-7.15,PayPal
+ORD-10224,17/05/2024,Sophie Schmidt,Consumer,Brazil,South America,Technology,Smart LED Desk Lamp,3,26.2,10,70.74,15.66,11.85,Credit Card
+ORD-10335,27/05/2024,Olivia Davis,Home Office,Colombia,South America,Office Supplies,Binder Clips Assorted 48pc,5,11.19,15,47.56,22.11,0.27,PayPal
+ORD-10584,28/05/2024,Fatima Smith,Consumer,Argentina,South America,Clothing & Accessories,Polarized Sunglasses,6,79.95,0,479.7,23.09,216.76,Credit Card
+ORD-11765,29/05/2024,Emma Weber,Corporate,Colombia,South America,Office Supplies,Whiteboard Markers Set 8,4,15.35,10,55.26,13.12,14.51,Cash on Delivery
+ORD-11803,07/06/2024,Wei Costa,Home Office,Argentina,South America,Clothing & Accessories,Polarized Sunglasses,1,47.83,20,38.26,10.96,3.38,Credit Card
+ORD-10302,09/06/2024,Emma Tanaka,Home Office,Argentina,South America,Furniture,Monitor Riser Wood,3,26.36,15,67.22,14.59,5.18,PayPal
+ORD-10897,12/06/2024,,Consumer,Colombia,South America,Technology,Tablet Stand Holder,3,44.11,0,132.33,13.19,46.36,Credit Card
+ORD-10556,18/06/2024,Pierre Jackson,Corporate,Argentina,South America,Furniture,Bookshelf 5-Tier,6,84.46,10,456.08,22.68,129.34,Credit Card
+ORD-11340,19/06/2024,Carlos Thompson,Consumer,Argentina,South America,Technology,Wireless Bluetooth Headphones,1,214.3,5,203.59,11.22,74.5,Credit Card
+ORD-10278,24/06/2024,Marco Sharma,Consumer,Argentina,South America,Furniture,Standing Desk Converter,7,303.29,15,1804.58,18.54,512.22,PayPal
+ORD-10012,26/06/2024,Thomas Rodriguez,Corporate,Brazil,South America,Furniture,Folding Table Portable,1,78.08,10,70.27,11.96,11.46,Credit Card
+ORD-11636,07/07/2024,Ingrid Davis,Consumer,Argentina,South America,Technology,Tablet Stand Holder,5,17.3,15,73.52,16.43,9.51,Cash on Delivery
+ORD-10590,28/07/2024,Hans White,Home Office,Brazil,South America,Furniture,Folding Table Portable,1,58.82,15,50.0,11.29,3.42,Cash on Delivery
+ORD-10867,05/08/2024,Hans Hassan,Corporate,Argentina,South America,Clothing & Accessories,Polarized Sunglasses,2,54.24,15,92.21,12.61,25.36,Credit Card
+ORD-11446,16/08/2024,Wei Suzuki,Consumer,Argentina,South America,Clothing & Accessories,Travel Backpack 30L,6,98.0,15,499.8,20.34,185.46,Credit Card
+ORD-11942,18/08/2024,Lucas Laurent,Consumer,Colombia,South America,Technology,Smart LED Desk Lamp,4,63.57,0,254.28,18.63,95.8,Credit Card
+ORD-11132,24/08/2024,Jamal Nilsson,Consumer,Argentina,South America,Office Supplies,Binder Clips Assorted 48pc,8,9.6,15,65.28,27.55,3.17,PayPal
+ORD-10174,06/09/2024,Clara Schmidt,Corporate,Brazil,South America,Office Supplies,Ballpoint Pen Pack 12,6,13.5,15,68.85,14.12,18.28,Credit Card
+ORD-11124,07/09/2024,Omar Weber,Home Office,Brazil,South America,Clothing & Accessories,Canvas Messenger Bag,1,31.92,0,31.92,12.07,3.89,Cash on Delivery
+ORD-10208,10/09/2024,Ivan Thomas,Home Office,Colombia,South America,Technology,Portable External SSD 1TB,2,68.4,0,136.8,13.66,47.9,PayPal
+ORD-11644,11/09/2024,Joseph Romano,Consumer,Brazil,South America,Office Supplies,Highlighters Neon Pack 6,2,8.93,10,16.07,14.32,-6.29,Credit Card
+ORD-11473,16/09/2024,Zara Clark,Consumer,Brazil,South America,Furniture,Floating Wall Shelves Set,3,64.94,20,155.86,11.57,27.4,PayPal
+ORD-10141,22/09/2024,Mia Ali,Corporate,Colombia,South America,Office Supplies,Premium Notebook Set A5,2,18.15,15,30.85,14.89,-0.38,PayPal
+ORD-11925,23/09/2024,Sarah Miller,Corporate,Colombia,South America,Technology,Smart LED Desk Lamp,3,55.32,10,149.36,16.68,41.4,PayPal
+ORD-11440,24/09/2024,Wei Patel,Corporate,Colombia,South America,Technology,Tablet Stand Holder,5,18.67,5,88.68,14.38,22.96,Cash on Delivery
+ORD-11947,30/09/2024,Olivia Johnson,Corporate,Brazil,South America,Technology,Mechanical Gaming Keyboard,1,165.01,10,148.51,11.03,46.72,PayPal
+ORD-10296,02/10/2024,Michael Tanaka,Consumer,Colombia,South America,Clothing & Accessories,Business Casual Blazer,1,41.43,10,37.29,12.06,4.51,Cash on Delivery
+ORD-10988,06/10/2024,Oscar Martinez,Corporate,Colombia,South America,Clothing & Accessories,Travel Backpack 30L,5,34.24,10,154.08,20.25,48.23,Credit Card
+ORD-10168,17/10/2024,Isabella Schmidt,Consumer,Argentina,South America,Clothing & Accessories,Wool Blend Scarf,1,29.08,15,24.72,11.98,-1.8,Credit Card
+ORD-10443,24/10/2024,Elizabeth Patel,Consumer,Argentina,South America,Technology,Laptop Stand Adjustable,1,40.25,5,38.24,12.49,3.61,Credit Card
+ORD-11267,29/10/2024,Li Rossi,Corporate,Brazil,South America,Technology,USB-C Hub Multiport Adapter,3,45.95,15,117.17,15.95,25.4,Cash on Delivery
+ORD-11319,30/10/2024,Raj Sato,Corporate,Brazil,South America,Office Supplies,Binder Clips Assorted 48pc,9,11.89,10,96.31,25.6,22.56,PayPal
+ORD-10433,09/11/2024,Mary Fischer,Consumer,Colombia,South America,Furniture,Monitor Riser Wood,1,40.91,20,32.73,12.0,-3.82,Bank Transfer
+ORD-10785,09/11/2024,Ayumi Laurent,Consumer,Argentina,South America,Furniture,Mesh Back Task Chair,2,288.51,0,577.02,13.32,217.49,Bank Transfer
+ORD-11043,28/11/2024,Liam Patel,Home Office,Argentina,South America,Office Supplies,Whiteboard Markers Set 8,7,17.17,20,96.15,24.44,17.62,PayPal
+ORD-10491,01/12/2024,Sarah Santos,Consumer,Colombia,South America,Technology,Portable External SSD 1TB,6,62.59,0,375.54,23.28,145.71,Credit Card
+ORD-10701,03/12/2024,Yuki Thomas,Corporate,Brazil,South America,Furniture,Corner L-Shaped Desk,1,446.58,15,379.59,10.59,101.05,Credit Card
+ORD-10645,14/12/2024,Ahmed Thomas,Corporate,Colombia,South America,Furniture,Corner L-Shaped Desk,2,329.54,0,659.08,12.54,251.09,PayPal
+ORD-10994,15/12/2024,Jessica Nilsson,Home Office,Brazil,South America,Office Supplies,Stapler Full-Size,7,13.74,5,91.37,21.95,26.14,Cash on Delivery
+ORD-10973,08/01/2025,Richard Rossi,Consumer,Brazil,South America,Office Supplies,Stapler Full-Size,2,12.48,10,22.46,12.39,-1.16,Bank Transfer
+ORD-10702,19/01/2025,Marco Kim,Home Office,Argentina,South America,Office Supplies,Binder Clips Assorted 48pc,2,5.74,20,9.18,13.02,-9.01,Credit Card
+ORD-11359,20/01/2025,Michael Nilsson,Corporate,Argentina,South America,Technology,Noise Cancelling Earbuds,2,95.46,10,171.83,14.34,52.48,Credit Card
+ORD-11351,29/01/2025,Raj Garcia,Consumer,Argentina,South America,Technology,Laptop Stand Adjustable,7,63.72,20,356.83,27.31,84.2,Credit Card
+ORD-10308,03/02/2025,Christopher Clark,Corporate,Colombia,South America,Technology,Noise Cancelling Earbuds,1,62.62,10,56.36,11.29,10.63,PayPal
+ORD-11120,25/02/2025,Raj Martinez,Consumer,Brazil,South America,Technology,Wireless Bluetooth Headphones,9,107.1,0,963.9,24.75,409.0,PayPal
+ORD-10657,27/02/2025,Jamal Singh,Home Office,Colombia,South America,Technology,USB-C Hub Multiport Adapter,7,59.14,15,351.88,23.53,100.66,Credit Card
+ORD-11275,05/03/2025,Jennifer Thomas,Consumer,Brazil,South America,Clothing & Accessories,Travel Backpack 30L,3,55.66,5,158.63,16.73,58.41,Cash on Delivery
+ORD-10619,11/03/2025,John Rodriguez,Consumer,Argentina,South America,Technology,Smart LED Desk Lamp,2,28.19,5,53.56,12.32,10.23,Cash on Delivery
+ORD-11249,12/03/2025,Susan White,Home Office,Brazil,South America,Technology,Wireless Ergonomic Mouse,9,45.95,20,330.84,24.56,78.83,Credit Card
+ORD-11856,04/04/2025,Kenji Martin,Home Office,Colombia,South America,Office Supplies,Premium Notebook Set A5,2,13.42,5,25.5,12.38,1.04,PayPal
+ORD-10123,11/04/2025,Priya Patel,Home Office,Brazil,South America,Furniture,Bookshelf 5-Tier,1,193.39,10,174.05,12.06,45.96,Credit Card
+ORD-10148,13/04/2025,Sarah Smith,Home Office,Brazil,South America,Office Supplies,Highlighters Neon Pack 6,1,8.77,20,7.02,11.14,-8.07,PayPal
+ORD-10990,14/04/2025,Richard Yamamoto,Corporate,Argentina,South America,Furniture,Corner L-Shaped Desk,2,165.71,0,331.42,12.42,120.15,Bank Transfer
+ORD-10966,20/04/2025,Wei Li,Corporate,Brazil,South America,Technology,Wireless Ergonomic Mouse,5,61.12,20,244.48,22.01,54.39,Credit Card
+ORD-11656,20/04/2025,Hans Kumar,Consumer,Brazil,South America,Technology,Tablet Stand Holder,4,25.36,20,81.15,14.4,10.96,Cash on Delivery
+ORD-10626,22/04/2025,David Chen,Corporate,Argentina,South America,Clothing & Accessories,Sports Water Bottle 750ml,2,10.67,15,18.14,13.02,-5.55,Bank Transfer
+ORD-10854,26/04/2025,Ingrid Robinson,Home Office,Argentina,South America,Technology,Mechanical Gaming Keyboard,1,172.2,0,172.2,12.38,65.11,Credit Card
+ORD-11469,01/05/2025,Jennifer Harris,Corporate,Colombia,South America,Clothing & Accessories,Travel Backpack 30L,8,34.0,30,190.4,15.18,39.22,Cash on Delivery
+ORD-10698,06/05/2025,Joseph Thompson,Consumer,Colombia,South America,Technology,Wireless Bluetooth Headphones,1,82.26,10,74.03,11.14,17.65,Credit Card
+ORD-10911,06/05/2025,Xiao Sharma,Consumer,Argentina,South America,Clothing & Accessories,Polarized Sunglasses,1,29.71,0,29.71,11.72,3.13,PayPal
+ORD-11389,08/05/2025,Fatima Yamamoto,Consumer,Brazil,South America,Office Supplies,Desk Calendar 2025,7,17.16,0,120.12,18.68,47.39,PayPal
+ORD-10849,09/05/2025,Zara Miller,Consumer,Argentina,South America,Clothing & Accessories,Wool Blend Scarf,2,26.13,0,52.26,14.83,11.3,PayPal
+ORD-11873,11/05/2025,Susan Garcia,Corporate,Argentina,South America,Office Supplies,Whiteboard Markers Set 8,1,6.93,10,6.24,12.29,-9.17,PayPal
+ORD-11978,13/05/2025,Ingrid Davis,Corporate,Colombia,South America,Technology,Smart LED Desk Lamp,1,38.1,5,36.2,11.13,4.12,PayPal
+ORD-11611,15/05/2025,Olga Kim,Corporate,Argentina,South America,Office Supplies,Highlighters Neon Pack 6,2,5.41,10,9.74,11.11,-6.24,Credit Card
+ORD-10685,18/05/2025,William Zhang,Consumer,Brazil,South America,Office Supplies,Desk Calendar 2025,3,12.72,25,28.62,16.83,-5.38,PayPal
+ORD-11116,06/06/2025,Mia Brown,Consumer,Colombia,South America,Technology,Portable External SSD 1TB,3,91.93,5,262.0,17.1,93.22,Cash on Delivery
+ORD-11105,14/06/2025,Diego Suzuki,Corporate,Brazil,South America,Technology,Mechanical Gaming Keyboard,8,84.99,5,645.92,16.53,255.43,Credit Card
+ORD-11388,12/07/2025,Chen Ali,Corporate,Colombia,South America,Furniture,Folding Table Portable,1,117.46,10,105.71,11.69,23.54,PayPal
+ORD-11012,20/07/2025,Diego Russo,Consumer,Colombia,South America,Furniture,Bookshelf 5-Tier,7,123.59,0,865.13,17.52,328.53,Bank Transfer
+ORD-10036,23/07/2025,Xiao Brown,Corporate,Brazil,South America,Technology,Wireless Ergonomic Mouse,12,53.38,10,576.5,38.8,185.39,Cash on Delivery
+ORD-10065,24/07/2025,Raj Sato,Home Office,Brazil,South America,Office Supplies,Binder Clips Assorted 48pc,3,7.1,10,19.17,12.32,-2.73,Credit Card
+ORD-11525,26/07/2025,Omar Russo,Corporate,Colombia,South America,Office Supplies,Highlighters Neon Pack 6,8,5.71,10,41.11,26.4,-5.85,PayPal
+ORD-10770,01/08/2025,Amir Thompson,Corporate,Colombia,South America,Technology,Webcam HD 1080p,5,81.71,20,326.84,22.16,79.98,PayPal
+ORD-10310,02/08/2025,Michael Oliveira,Corporate,Colombia,South America,Office Supplies,Ballpoint Pen Pack 12,1,8.78,0,8.78,11.95,-7.12,PayPal
+ORD-10985,10/08/2025,Ethan Wang,Corporate,Brazil,South America,Technology,Wireless Bluetooth Headphones,2,139.35,10,250.83,11.26,86.29,Cash on Delivery
+ORD-11905,24/08/2025,Xiao Santos,Consumer,Colombia,South America,Technology,Wireless Bluetooth Headphones,5,175.98,0,879.9,21.15,374.8,Bank Transfer
+ORD-10185,08/09/2025,Sarah Clark,Consumer,Brazil,South America,Furniture,Mesh Back Task Chair,2,293.43,10,528.17,12.96,163.09,PayPal
+ORD-11831,14/09/2025,Raj Thompson,Consumer,Argentina,South America,Office Supplies,Sticky Notes Multicolor 6-Pack,2,14.53,15,24.7,12.13,-0.51,Bank Transfer
+ORD-11748,19/09/2025,Susan Laurent,Home Office,Colombia,South America,Office Supplies,Tape Dispenser Heavy Duty,6,20.04,10,108.22,13.93,40.18,PayPal
+ORD-10653,22/09/2025,Amir Ferrari,Corporate,Argentina,South America,Furniture,Desk Organizer Set,2,42.2,15,71.74,12.37,8.73,Credit Card
+ORD-11832,07/10/2025,Giulia Garcia,Corporate,Argentina,South America,Office Supplies,Premium Notebook Set A5,1,9.26,10,8.33,10.71,-6.55,Credit Card
+ORD-10981,09/10/2025,Sophie Leroy,Consumer,Brazil,South America,Technology,Mechanical Gaming Keyboard,1,81.9,10,73.71,10.93,17.73,Credit Card
+ORD-10099,11/10/2025,Robert Khan,Consumer,Argentina,South America,Technology,Tablet Stand Holder,1,31.02,15,26.37,11.99,-2.68,Credit Card
+ORD-11232,20/10/2025,Felix Fischer,Corporate,Argentina,South America,Office Supplies,Desk Calendar 2025,1,18.81,20,15.05,11.78,-5.19,Cash on Delivery
+ORD-11500,29/10/2025,Ali Yamamoto,Consumer,Brazil,South America,Clothing & Accessories,Cotton Formal Shirt,1,40.55,15,34.47,11.54,2.66,PayPal
+ORD-11125,01/11/2025,Sophie Schmidt,Home Office,Colombia,South America,Furniture,Mesh Back Task Chair,2,178.05,0,356.1,11.65,130.79,PayPal
+ORD-11608,01/11/2025,Isabella Sato,Consumer,Argentina,South America,Clothing & Accessories,Travel Backpack 30L,6,92.98,0,557.88,18.67,260.27,PayPal
+ORD-11348,11/11/2025,Liam Sharma,Consumer,Colombia,South America,Office Supplies,Highlighters Neon Pack 6,5,6.76,15,28.73,18.0,-4.48,Credit Card
+ORD-10062,19/11/2025,Liam Martin,Consumer,Argentina,South America,Clothing & Accessories,Business Casual Blazer,3,112.34,5,320.17,12.63,139.03,Credit Card
+ORD-10749,21/11/2025,Jessica Hassan,Home Office,Argentina,South America,Office Supplies,Tape Dispenser Heavy Duty,7,12.82,5,85.25,25.24,19.63,Bank Transfer
+ORD-11163,28/11/2025,Jessica Pereira,Consumer,Argentina,South America,Office Supplies,Highlighters Neon Pack 6,6,10.63,0,63.78,17.67,17.41,Credit Card
+ORD-11927,02/12/2025,Pierre Suzuki,Corporate,Colombia,South America,Office Supplies,Desk Calendar 2025,2,12.44,10,22.39,11.74,-0.55,PayPal
+ORD-11693,10/12/2025,Carlos Rodriguez,Corporate,Brazil,South America,Furniture,Bookshelf 5-Tier,3,194.57,0,583.71,13.8,219.68,Credit Card
+ORD-10766,28/12/2025,Xiao Robinson,Consumer,Brazil,South America,Clothing & Accessories,Business Casual Blazer,1,77.11,5,73.25,12.16,22.54,PayPal
+ORD-10675,29/12/2025,Sophie Clark,Consumer,Argentina,South America,Furniture,Folding Table Portable,2,84.14,20,134.62,14.99,18.66,PayPal
