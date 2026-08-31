@@ -1,0 +1,5 @@
+# Ignore dynamically generated logs and outputs
+logs/
+
+# Ignore OS-specific system files
+.DS_Store
