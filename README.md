@@ -17,21 +17,21 @@ The pipeline decomposes the data integration process into parallel cleaning step
 ```mermaid
 graph TD
     %% Source Datasets
-    subgraph Raw Input Shards
-        NA[sales_north_america.csv]
-        EU[sales_europe.csv]
-        MEA[sales_middle_east_africa.csv]
-        AP[sales_asia_pacific.csv]
-        SA[sales_south_america.csv]
+    subgraph shards ["Raw Input Shards"]
+        NA["sales_north_america.csv"]
+        EU["sales_europe.csv"]
+        MEA["sales_middle_east_africa.csv"]
+        AP["sales_asia_pacific.csv"]
+        SA["sales_south_america.csv"]
     end
 
     %% Processing/Cleaning Subtasks
-    subgraph Data Transformation (Parallel Cleaners)
-        CleanNA[Clean & Map NA<br/>• Calculate Sales<br/>• YYYY-MM-DD]
-        CleanEU[Clean & Map EU<br/>• Rename Date/Segment<br/>• Drop Returns<br/>• DD/MM/YYYY]
-        CleanMEA[Clean & Map MEA<br/>• Impute Quantities<br/>• Rename Sales/Discount<br/>• MM-DD-YYYY]
-        CleanAP[Clean & Map AP<br/>• Rename Earnings<br/>• Filter Discounts<br/>• YYYY-MM-DD]
-        CleanSA[Clean & Map SA<br/>• Rename Fee/ID<br/>• Drop Empty Names<br/>• DD/MM/YYYY]
+    subgraph transformation ["Data Transformation (Parallel Cleaners)"]
+        CleanNA["Clean & Map NA<br/>• Calculate Sales<br/>• YYYY-MM-DD"]
+        CleanEU["Clean & Map EU<br/>• Rename Date/Segment<br/>• Drop Returns<br/>• DD/MM/YYYY"]
+        CleanMEA["Clean & Map MEA<br/>• Impute Quantities<br/>• Rename Sales/Discount<br/>• MM-DD-YYYY"]
+        CleanAP["Clean & Map AP<br/>• Rename Earnings<br/>• Filter Discounts<br/>• YYYY-MM-DD"]
+        CleanSA["Clean & Map SA<br/>• Rename Fee/ID<br/>• Drop Empty Names<br/>• DD/MM/YYYY"]
     end
 
     %% Connections to cleaners
@@ -42,9 +42,9 @@ graph TD
     SA --> CleanSA
 
     %% Consolidation Subtask
-    subgraph Reporting & Synthesis
-        Synth[Synthesize Reports<br/>• Calculate Global Metrics<br/>• Regional Performance Breakdown<br/>• Customer Segment Distribution<br/>• Top Product Categories]
-        Output[output.json]
+    subgraph reporting ["Reporting & Synthesis"]
+        Synth["Synthesize Reports<br/>• Calculate Global Metrics<br/>• Regional Performance Breakdown<br/>• Customer Segment Distribution<br/>• Top Product Categories"]
+        Output["output.json"]
     end
 
     %% Connections to synthesis
@@ -55,6 +55,7 @@ graph TD
     CleanSA --> Synth
     Synth --> Output
 ```
+
 
 ---
 
@@ -110,7 +111,7 @@ To ensure 100% data integrity, the pipeline processes each file using the follow
 5.  **Handle Missing Quantities & Re-Calculate Sales**:
     *   If `Quantity` is missing or null, impute it with `1`.
     *   If `Quantity` was missing, OR if `Total_Sales` is missing or null, recalculate `Total_Sales` as:
-        $$\text{Total\_Sales} = \text{Quantity} \times \text{Unit\_Price} \times \left(1 - \frac{\text{Discount\_Percent}}{100.0}\right)$$
+        $$\text{Total Sales} = \text{Quantity} \times \text{Unit Price} \times \left(1 - \frac{\text{Discount Percent}}{100}\right)$$
         *Value is rounded to 2 decimal places.*
 6.  **Date Format Standardization**:
     *   Convert `DD/MM/YYYY` (Europe, South America) and `MM-DD-YYYY` (Middle East & Africa) to standard `YYYY-MM-DD` (North America, Asia Pacific).
