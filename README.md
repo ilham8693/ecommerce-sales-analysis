@@ -2,7 +2,6 @@
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/library-pandas-orange.svg)](https://pandas.pydata.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 An enterprise-grade data cleaning, schema reconciliation, and synthesis pipeline designed to process heterogeneous, messy regional sales data. The project simulates an ETL (Extract, Transform, Load) workflow that ingests sales CSV datasets from five global divisions (North America, Europe, Middle East & Africa, Asia Pacific, and South America), cleans them according to strict regional rules, standardizes their schemas, and compiles a comprehensive unified JSON report.
 
@@ -203,8 +202,7 @@ The final report contains metadata, global performance aggregates, and a granula
         "Corporate": 182,
         "Home Office": 116
       }
-    },
-    ...
+    }
   }
 }
 ```
